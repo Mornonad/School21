@@ -1,0 +1,4936 @@
+,ingredient,nutrientName,value
+0,almond,Protein,14.0
+1,almond,Total lipid (fat),31.0
+2,almond,"Calcium, Ca",27.0
+3,almond,"Iron, Fe",19.0
+4,almond,"Magnesium, Mg",66.0
+5,almond,"Phosphorus, P",41.0
+6,almond,"Potassium, K",16.0
+7,almond,"Sodium, Na",10.0
+8,almond,"Zinc, Zn",30.0
+9,almond,"Copper, Cu",104.0
+10,almond,"Selenium, Se",4.0
+11,almond,"Vitamin A, RAE",0.0
+12,almond,Vitamin E (alpha-tocopherol),161.0
+13,almond,Vitamin D (D2 + D3),0.0
+14,almond,"Vitamin C, total ascorbic acid",0.0
+15,almond,Thiamin,3.0
+16,almond,Riboflavin,72.0
+17,almond,Niacin,20.0
+18,almond,Vitamin B-6,6.0
+19,almond,Vitamin B-12,0.0
+20,almond,"Choline, total",9.0
+21,almond,Vitamin K (phylloquinone),0.0
+22,almond,Cholesterol,0.0
+23,almond,"Fatty acids, total saturated",5.0
+24,amaretto,Protein,0.0
+25,amaretto,Total lipid (fat),6.0
+26,amaretto,"Calcium, Ca",0.0
+27,amaretto,"Iron, Fe",0.0
+28,amaretto,"Potassium, K",0.0
+29,amaretto,"Sodium, Na",3.0
+30,amaretto,Cholesterol,0.0
+31,amaretto,"Fatty acids, total saturated",3.0
+32,anchovy,Protein,19.0
+33,anchovy,Total lipid (fat),5.0
+34,anchovy,"Calcium, Ca",18.0
+35,anchovy,"Iron, Fe",26.0
+36,anchovy,"Magnesium, Mg",16.0
+37,anchovy,"Phosphorus, P",20.0
+38,anchovy,"Potassium, K",12.0
+39,anchovy,"Sodium, Na",160.0
+40,anchovy,"Zinc, Zn",22.0
+41,anchovy,"Copper, Cu",38.0
+42,anchovy,"Selenium, Se",124.0
+43,anchovy,"Vitamin A, RAE",1.0
+44,anchovy,Vitamin E (alpha-tocopherol),22.0
+45,anchovy,Vitamin D (D2 + D3),8.0
+46,anchovy,"Vitamin C, total ascorbic acid",0.0
+47,anchovy,Thiamin,6.0
+48,anchovy,Riboflavin,28.0
+49,anchovy,Niacin,124.0
+50,anchovy,Vitamin B-6,12.0
+51,anchovy,Vitamin B-12,37.0
+52,anchovy,"Choline, total",15.0
+53,anchovy,Vitamin K (phylloquinone),10.0
+54,anchovy,Cholesterol,28.0
+55,anchovy,"Fatty acids, total saturated",2.0
+56,anise,"Calcium, Ca",50.0
+57,anise,Total lipid (fat),9.0
+58,anise,"Potassium, K",31.0
+59,anise,"Zinc, Zn",48.0
+60,anise,Niacin,19.0
+61,anise,Pantothenic acid,16.0
+62,anise,Protein,12.0
+63,anise,"Vitamin C, total ascorbic acid",23.0
+64,anise,Thiamin,28.0
+65,anise,Riboflavin,22.0
+66,anise,Vitamin B-12,0.0
+67,anise,Cholesterol,0.0
+68,anise,"Iron, Fe",206.0
+69,anise,"Magnesium, Mg",40.0
+70,anise,"Phosphorus, P",35.0
+71,anise,"Sodium, Na",1.0
+72,anise,"Copper, Cu",101.0
+73,anise,"Manganese, Mn",100.0
+74,anise,"Selenium, Se",9.0
+75,anise,"Fatty acids, total saturated",0.0
+76,anise,Vitamin B-6,38.0
+77,anise,"Vitamin A, RAE",2.0
+78,anise,Vitamin D (D2 + D3),0.0
+79,apple,"Calcium, Ca",0.0
+80,apple,"Iron, Fe",1.0
+81,apple,"Sodium, Na",0.0
+82,apple,"Vitamin C, total ascorbic acid",3.0
+83,apple,Cholesterol,0.0
+84,apple,"Fatty acids, total saturated",0.0
+85,apple,Protein,0.0
+86,apple,"Potassium, K",2.0
+87,apple,Total lipid (fat),0.0
+88,apple juice,Protein,0.0
+89,apple juice,Total lipid (fat),0.0
+90,apple juice,"Calcium, Ca",0.0
+91,apple juice,"Iron, Fe",0.0
+92,apple juice,"Potassium, K",1.0
+93,apple juice,"Sodium, Na",0.0
+94,apple juice,Cholesterol,0.0
+95,apple juice,"Fatty acids, total saturated",0.0
+96,apricot,Protein,0.0
+97,apricot,Total lipid (fat),0.0
+98,apricot,"Potassium, K",2.0
+99,apricot,"Sodium, Na",0.0
+100,apricot,"Vitamin C, total ascorbic acid",20.0
+101,artichoke,Protein,1.0
+102,artichoke,Total lipid (fat),4.0
+103,artichoke,"Calcium, Ca",0.0
+104,artichoke,"Iron, Fe",3.0
+105,artichoke,"Sodium, Na",13.0
+106,artichoke,"Vitamin C, total ascorbic acid",0.0
+107,artichoke,Cholesterol,0.0
+108,artichoke,"Fatty acids, total saturated",1.0
+109,arugula,Protein,2.0
+110,arugula,Total lipid (fat),0.0
+111,arugula,"Calcium, Ca",14.0
+112,arugula,"Iron, Fe",7.0
+113,arugula,"Sodium, Na",1.0
+114,arugula,"Vitamin C, total ascorbic acid",16.0
+115,arugula,Cholesterol,0.0
+116,arugula,"Fatty acids, total saturated",0.0
+117,asian pear,Protein,0.0
+118,asian pear,Total lipid (fat),0.0
+119,asian pear,"Calcium, Ca",0.0
+120,asian pear,"Iron, Fe",0.0
+121,asian pear,"Magnesium, Mg",2.0
+122,asian pear,"Phosphorus, P",1.0
+123,asian pear,"Potassium, K",3.0
+124,asian pear,"Sodium, Na",0.0
+125,asian pear,"Zinc, Zn",0.0
+126,asian pear,"Copper, Cu",6.0
+127,asian pear,"Selenium, Se",0.0
+128,asian pear,"Vitamin A, RAE",0.0
+129,asian pear,Vitamin E (alpha-tocopherol),1.0
+130,asian pear,Vitamin D (D2 + D3),0.0
+131,asian pear,"Vitamin C, total ascorbic acid",4.0
+132,asian pear,Thiamin,1.0
+133,asian pear,Riboflavin,1.0
+134,asian pear,Niacin,1.0
+135,asian pear,Vitamin B-6,1.0
+136,asian pear,Vitamin B-12,0.0
+137,asian pear,"Choline, total",1.0
+138,asian pear,Vitamin K (phylloquinone),4.0
+139,asian pear,Cholesterol,0.0
+140,asian pear,"Fatty acids, total saturated",0.0
+141,asparagus,Protein,2.0
+142,asparagus,Total lipid (fat),0.0
+143,asparagus,"Calcium, Ca",2.0
+144,asparagus,"Iron, Fe",12.0
+145,asparagus,"Potassium, K",4.0
+146,asparagus,"Sodium, Na",0.0
+147,asparagus,"Vitamin C, total ascorbic acid",7.0
+148,asparagus,Cholesterol,0.0
+149,asparagus,"Fatty acids, total saturated",0.0
+150,avocado,Protein,1.0
+151,avocado,Total lipid (fat),24.0
+152,avocado,"Calcium, Ca",3.0
+153,avocado,"Iron, Fe",2.0
+154,avocado,"Magnesium, Mg",2.0
+155,avocado,"Phosphorus, P",2.0
+156,avocado,"Potassium, K",1.0
+157,avocado,"Sodium, Na",38.0
+158,avocado,"Zinc, Zn",2.0
+159,avocado,"Copper, Cu",1.0
+160,avocado,"Selenium, Se",3.0
+161,avocado,"Vitamin A, RAE",1.0
+162,avocado,Vitamin E (alpha-tocopherol),31.0
+163,avocado,Vitamin D (D2 + D3),0.0
+164,avocado,"Vitamin C, total ascorbic acid",0.0
+165,avocado,Thiamin,2.0
+166,avocado,Riboflavin,4.0
+167,avocado,Niacin,1.0
+168,avocado,Vitamin B-6,1.0
+169,avocado,Vitamin B-12,11.0
+170,avocado,"Choline, total",1.0
+171,avocado,Vitamin K (phylloquinone),81.0
+172,avocado,Cholesterol,13.0
+173,avocado,"Fatty acids, total saturated",5.0
+174,bacon,Protein,5.0
+175,bacon,Total lipid (fat),28.0
+176,bacon,"Calcium, Ca",0.0
+177,bacon,"Iron, Fe",0.0
+178,bacon,"Sodium, Na",34.0
+179,bacon,"Vitamin C, total ascorbic acid",0.0
+180,bacon,Cholesterol,24.0
+181,bacon,"Fatty acids, total saturated",15.0
+182,banana,Protein,8.0
+183,banana,Total lipid (fat),4.0
+184,banana,"Calcium, Ca",10.0
+185,banana,"Iron, Fe",6.0
+186,banana,"Sodium, Na",26.0
+187,banana,"Vitamin C, total ascorbic acid",17.0
+188,banana,Cholesterol,0.0
+189,banana,"Fatty acids, total saturated",0.0
+190,barley,Protein,1.0
+191,barley,Total lipid (fat),2.0
+192,barley,"Calcium, Ca",1.0
+193,barley,"Iron, Fe",7.0
+194,barley,"Magnesium, Mg",5.0
+195,barley,"Phosphorus, P",4.0
+196,barley,"Potassium, K",2.0
+197,barley,"Sodium, Na",9.0
+198,barley,"Zinc, Zn",7.0
+199,barley,"Copper, Cu",11.0
+200,barley,"Selenium, Se",15.0
+201,barley,"Vitamin A, RAE",3.0
+202,barley,Vitamin E (alpha-tocopherol),2.0
+203,barley,Vitamin D (D2 + D3),0.0
+204,barley,"Vitamin C, total ascorbic acid",0.0
+205,barley,Thiamin,7.0
+206,barley,Riboflavin,5.0
+207,barley,Niacin,12.0
+208,barley,Vitamin B-6,9.0
+209,barley,Vitamin B-12,0.0
+210,barley,"Choline, total",2.0
+211,barley,Vitamin K (phylloquinone),2.0
+212,barley,Cholesterol,1.0
+213,barley,"Fatty acids, total saturated",1.0
+214,basil,Protein,0.0
+215,basil,Total lipid (fat),0.0
+216,basil,"Sodium, Na",0.0
+217,bass,Protein,11.0
+218,bass,Total lipid (fat),8.0
+219,bass,"Calcium, Ca",2.0
+220,bass,"Iron, Fe",6.0
+221,bass,"Magnesium, Mg",9.0
+222,bass,"Phosphorus, P",14.0
+223,bass,"Potassium, K",5.0
+224,bass,"Sodium, Na",17.0
+225,bass,"Zinc, Zn",4.0
+226,bass,"Copper, Cu",5.0
+227,bass,"Selenium, Se",56.0
+228,bass,"Vitamin A, RAE",4.0
+229,bass,Vitamin E (alpha-tocopherol),17.0
+230,bass,Vitamin D (D2 + D3),22.0
+231,bass,"Vitamin C, total ascorbic acid",0.0
+232,bass,Thiamin,18.0
+233,bass,Riboflavin,12.0
+234,bass,Niacin,14.0
+235,bass,Vitamin B-6,17.0
+236,bass,Vitamin B-12,10.0
+237,bass,"Choline, total",10.0
+238,bass,Vitamin K (phylloquinone),11.0
+239,bass,Cholesterol,12.0
+240,bass,"Fatty acids, total saturated",2.0
+241,bean,Protein,4.0
+242,bean,Total lipid (fat),2.0
+243,bean,"Calcium, Ca",2.0
+244,bean,"Iron, Fe",9.0
+245,bean,"Magnesium, Mg",10.0
+246,bean,"Phosphorus, P",8.0
+247,bean,"Potassium, K",8.0
+248,bean,"Sodium, Na",19.0
+249,bean,"Zinc, Zn",6.0
+250,bean,"Copper, Cu",22.0
+251,bean,"Selenium, Se",14.0
+252,bean,"Vitamin A, RAE",0.0
+253,bean,Vitamin E (alpha-tocopherol),6.0
+254,bean,Vitamin D (D2 + D3),0.0
+255,bean,"Vitamin C, total ascorbic acid",1.0
+256,bean,Thiamin,8.0
+257,bean,Riboflavin,8.0
+258,bean,Niacin,3.0
+259,bean,Vitamin B-6,7.0
+260,bean,Vitamin B-12,0.0
+261,bean,"Choline, total",3.0
+262,bean,Vitamin K (phylloquinone),1.0
+263,bean,Cholesterol,0.0
+264,bean,"Fatty acids, total saturated",0.0
+265,beef,Protein,13.0
+266,beef,Total lipid (fat),3.0
+267,beef,"Calcium, Ca",0.0
+268,beef,"Iron, Fe",24.0
+269,beef,"Sodium, Na",9.0
+270,beef,"Vitamin C, total ascorbic acid",0.0
+271,beef,Cholesterol,18.0
+272,beef,"Fatty acids, total saturated",3.0
+273,beef rib,Protein,14.0
+274,beef rib,"Iron, Fe",10.0
+275,beef rib,"Magnesium, Mg",5.0
+276,beef rib,"Phosphorus, P",15.0
+277,beef rib,"Sodium, Na",2.0
+278,beef rib,"Copper, Cu",5.0
+279,beef rib,"Manganese, Mn",0.0
+280,beef rib,"Vitamin A, RAE",1.0
+281,beef rib,Vitamin D (D2 + D3),1.0
+282,beef rib,"Vitamin C, total ascorbic acid",0.0
+283,beef rib,Thiamin,2.0
+284,beef rib,Riboflavin,7.0
+285,beef rib,Vitamin B-12,49.0
+286,beef rib,Cholesterol,19.0
+287,beef rib,"Fatty acids, total saturated",2.0
+288,beef rib,Total lipid (fat),4.0
+289,beef rib,"Calcium, Ca",1.0
+290,beef rib,"Potassium, K",7.0
+291,beef rib,"Zinc, Zn",36.0
+292,beef rib,"Selenium, Se",5.0
+293,beef rib,Vitamin E (alpha-tocopherol),5.0
+294,beef rib,Niacin,27.0
+295,beef rib,Pantothenic acid,6.0
+296,beef rib,Vitamin B-6,15.0
+297,beef shank,"Selenium, Se",32.0
+298,beef shank,Protein,15.0
+299,beef shank,"Iron, Fe",13.0
+300,beef shank,"Magnesium, Mg",3.0
+301,beef shank,"Phosphorus, P",16.0
+302,beef shank,"Sodium, Na",3.0
+303,beef shank,"Copper, Cu",8.0
+304,beef shank,"Manganese, Mn",1.0
+305,beef shank,"Vitamin C, total ascorbic acid",0.0
+306,beef shank,Thiamin,8.0
+307,beef shank,Riboflavin,17.0
+308,beef shank,Vitamin B-12,139.0
+309,beef shank,Cholesterol,13.0
+310,beef shank,"Fatty acids, total saturated",1.0
+311,beef shank,Total lipid (fat),2.0
+312,beef shank,"Calcium, Ca",2.0
+313,beef shank,"Potassium, K",8.0
+314,beef shank,"Zinc, Zn",63.0
+315,beef shank,Niacin,36.0
+316,beef shank,Pantothenic acid,7.0
+317,beef shank,Vitamin B-6,28.0
+318,beef shank,"Vitamin A, RAE",0.0
+319,beef tenderloin,Protein,14.0
+320,beef tenderloin,Total lipid (fat),4.0
+321,beef tenderloin,"Calcium, Ca",0.0
+322,beef tenderloin,"Iron, Fe",13.0
+323,beef tenderloin,"Sodium, Na",3.0
+324,beef tenderloin,"Vitamin C, total ascorbic acid",0.0
+325,beef tenderloin,Cholesterol,17.0
+326,beef tenderloin,"Fatty acids, total saturated",3.0
+327,beer,Protein,0.0
+328,beer,Total lipid (fat),0.0
+329,beer,"Calcium, Ca",0.0
+330,beer,"Iron, Fe",0.0
+331,beer,"Magnesium, Mg",1.0
+332,beer,"Phosphorus, P",1.0
+333,beer,"Potassium, K",1.0
+334,beer,"Sodium, Na",0.0
+335,beer,"Zinc, Zn",0.0
+336,beer,"Copper, Cu",1.0
+337,beer,"Selenium, Se",1.0
+338,beer,"Vitamin A, RAE",0.0
+339,beer,Vitamin E (alpha-tocopherol),0.0
+340,beer,Vitamin D (D2 + D3),0.0
+341,beer,"Vitamin C, total ascorbic acid",0.0
+342,beer,Thiamin,0.0
+343,beer,Riboflavin,2.0
+344,beer,Niacin,3.0
+345,beer,Vitamin B-6,3.0
+346,beer,Vitamin B-12,1.0
+347,beer,"Choline, total",2.0
+348,beer,Vitamin K (phylloquinone),0.0
+349,beer,Cholesterol,0.0
+350,beer,"Fatty acids, total saturated",0.0
+351,beet,Protein,1.0
+352,beet,Total lipid (fat),0.0
+353,beet,"Calcium, Ca",1.0
+354,beet,"Iron, Fe",2.0
+355,beet,"Magnesium, Mg",4.0
+356,beet,"Phosphorus, P",1.0
+357,beet,"Potassium, K",2.0
+358,beet,"Sodium, Na",6.0
+359,beet,"Zinc, Zn",2.0
+360,beet,"Copper, Cu",13.0
+361,beet,"Selenium, Se",2.0
+362,beet,"Vitamin A, RAE",0.0
+363,beet,Vitamin E (alpha-tocopherol),0.0
+364,beet,Vitamin D (D2 + D3),0.0
+365,beet,"Vitamin C, total ascorbic acid",3.0
+366,beet,Thiamin,1.0
+367,beet,Riboflavin,4.0
+368,beet,Niacin,2.0
+369,beet,Vitamin B-6,3.0
+370,beet,Vitamin B-12,0.0
+371,beet,"Choline, total",3.0
+372,beet,Vitamin K (phylloquinone),0.0
+373,beet,Cholesterol,0.0
+374,beet,"Fatty acids, total saturated",0.0
+375,bell pepper,"Iron, Fe",1.0
+376,bell pepper,"Magnesium, Mg",2.0
+377,bell pepper,"Phosphorus, P",1.0
+378,bell pepper,"Potassium, K",3.0
+379,bell pepper,"Sodium, Na",0.0
+380,bell pepper,"Zinc, Zn",1.0
+381,bell pepper,"Copper, Cu",6.0
+382,bell pepper,"Vitamin C, total ascorbic acid",111.0
+383,bell pepper,Total lipid (fat),0.0
+384,bell pepper,"Manganese, Mn",4.0
+385,bell pepper,Thiamin,3.0
+386,bell pepper,Riboflavin,7.0
+387,bell pepper,Niacin,4.0
+388,bell pepper,"Selenium, Se",0.0
+389,bell pepper,Vitamin B-6,15.0
+390,bell pepper,Biotin,0.0
+391,bell pepper,"Calcium, Ca",1.0
+392,bell pepper,Protein,0.0
+393,berry,Protein,0.0
+394,berry,Total lipid (fat),0.0
+395,berry,"Calcium, Ca",1.0
+396,berry,"Iron, Fe",2.0
+397,berry,"Magnesium, Mg",2.0
+398,berry,"Phosphorus, P",1.0
+399,berry,"Potassium, K",2.0
+400,berry,"Sodium, Na",0.0
+401,berry,"Zinc, Zn",2.0
+402,berry,"Copper, Cu",11.0
+403,berry,"Selenium, Se",1.0
+404,berry,"Vitamin A, RAE",0.0
+405,berry,Vitamin E (alpha-tocopherol),2.0
+406,berry,Vitamin D (D2 + D3),0.0
+407,berry,"Vitamin C, total ascorbic acid",47.0
+408,berry,Thiamin,2.0
+409,berry,Riboflavin,2.0
+410,berry,Niacin,2.0
+411,berry,Vitamin B-6,2.0
+412,berry,Vitamin B-12,0.0
+413,berry,"Choline, total",1.0
+414,berry,Vitamin K (phylloquinone),6.0
+415,berry,Cholesterol,0.0
+416,berry,"Fatty acids, total saturated",0.0
+417,bitters,Protein,1.0
+418,bitters,Total lipid (fat),2.0
+419,bitters,"Calcium, Ca",1.0
+420,bitters,"Iron, Fe",2.0
+421,bitters,"Magnesium, Mg",4.0
+422,bitters,"Phosphorus, P",3.0
+423,bitters,"Potassium, K",7.0
+424,bitters,"Sodium, Na",6.0
+425,bitters,"Zinc, Zn",7.0
+426,bitters,"Copper, Cu",4.0
+427,bitters,"Selenium, Se",0.0
+428,bitters,"Vitamin A, RAE",2.0
+429,bitters,Vitamin E (alpha-tocopherol),3.0
+430,bitters,Vitamin D (D2 + D3),0.0
+431,bitters,"Vitamin C, total ascorbic acid",35.0
+432,bitters,Thiamin,4.0
+433,bitters,Riboflavin,4.0
+434,bitters,Niacin,2.0
+435,bitters,Vitamin B-6,3.0
+436,bitters,Vitamin B-12,0.0
+437,bitters,"Choline, total",2.0
+438,bitters,Vitamin K (phylloquinone),6.0
+439,bitters,Cholesterol,1.0
+440,bitters,"Fatty acids, total saturated",1.0
+441,blackberry,"Sodium, Na",0.0
+442,blackberry,Cholesterol,0.0
+443,blackberry,"Fatty acids, total saturated",0.0
+444,blackberry,Protein,0.0
+445,blackberry,Total lipid (fat),0.0
+446,blackberry,"Calcium, Ca",0.0
+447,blackberry,"Iron, Fe",233.0
+448,blackberry,"Vitamin C, total ascorbic acid",9.0
+449,blue cheese,Protein,14.0
+450,blue cheese,Total lipid (fat),16.0
+451,blue cheese,"Calcium, Ca",41.0
+452,blue cheese,"Iron, Fe",0.0
+453,blue cheese,"Sodium, Na",43.0
+454,blue cheese,"Vitamin C, total ascorbic acid",0.0
+455,blue cheese,Cholesterol,36.0
+456,blue cheese,"Fatty acids, total saturated",15.0
+457,blueberry,Protein,0.0
+458,blueberry,Total lipid (fat),0.0
+459,blueberry,"Sodium, Na",0.0
+460,bok choy,Protein,1.0
+461,bok choy,Total lipid (fat),0.0
+462,bok choy,"Calcium, Ca",8.0
+463,bok choy,"Iron, Fe",5.0
+464,bok choy,"Potassium, K",5.0
+465,bok choy,"Sodium, Na",3.0
+466,bok choy,"Vitamin C, total ascorbic acid",50.0
+467,bok choy,Cholesterol,0.0
+468,bok choy,"Fatty acids, total saturated",0.0
+469,bourbon,Protein,0.0
+470,bourbon,Total lipid (fat),0.0
+471,bourbon,"Sodium, Na",0.0
+472,bran,Protein,6.0
+473,bran,Total lipid (fat),3.0
+474,bran,"Calcium, Ca",7.0
+475,bran,"Iron, Fe",22.0
+476,bran,"Magnesium, Mg",10.0
+477,bran,"Phosphorus, P",10.0
+478,bran,"Potassium, K",3.0
+479,bran,"Sodium, Na",20.0
+480,bran,"Zinc, Zn",10.0
+481,bran,"Copper, Cu",24.0
+482,bran,"Selenium, Se",58.0
+483,bran,"Vitamin A, RAE",0.0
+484,bran,Vitamin E (alpha-tocopherol),0.0
+485,bran,Vitamin D (D2 + D3),0.0
+486,bran,"Vitamin C, total ascorbic acid",0.0
+487,bran,Thiamin,39.0
+488,bran,Riboflavin,24.0
+489,bran,Niacin,28.0
+490,bran,Vitamin B-6,5.0
+491,bran,Vitamin B-12,0.0
+492,bran,"Choline, total",5.0
+493,bran,Vitamin K (phylloquinone),3.0
+494,bran,Cholesterol,0.0
+495,bran,"Fatty acids, total saturated",1.0
+496,brandy,Protein,0.0
+497,brandy,Total lipid (fat),0.0
+498,brandy,"Calcium, Ca",0.0
+499,brandy,"Iron, Fe",0.0
+500,brandy,"Magnesium, Mg",0.0
+501,brandy,"Phosphorus, P",0.0
+502,brandy,"Potassium, K",0.0
+503,brandy,"Sodium, Na",0.0
+504,brandy,"Zinc, Zn",0.0
+505,brandy,"Copper, Cu",2.0
+506,brandy,"Selenium, Se",0.0
+507,brandy,"Vitamin A, RAE",0.0
+508,brandy,Vitamin E (alpha-tocopherol),0.0
+509,brandy,Vitamin D (D2 + D3),0.0
+510,brandy,"Vitamin C, total ascorbic acid",0.0
+511,brandy,Thiamin,0.0
+512,brandy,Riboflavin,0.0
+513,brandy,Niacin,0.0
+514,brandy,Vitamin B-6,0.0
+515,brandy,Vitamin B-12,0.0
+516,brandy,"Choline, total",0.0
+517,brandy,Vitamin K (phylloquinone),0.0
+518,brandy,Cholesterol,0.0
+519,brandy,"Fatty acids, total saturated",0.0
+520,bread,Protein,5.0
+521,bread,Total lipid (fat),0.0
+522,bread,"Calcium, Ca",0.0
+523,bread,"Iron, Fe",5.0
+524,bread,"Sodium, Na",24.0
+525,bread,"Vitamin C, total ascorbic acid",0.0
+526,bread,Cholesterol,0.0
+527,bread,"Fatty acids, total saturated",0.0
+528,breadcrumbs,Total lipid (fat),0.0
+529,breadcrumbs,"Calcium, Ca",0.0
+530,breadcrumbs,"Iron, Fe",0.0
+531,breadcrumbs,"Vitamin C, total ascorbic acid",0.0
+532,breadcrumbs,Cholesterol,0.0
+533,breadcrumbs,"Fatty acids, total saturated",0.0
+534,brie,Protein,12.0
+535,brie,Total lipid (fat),18.0
+536,brie,"Calcium, Ca",26923.0
+537,brie,"Iron, Fe",20.0
+538,brie,"Sodium, Na",31.0
+539,brie,Cholesterol,36.0
+540,brie,"Fatty acids, total saturated",18.0
+541,brine,Protein,27.0
+542,brine,"Iron, Fe",25.0
+543,brine,"Sodium, Na",30.0
+544,brine,Thiamin,5.0
+545,brine,Riboflavin,22.0
+546,brine,Cholesterol,36.0
+547,brine,"Fatty acids, total saturated",6.0
+548,brine,"Calcium, Ca",2.0
+549,brine,"Potassium, K",15.0
+550,brine,Niacin,74.0
+551,brine,Total lipid (fat),17.0
+552,brisket,Protein,20.0
+553,brisket,Total lipid (fat),7.0
+554,brisket,"Calcium, Ca",1.0
+555,brisket,"Iron, Fe",15.0
+556,brisket,"Magnesium, Mg",5.0
+557,brisket,"Phosphorus, P",18.0
+558,brisket,"Potassium, K",6.0
+559,brisket,"Sodium, Na",16.0
+560,brisket,"Zinc, Zn",64.0
+561,brisket,"Copper, Cu",13.0
+562,brisket,"Selenium, Se",49.0
+563,brisket,"Vitamin A, RAE",0.0
+564,brisket,Vitamin E (alpha-tocopherol),1.0
+565,brisket,Vitamin D (D2 + D3),1.0
+566,brisket,"Vitamin C, total ascorbic acid",0.0
+567,brisket,Thiamin,6.0
+568,brisket,Riboflavin,17.0
+569,brisket,Niacin,23.0
+570,brisket,Vitamin B-6,21.0
+571,brisket,Vitamin B-12,107.0
+572,brisket,"Choline, total",19.0
+573,brisket,Vitamin K (phylloquinone),1.0
+574,brisket,Cholesterol,31.0
+575,brisket,"Fatty acids, total saturated",4.0
+576,broccoli,"Calcium, Ca",3.0
+577,broccoli,"Iron, Fe",4.0
+578,broccoli,"Vitamin C, total ascorbic acid",99.0
+579,broccoli,Cholesterol,0.0
+580,broccoli,"Fatty acids, total saturated",0.0
+581,broccoli,Protein,2.0
+582,broccoli,Total lipid (fat),0.0
+583,broccoli,"Sodium, Na",2.0
+584,broccoli rabe,Protein,2.0
+585,broccoli rabe,Total lipid (fat),0.0
+586,broccoli rabe,"Calcium, Ca",6.0
+587,broccoli rabe,"Iron, Fe",7.0
+588,broccoli rabe,"Potassium, K",7.0
+589,broccoli rabe,"Sodium, Na",2.0
+590,broccoli rabe,Cholesterol,0.0
+591,broccoli rabe,"Fatty acids, total saturated",0.0
+592,brown rice,"Calcium, Ca",4.0
+593,brown rice,"Iron, Fe",9.0
+594,brown rice,"Sodium, Na",0.0
+595,brown rice,"Vitamin C, total ascorbic acid",0.0
+596,brown rice,Cholesterol,0.0
+597,brown rice,"Fatty acids, total saturated",0.0
+598,brown rice,Protein,6.0
+599,brown rice,Total lipid (fat),1.0
+600,brussel sprout,Protein,2.0
+601,brussel sprout,Total lipid (fat),0.0
+602,brussel sprout,"Calcium, Ca",3.0
+603,brussel sprout,"Iron, Fe",8.0
+604,brussel sprout,"Magnesium, Mg",5.0
+605,brussel sprout,"Phosphorus, P",6.0
+606,brussel sprout,"Potassium, K",8.0
+607,brussel sprout,"Sodium, Na",1.0
+608,brussel sprout,"Zinc, Zn",4.0
+609,brussel sprout,"Copper, Cu",8.0
+610,brussel sprout,"Selenium, Se",3.0
+611,brussel sprout,"Vitamin A, RAE",4.0
+612,brussel sprout,Vitamin E (alpha-tocopherol),6.0
+613,brussel sprout,Vitamin D (D2 + D3),0.0
+614,brussel sprout,"Vitamin C, total ascorbic acid",94.0
+615,brussel sprout,Thiamin,12.0
+616,brussel sprout,Riboflavin,7.0
+617,brussel sprout,Niacin,5.0
+618,brussel sprout,Vitamin B-6,13.0
+619,brussel sprout,Vitamin B-12,0.0
+620,brussel sprout,"Choline, total",3.0
+621,brussel sprout,Vitamin K (phylloquinone),148.0
+622,brussel sprout,Cholesterol,0.0
+623,brussel sprout,"Fatty acids, total saturated",0.0
+624,buffalo,Protein,24.0
+625,buffalo,Total lipid (fat),30.0
+626,buffalo,"Calcium, Ca",82.0
+627,buffalo,"Iron, Fe",0.0
+628,buffalo,"Potassium, K",2.0
+629,buffalo,"Sodium, Na",39.0
+630,buffalo,Cholesterol,54.0
+631,buffalo,"Fatty acids, total saturated",30.0
+632,bulgur,Protein,8.0
+633,bulgur,Total lipid (fat),1.0
+634,bulgur,"Calcium, Ca",3.0
+635,bulgur,"Iron, Fe",9.0
+636,bulgur,"Sodium, Na",0.0
+637,bulgur,"Vitamin C, total ascorbic acid",0.0
+638,bulgur,Cholesterol,0.0
+639,bulgur,"Fatty acids, total saturated",0.0
+640,butter,Protein,1.0
+641,butter,Total lipid (fat),0.0
+642,butter,"Calcium, Ca",2.0
+643,butter,"Iron, Fe",7.0
+644,butter,"Sodium, Na",0.0
+645,butter,"Vitamin C, total ascorbic acid",5.0
+646,butter,Cholesterol,0.0
+647,butter,"Fatty acids, total saturated",0.0
+648,buttermilk,Protein,2.0
+649,buttermilk,Total lipid (fat),0.0
+650,buttermilk,"Calcium, Ca",10.0
+651,buttermilk,"Iron, Fe",0.0
+652,buttermilk,"Sodium, Na",7.0
+653,buttermilk,"Vitamin C, total ascorbic acid",0.0
+654,buttermilk,Cholesterol,1.0
+655,buttermilk,"Fatty acids, total saturated",0.0
+656,butternut squash,Total lipid (fat),0.0
+657,butternut squash,"Calcium, Ca",4.0
+658,butternut squash,"Iron, Fe",5.0
+659,butternut squash,"Sodium, Na",0.0
+660,butternut squash,"Vitamin C, total ascorbic acid",24.0
+661,butternut squash,Cholesterol,0.0
+662,butternut squash,"Fatty acids, total saturated",0.0
+663,butternut squash,Protein,1.0
+664,cabbage,Total lipid (fat),0.0
+665,cabbage,"Calcium, Ca",3.0
+666,cabbage,"Potassium, K",3.0
+667,cabbage,"Zinc, Zn",2.0
+668,cabbage,"Selenium, Se",1.0
+669,cabbage,Vitamin E (alpha-tocopherol),1.0
+670,cabbage,Niacin,7.0
+671,cabbage,Vitamin B-6,13.0
+672,cabbage,"Choline, total",3.0
+673,cabbage,Protein,1.0
+674,cabbage,"Iron, Fe",14.0
+675,cabbage,"Magnesium, Mg",3.0
+676,cabbage,"Phosphorus, P",2.0
+677,cabbage,"Sodium, Na",22.0
+678,cabbage,"Copper, Cu",3.0
+679,cabbage,"Vitamin A, RAE",1.0
+680,cabbage,Vitamin D (D2 + D3),0.0
+681,cabbage,"Vitamin C, total ascorbic acid",0.0
+682,cabbage,Thiamin,1.0
+683,cabbage,Riboflavin,16.0
+684,cabbage,Vitamin B-12,0.0
+685,cabbage,Vitamin K (phylloquinone),36.0
+686,cabbage,Cholesterol,0.0
+687,cabbage,"Fatty acids, total saturated",0.0
+688,cake,Protein,2.0
+689,cake,Total lipid (fat),13.0
+690,cake,"Calcium, Ca",2.0
+691,cake,"Iron, Fe",6.0
+692,cake,"Potassium, K",1.0
+693,cake,"Sodium, Na",18.0
+694,cake,Cholesterol,8.0
+695,cake,"Fatty acids, total saturated",9.0
+696,calvados,"Calcium, Ca",0.0
+697,calvados,"Iron, Fe",0.0
+698,calvados,"Vitamin C, total ascorbic acid",0.0
+699,calvados,Protein,10.0
+700,calvados,Total lipid (fat),18.0
+701,calvados,"Sodium, Na",19.0
+702,calvados,Cholesterol,24.0
+703,calvados,"Fatty acids, total saturated",12.0
+704,candy,Total lipid (fat),0.0
+705,candy,"Sodium, Na",0.0
+706,candy,Protein,0.0
+707,candy thermometer,Total lipid (fat),12.0
+708,candy thermometer,"Calcium, Ca",16.0
+709,candy thermometer,"Potassium, K",7.0
+710,candy thermometer,Protein,4.0
+711,candy thermometer,"Iron, Fe",6.0
+712,candy thermometer,"Phosphorus, P",12.0
+713,candy thermometer,"Sodium, Na",5.0
+714,candy thermometer,"Vitamin C, total ascorbic acid",2.0
+715,candy thermometer,Cholesterol,9.0
+716,candy thermometer,"Fatty acids, total saturated",11.0
+717,cantaloupe,Protein,0.0
+718,cantaloupe,Total lipid (fat),0.0
+719,cantaloupe,"Calcium, Ca",1.0
+720,cantaloupe,"Iron, Fe",2.0
+721,cantaloupe,"Sodium, Na",1.0
+722,cantaloupe,"Vitamin C, total ascorbic acid",40.0
+723,cantaloupe,Cholesterol,0.0
+724,cantaloupe,"Fatty acids, total saturated",0.0
+725,caraway,"Vitamin A, RAE",30.0
+726,caraway,Protein,17.0
+727,caraway,"Iron, Fe",4.0
+728,caraway,"Magnesium, Mg",5.0
+729,caraway,"Phosphorus, P",39.0
+730,caraway,"Sodium, Na",30.0
+731,caraway,"Copper, Cu",3.0
+732,caraway,"Manganese, Mn",1.0
+733,caraway,"Vitamin C, total ascorbic acid",0.0
+734,caraway,Thiamin,3.0
+735,caraway,Riboflavin,35.0
+736,caraway,Vitamin B-12,11.0
+737,caraway,Cholesterol,31.0
+738,caraway,"Fatty acids, total saturated",16.0
+739,caraway,Total lipid (fat),16.0
+740,caraway,"Calcium, Ca",52.0
+741,caraway,"Potassium, K",2.0
+742,caraway,"Zinc, Zn",27.0
+743,caraway,Niacin,1.0
+744,caraway,Pantothenic acid,4.0
+745,caraway,Vitamin B-6,4.0
+746,caraway,"Selenium, Se",26.0
+747,cardamom,Total lipid (fat),0.0
+748,cardamom,"Sodium, Na",0.0
+749,cardamom,Protein,0.0
+750,carrot,Protein,1.0
+751,carrot,Total lipid (fat),0.0
+752,carrot,"Calcium, Ca",3.0
+753,carrot,"Iron, Fe",2.0
+754,carrot,"Magnesium, Mg",3.0
+755,carrot,"Phosphorus, P",3.0
+756,carrot,"Potassium, K",7.0
+757,carrot,"Sodium, Na",3.0
+758,carrot,"Zinc, Zn",2.0
+759,carrot,"Copper, Cu",5.0
+760,carrot,"Selenium, Se",0.0
+761,carrot,"Vitamin A, RAE",93.0
+762,carrot,Vitamin E (alpha-tocopherol),4.0
+763,carrot,Vitamin D (D2 + D3),0.0
+764,carrot,"Vitamin C, total ascorbic acid",7.0
+765,carrot,Thiamin,6.0
+766,carrot,Riboflavin,4.0
+767,carrot,Niacin,6.0
+768,carrot,Vitamin B-6,8.0
+769,carrot,Vitamin B-12,0.0
+770,carrot,"Choline, total",2.0
+771,carrot,Vitamin K (phylloquinone),11.0
+772,carrot,Cholesterol,0.0
+773,carrot,"Fatty acids, total saturated",0.0
+774,cashew,"Calcium, Ca",0.0
+775,cashew,"Iron, Fe",9.0
+776,cashew,"Vitamin C, total ascorbic acid",0.0
+777,cashew,Protein,5.0
+778,cashew,Total lipid (fat),12.0
+779,cashew,"Sodium, Na",15.0
+780,cashew,Cholesterol,8.0
+781,cashew,"Fatty acids, total saturated",6.0
+782,cauliflower,Protein,0.0
+783,cauliflower,Total lipid (fat),0.0
+784,cauliflower,"Calcium, Ca",0.0
+785,cauliflower,"Iron, Fe",0.0
+786,cauliflower,"Potassium, K",3.0
+787,cauliflower,"Sodium, Na",1.0
+788,cauliflower,Cholesterol,0.0
+789,cauliflower,"Fatty acids, total saturated",0.0
+790,celery,Total lipid (fat),0.0
+791,celery,"Calcium, Ca",3.0
+792,celery,"Iron, Fe",2.0
+793,celery,"Vitamin C, total ascorbic acid",9.0
+794,celery,Cholesterol,0.0
+795,celery,"Fatty acids, total saturated",0.0
+796,celery,Protein,0.0
+797,celery,"Sodium, Na",5.0
+798,chambord,Protein,0.0
+799,chambord,Total lipid (fat),0.0
+800,chambord,"Sodium, Na",0.0
+801,champagne,Protein,0.0
+802,champagne,Total lipid (fat),0.0
+803,champagne,"Calcium, Ca",1.0
+804,champagne,"Iron, Fe",1.0
+805,champagne,"Magnesium, Mg",2.0
+806,champagne,"Phosphorus, P",1.0
+807,champagne,"Potassium, K",2.0
+808,champagne,"Sodium, Na",0.0
+809,champagne,"Zinc, Zn",1.0
+810,champagne,"Copper, Cu",4.0
+811,champagne,"Selenium, Se",0.0
+812,champagne,"Vitamin A, RAE",0.0
+813,champagne,Vitamin E (alpha-tocopherol),0.0
+814,champagne,Vitamin D (D2 + D3),0.0
+815,champagne,"Vitamin C, total ascorbic acid",4.0
+816,champagne,Thiamin,2.0
+817,champagne,Riboflavin,1.0
+818,champagne,Niacin,1.0
+819,champagne,Vitamin B-6,3.0
+820,champagne,Vitamin B-12,0.0
+821,champagne,"Choline, total",1.0
+822,champagne,Vitamin K (phylloquinone),0.0
+823,champagne,Cholesterol,0.0
+824,champagne,"Fatty acids, total saturated",0.0
+825,chard,Protein,1.0
+826,chard,Total lipid (fat),2.0
+827,chard,"Calcium, Ca",4.0
+828,chard,"Iron, Fe",10.0
+829,chard,"Magnesium, Mg",20.0
+830,chard,"Phosphorus, P",4.0
+831,chard,"Potassium, K",8.0
+832,chard,"Sodium, Na",15.0
+833,chard,"Zinc, Zn",3.0
+834,chard,"Copper, Cu",21.0
+835,chard,"Selenium, Se",2.0
+836,chard,"Vitamin A, RAE",35.0
+837,chard,Vitamin E (alpha-tocopherol),16.0
+838,chard,Vitamin D (D2 + D3),0.0
+839,chard,"Vitamin C, total ascorbic acid",24.0
+840,chard,Thiamin,3.0
+841,chard,Riboflavin,7.0
+842,chard,Niacin,2.0
+843,chard,Vitamin B-6,7.0
+844,chard,Vitamin B-12,0.0
+845,chard,"Choline, total",3.0
+846,chard,Vitamin K (phylloquinone),722.0
+847,chard,Cholesterol,1.0
+848,chard,"Fatty acids, total saturated",1.0
+849,chartreuse,Protein,0.0
+850,chartreuse,Total lipid (fat),0.0
+851,chartreuse,"Calcium, Ca",0.0
+852,chartreuse,"Iron, Fe",0.0
+853,chartreuse,"Magnesium, Mg",0.0
+854,chartreuse,"Phosphorus, P",0.0
+855,chartreuse,"Potassium, K",0.0
+856,chartreuse,"Sodium, Na",0.0
+857,chartreuse,"Zinc, Zn",0.0
+858,chartreuse,"Copper, Cu",9.0
+859,chartreuse,"Selenium, Se",1.0
+860,chartreuse,"Vitamin A, RAE",0.0
+861,chartreuse,Vitamin E (alpha-tocopherol),0.0
+862,chartreuse,Vitamin D (D2 + D3),0.0
+863,chartreuse,"Vitamin C, total ascorbic acid",0.0
+864,chartreuse,Thiamin,0.0
+865,chartreuse,Riboflavin,0.0
+866,chartreuse,Niacin,0.0
+867,chartreuse,Vitamin B-6,0.0
+868,chartreuse,Vitamin B-12,0.0
+869,chartreuse,"Choline, total",0.0
+870,chartreuse,Vitamin K (phylloquinone),0.0
+871,chartreuse,Cholesterol,0.0
+872,chartreuse,"Fatty acids, total saturated",0.0
+873,cheddar,Protein,7.0
+874,cheddar,Total lipid (fat),11.0
+875,cheddar,"Calcium, Ca",26.0
+876,cheddar,"Iron, Fe",0.0
+877,cheddar,"Sodium, Na",75.0
+878,cheddar,"Vitamin C, total ascorbic acid",0.0
+879,cheddar,Cholesterol,11.0
+880,cheddar,"Fatty acids, total saturated",7.0
+881,cheese,Protein,14.0
+882,cheese,Total lipid (fat),14.0
+883,cheese,"Calcium, Ca",0.0
+884,cheese,"Iron, Fe",0.0
+885,cheese,"Sodium, Na",26.0
+886,cheese,"Vitamin C, total ascorbic acid",0.0
+887,cheese,Cholesterol,18.0
+888,cheese,"Fatty acids, total saturated",15.0
+889,cherry,Protein,3.0
+890,cherry,Total lipid (fat),11.0
+891,cherry,"Calcium, Ca",3.0
+892,cherry,"Iron, Fe",8.0
+893,cherry,"Sodium, Na",9.0
+894,cherry,"Vitamin C, total ascorbic acid",0.0
+895,cherry,Cholesterol,0.0
+896,cherry,"Fatty acids, total saturated",6.0
+897,chestnut,Protein,3.0
+898,chestnut,Total lipid (fat),1.0
+899,chestnut,"Calcium, Ca",0.0
+900,chestnut,"Iron, Fe",4.0
+901,chestnut,"Sodium, Na",0.0
+902,chestnut,"Vitamin C, total ascorbic acid",27.0
+903,chestnut,Cholesterol,0.0
+904,chestnut,"Fatty acids, total saturated",0.0
+905,chicken,Protein,14.0
+906,chicken,Total lipid (fat),1.0
+907,chicken,"Calcium, Ca",0.0
+908,chicken,"Iron, Fe",0.0
+909,chicken,"Sodium, Na",8.0
+910,chicken,"Vitamin C, total ascorbic acid",0.0
+911,chicken,Cholesterol,15.0
+912,chicken,"Fatty acids, total saturated",1.0
+913,chickpea,Protein,13.0
+914,chickpea,Total lipid (fat),3.0
+915,chickpea,"Calcium, Ca",8.0
+916,chickpea,"Iron, Fe",34.0
+917,chickpea,"Sodium, Na",1.0
+918,chickpea,"Vitamin C, total ascorbic acid",4.0
+919,chickpea,Cholesterol,0.0
+920,chickpea,"Fatty acids, total saturated",1.0
+921,chile,Protein,5.0
+922,chile,Total lipid (fat),10.0
+923,chile,"Calcium, Ca",16.0
+924,chile,"Iron, Fe",5.0
+925,chile,"Magnesium, Mg",4.0
+926,chile,"Phosphorus, P",12.0
+927,chile,"Potassium, K",3.0
+928,chile,"Sodium, Na",19.0
+929,chile,"Zinc, Zn",10.0
+930,chile,"Copper, Cu",7.0
+931,chile,"Selenium, Se",14.0
+932,chile,"Vitamin A, RAE",8.0
+933,chile,Vitamin E (alpha-tocopherol),11.0
+934,chile,Vitamin D (D2 + D3),2.0
+935,chile,"Vitamin C, total ascorbic acid",36.0
+936,chile,Thiamin,10.0
+937,chile,Riboflavin,12.0
+938,chile,Niacin,6.0
+939,chile,Vitamin B-6,7.0
+940,chile,Vitamin B-12,14.0
+941,chile,"Choline, total",2.0
+942,chile,Vitamin K (phylloquinone),11.0
+943,chile,Cholesterol,10.0
+944,chile,"Fatty acids, total saturated",5.0
+945,chile pepper,Vitamin K (phylloquinone),90.0
+946,chile pepper,Vitamin E (alpha-tocopherol),21.0
+947,chile pepper,"Choline, total",15.0
+948,chile pepper,"Vitamin A, RAE",147.0
+949,chile pepper,"Calcium, Ca",3.0
+950,chile pepper,"Potassium, K",40.0
+951,chile pepper,"Zinc, Zn",9.0
+952,chile pepper,Niacin,54.0
+953,chile pepper,Pantothenic acid,19.0
+954,chile pepper,Vitamin B-6,48.0
+955,chile pepper,Total lipid (fat),3.0
+956,chile pepper,"Iron, Fe",34.0
+957,chile pepper,"Magnesium, Mg",21.0
+958,chile pepper,"Phosphorus, P",13.0
+959,chile pepper,"Sodium, Na",4.0
+960,chile pepper,"Copper, Cu",25.0
+961,chile pepper,"Manganese, Mn",36.0
+962,chile pepper,Protein,7.0
+963,chile pepper,"Fatty acids, total saturated",1.0
+964,chile pepper,"Vitamin C, total ascorbic acid",35.0
+965,chile pepper,Thiamin,7.0
+966,chile pepper,Riboflavin,92.0
+967,chile pepper,Vitamin B-12,0.0
+968,chile pepper,Cholesterol,0.0
+969,chile pepper,Vitamin D (D2 + D3),0.0
+970,chile pepper,"Selenium, Se",6.0
+971,chili,Protein,4.0
+972,chili,Total lipid (fat),6.0
+973,chili,"Calcium, Ca",1.0
+974,chili,"Iron, Fe",3.0
+975,chili,"Potassium, K",3.0
+976,chili,"Sodium, Na",17.0
+977,chili,"Vitamin C, total ascorbic acid",0.0
+978,chili,Cholesterol,5.0
+979,chili,"Fatty acids, total saturated",3.0
+980,chill,Pantothenic acid,4.0
+981,chill,Vitamin B-6,4.0
+982,chill,Vitamin E (alpha-tocopherol),1.0
+983,chill,Total lipid (fat),0.0
+984,chill,"Calcium, Ca",1.0
+985,chill,"Potassium, K",4.0
+986,chill,"Zinc, Zn",1.0
+987,chill,"Vitamin A, RAE",0.0
+988,chill,"Vitamin C, total ascorbic acid",37.0
+989,chill,Thiamin,4.0
+990,chill,Riboflavin,3.0
+991,chill,Vitamin K (phylloquinone),0.0
+992,chill,"Iron, Fe",1.0
+993,chill,"Magnesium, Mg",3.0
+994,chill,"Phosphorus, P",1.0
+995,chill,"Sodium, Na",0.0
+996,chill,"Copper, Cu",5.0
+997,chill,"Manganese, Mn",1.0
+998,chill,Protein,0.0
+999,chill,"Fatty acids, total saturated",0.0
+1000,chill,"Selenium, Se",0.0
+1001,chill,"Choline, total",1.0
+1002,chill,Vitamin B-12,0.0
+1003,chill,Cholesterol,0.0
+1004,chill,Niacin,2.0
+1005,chill,Vitamin D (D2 + D3),0.0
+1006,chive,Protein,2.0
+1007,chive,Total lipid (fat),0.0
+1008,chive,"Calcium, Ca",7.0
+1009,chive,"Iron, Fe",9.0
+1010,chive,"Magnesium, Mg",10.0
+1011,chive,"Phosphorus, P",5.0
+1012,chive,"Potassium, K",6.0
+1013,chive,"Sodium, Na",0.0
+1014,chive,"Zinc, Zn",5.0
+1015,chive,"Copper, Cu",17.0
+1016,chive,"Selenium, Se",2.0
+1017,chive,"Vitamin A, RAE",24.0
+1018,chive,Vitamin E (alpha-tocopherol),1.0
+1019,chive,Vitamin D (D2 + D3),0.0
+1020,chive,"Vitamin C, total ascorbic acid",65.0
+1021,chive,Thiamin,6.0
+1022,chive,Riboflavin,9.0
+1023,chive,Niacin,4.0
+1024,chive,Vitamin B-6,8.0
+1025,chive,Vitamin B-12,0.0
+1026,chive,"Choline, total",1.0
+1027,chive,Vitamin K (phylloquinone),178.0
+1028,chive,Cholesterol,0.0
+1029,chive,"Fatty acids, total saturated",0.0
+1030,chocolate,Protein,5.0
+1031,chocolate,Total lipid (fat),16.0
+1032,chocolate,"Calcium, Ca",15.0
+1033,chocolate,"Iron, Fe",19.0
+1034,chocolate,"Sodium, Na",4.0
+1035,chocolate,"Vitamin C, total ascorbic acid",0.0
+1036,chocolate,Cholesterol,8.0
+1037,chocolate,"Fatty acids, total saturated",14.0
+1038,cilantro,Total lipid (fat),0.0
+1039,cilantro,"Sodium, Na",0.0
+1040,cilantro,Protein,0.0
+1041,cinnamon,Protein,0.0
+1042,cinnamon,Total lipid (fat),0.0
+1043,cinnamon,"Sodium, Na",0.0
+1044,cinnamon,Cholesterol,0.0
+1045,citrus,Protein,0.0
+1046,citrus,"Iron, Fe",0.0
+1047,citrus,"Magnesium, Mg",0.0
+1048,citrus,"Phosphorus, P",0.0
+1049,citrus,"Sodium, Na",0.0
+1050,citrus,"Copper, Cu",0.0
+1051,citrus,"Manganese, Mn",0.0
+1052,citrus,"Vitamin A, RAE",0.0
+1053,citrus,Vitamin D (D2 + D3),0.0
+1054,citrus,"Vitamin C, total ascorbic acid",28.0
+1055,citrus,"Fatty acids, total saturated",0.0
+1056,citrus,Vitamin K (phylloquinone),0.0
+1057,citrus,Cholesterol,0.0
+1058,citrus,Total lipid (fat),0.0
+1059,citrus,"Calcium, Ca",1.0
+1060,citrus,"Potassium, K",0.0
+1061,citrus,"Zinc, Zn",0.0
+1062,citrus,"Selenium, Se",0.0
+1063,citrus,Vitamin E (alpha-tocopherol),0.0
+1064,citrus,Niacin,0.0
+1065,citrus,Pantothenic acid,0.0
+1066,citrus,Vitamin B-6,0.0
+1067,citrus,"Choline, total",0.0
+1068,citrus,Vitamin B-12,0.0
+1069,citrus,Thiamin,0.0
+1070,citrus,Riboflavin,0.0
+1071,clam,Protein,8.0
+1072,clam,Total lipid (fat),4.0
+1073,clam,"Calcium, Ca",3.0
+1074,clam,"Iron, Fe",7.0
+1075,clam,"Magnesium, Mg",5.0
+1076,clam,"Phosphorus, P",12.0
+1077,clam,"Potassium, K",4.0
+1078,clam,"Sodium, Na",20.0
+1079,clam,"Zinc, Zn",7.0
+1080,clam,"Copper, Cu",9.0
+1081,clam,"Selenium, Se",38.0
+1082,clam,"Vitamin A, RAE",7.0
+1083,clam,Vitamin E (alpha-tocopherol),5.0
+1084,clam,Vitamin D (D2 + D3),1.0
+1085,clam,"Vitamin C, total ascorbic acid",15.0
+1086,clam,Thiamin,13.0
+1087,clam,Riboflavin,7.0
+1088,clam,Niacin,14.0
+1089,clam,Vitamin B-6,9.0
+1090,clam,Vitamin B-12,168.0
+1091,clam,"Choline, total",8.0
+1092,clam,Vitamin K (phylloquinone),7.0
+1093,clam,Cholesterol,8.0
+1094,clam,"Fatty acids, total saturated",2.0
+1095,clove,Vitamin B-12,0.0
+1096,clove,Cholesterol,0.0
+1097,clove,Vitamin K (phylloquinone),118.0
+1098,clove,"Choline, total",7.0
+1099,clove,Total lipid (fat),7.0
+1100,clove,Niacin,10.0
+1101,clove,Pantothenic acid,10.0
+1102,clove,Vitamin B-6,23.0
+1103,clove,"Calcium, Ca",49.0
+1104,clove,"Potassium, K",22.0
+1105,clove,"Zinc, Zn",21.0
+1106,clove,"Selenium, Se",13.0
+1107,clove,Vitamin E (alpha-tocopherol),59.0
+1108,clove,"Iron, Fe",66.0
+1109,clove,"Magnesium, Mg",62.0
+1110,clove,"Phosphorus, P",8.0
+1111,clove,"Sodium, Na",12.0
+1112,clove,"Copper, Cu",41.0
+1113,clove,"Manganese, Mn",2613.0
+1114,clove,"Vitamin C, total ascorbic acid",0.0
+1115,clove,Thiamin,13.0
+1116,clove,Riboflavin,17.0
+1117,clove,"Vitamin A, RAE",1.0
+1118,clove,"Fatty acids, total saturated",3.0
+1119,clove,Protein,4.0
+1120,clove,Vitamin D (D2 + D3),0.0
+1121,coconut,Protein,2.0
+1122,coconut,Total lipid (fat),20.0
+1123,coconut,"Calcium, Ca",0.0
+1124,coconut,"Iron, Fe",11.0
+1125,coconut,"Sodium, Na",11.0
+1126,coconut,"Vitamin C, total ascorbic acid",0.0
+1127,coconut,Cholesterol,0.0
+1128,coconut,"Fatty acids, total saturated",27.0
+1129,cod,Protein,8.0
+1130,cod,Total lipid (fat),2.0
+1131,cod,"Calcium, Ca",3.0
+1132,cod,"Iron, Fe",5.0
+1133,cod,"Sodium, Na",18.0
+1134,cod,"Vitamin C, total ascorbic acid",4.0
+1135,cod,Cholesterol,11.0
+1136,cod,"Fatty acids, total saturated",0.0
+1137,coffee,Total lipid (fat),0.0
+1138,coffee,"Calcium, Ca",337.0
+1139,coffee,"Iron, Fe",25.0
+1140,coffee,"Phosphorus, P",300.0
+1141,coffee,"Zinc, Zn",0.0
+1142,coffee,"Vitamin C, total ascorbic acid",0.0
+1143,coffee,Niacin,0.0
+1144,coffee,Vitamin B-6,0.0
+1145,coffee,Vitamin B-12,0.0
+1146,coffee,Vitamin K (phylloquinone),0.0
+1147,coffee,Cholesterol,0.0
+1148,coffee,"Fatty acids, total saturated",0.0
+1149,coffee,Protein,8.0
+1150,coffee,"Potassium, K",29.0
+1151,coffee,"Sodium, Na",65.0
+1152,collard greens,Protein,2.0
+1153,collard greens,Total lipid (fat),0.0
+1154,collard greens,"Calcium, Ca",9.0
+1155,collard greens,"Iron, Fe",0.0
+1156,collard greens,"Sodium, Na",1.0
+1157,collard greens,"Vitamin C, total ascorbic acid",39.0
+1158,collard greens,Cholesterol,0.0
+1159,collard greens,"Fatty acids, total saturated",0.0
+1160,cookies,"Calcium, Ca",0.0
+1161,cookies,"Iron, Fe",23.0
+1162,cookies,"Vitamin C, total ascorbic acid",0.0
+1163,cookies,Cholesterol,0.0
+1164,cookies,Protein,3.0
+1165,cookies,Total lipid (fat),13.0
+1166,cookies,"Potassium, K",3.0
+1167,cookies,"Sodium, Na",14.0
+1168,cookies,"Fatty acids, total saturated",7.0
+1169,coriander,Total lipid (fat),10.0
+1170,coriander,"Calcium, Ca",55.0
+1171,coriander,"Potassium, K",27.0
+1172,coriander,"Zinc, Zn",43.0
+1173,coriander,Niacin,13.0
+1174,coriander,"Iron, Fe",91.0
+1175,coriander,"Magnesium, Mg",79.0
+1176,coriander,"Phosphorus, P",33.0
+1177,coriander,"Sodium, Na",2.0
+1178,coriander,"Copper, Cu",108.0
+1179,coriander,"Manganese, Mn",83.0
+1180,coriander,Thiamin,20.0
+1181,coriander,Riboflavin,22.0
+1182,coriander,Vitamin B-12,0.0
+1183,coriander,Cholesterol,0.0
+1184,coriander,"Fatty acids, total saturated",1.0
+1185,coriander,Protein,8.0
+1186,coriander,"Vitamin C, total ascorbic acid",23.0
+1187,coriander,"Selenium, Se",48.0
+1188,coriander,"Vitamin A, RAE",0.0
+1189,coriander,Vitamin D (D2 + D3),0.0
+1190,corn,Protein,2.0
+1191,corn,Total lipid (fat),1.0
+1192,corn,"Calcium, Ca",0.0
+1193,corn,"Iron, Fe",0.0
+1194,corn,"Potassium, K",2.0
+1195,corn,"Sodium, Na",0.0
+1196,corn,Cholesterol,0.0
+1197,corn,"Fatty acids, total saturated",0.0
+1198,cornmeal,Protein,5.0
+1199,cornmeal,Total lipid (fat),0.0
+1200,cornmeal,"Calcium, Ca",0.0
+1201,cornmeal,"Iron, Fe",5.0
+1202,cornmeal,"Sodium, Na",0.0
+1203,cornmeal,"Vitamin C, total ascorbic acid",0.0
+1204,cornmeal,Cholesterol,0.0
+1205,cornmeal,"Fatty acids, total saturated",0.0
+1206,cottage cheese,Protein,6.0
+1207,cottage cheese,Total lipid (fat),1.0
+1208,cottage cheese,"Calcium, Ca",10.0
+1209,cottage cheese,"Iron, Fe",0.0
+1210,cottage cheese,"Sodium, Na",14.0
+1211,cottage cheese,"Vitamin C, total ascorbic acid",0.0
+1212,cottage cheese,Cholesterol,4.0
+1213,cottage cheese,"Fatty acids, total saturated",1.0
+1214,couscous,Protein,9.0
+1215,couscous,Total lipid (fat),0.0
+1216,couscous,"Calcium, Ca",3.0
+1217,couscous,"Iron, Fe",12.0
+1218,couscous,"Potassium, K",4.0
+1219,couscous,"Sodium, Na",0.0
+1220,couscous,Cholesterol,0.0
+1221,couscous,"Fatty acids, total saturated",0.0
+1222,crab,Protein,12.0
+1223,crab,Total lipid (fat),0.0
+1224,crab,"Calcium, Ca",7.0
+1225,crab,"Iron, Fe",3.0
+1226,crab,"Magnesium, Mg",9.0
+1227,crab,"Phosphorus, P",19.0
+1228,crab,"Potassium, K",6.0
+1229,crab,"Sodium, Na",17.0
+1230,crab,"Zinc, Zn",35.0
+1231,crab,"Copper, Cu",90.0
+1232,crab,"Selenium, Se",78.0
+1233,crab,"Vitamin A, RAE",0.0
+1234,crab,Vitamin E (alpha-tocopherol),12.0
+1235,crab,Vitamin D (D2 + D3),0.0
+1236,crab,"Vitamin C, total ascorbic acid",4.0
+1237,crab,Thiamin,2.0
+1238,crab,Riboflavin,7.0
+1239,crab,Niacin,17.0
+1240,crab,Vitamin B-6,9.0
+1241,crab,Vitamin B-12,139.0
+1242,crab,"Choline, total",15.0
+1243,crab,Vitamin K (phylloquinone),0.0
+1244,crab,Cholesterol,32.0
+1245,crab,"Fatty acids, total saturated",0.0
+1246,cranberry,Protein,0.0
+1247,cranberry,Total lipid (fat),0.0
+1248,cranberry,"Iron, Fe",1.0
+1249,cranberry,"Sodium, Na",1.0
+1250,cranberry,"Vitamin C, total ascorbic acid",28.0
+1251,cranberry sauce,Protein,1.0
+1252,cranberry sauce,Total lipid (fat),0.0
+1253,cranberry sauce,"Calcium, Ca",0.0
+1254,cranberry sauce,"Iron, Fe",2.0
+1255,cranberry sauce,"Magnesium, Mg",0.0
+1256,cranberry sauce,"Phosphorus, P",0.0
+1257,cranberry sauce,"Potassium, K",1.0
+1258,cranberry sauce,"Sodium, Na",0.0
+1259,cranberry sauce,"Zinc, Zn",0.0
+1260,cranberry sauce,"Copper, Cu",3.0
+1261,cranberry sauce,"Selenium, Se",1.0
+1262,cranberry sauce,"Vitamin A, RAE",0.0
+1263,cranberry sauce,Vitamin E (alpha-tocopherol),6.0
+1264,cranberry sauce,Vitamin D (D2 + D3),0.0
+1265,cranberry sauce,"Vitamin C, total ascorbic acid",1.0
+1266,cranberry sauce,Thiamin,1.0
+1267,cranberry sauce,Riboflavin,2.0
+1268,cranberry sauce,Niacin,1.0
+1269,cranberry sauce,Vitamin B-6,1.0
+1270,cranberry sauce,Vitamin B-12,0.0
+1271,cranberry sauce,"Choline, total",1.0
+1272,cranberry sauce,Vitamin K (phylloquinone),1.0
+1273,cranberry sauce,Cholesterol,0.0
+1274,cranberry sauce,"Fatty acids, total saturated",0.0
+1275,cream cheese,Protein,5.0
+1276,cream cheese,Total lipid (fat),18.0
+1277,cream cheese,"Calcium, Ca",5.0
+1278,cream cheese,"Iron, Fe",0.0
+1279,cream cheese,"Potassium, K",0.0
+1280,cream cheese,"Sodium, Na",15.0
+1281,cream cheese,Cholesterol,36.0
+1282,cream cheese,"Fatty acids, total saturated",18.0
+1283,cucumber,Protein,0.0
+1284,cucumber,Total lipid (fat),0.0
+1285,cucumber,"Calcium, Ca",1.0
+1286,cucumber,"Iron, Fe",1.0
+1287,cucumber,"Magnesium, Mg",2.0
+1288,cucumber,"Phosphorus, P",2.0
+1289,cucumber,"Potassium, K",3.0
+1290,cucumber,"Sodium, Na",10.0
+1291,cucumber,"Zinc, Zn",1.0
+1292,cucumber,"Copper, Cu",3.0
+1293,cucumber,"Selenium, Se",1.0
+1294,cucumber,"Vitamin A, RAE",0.0
+1295,cucumber,Vitamin E (alpha-tocopherol),0.0
+1296,cucumber,Vitamin D (D2 + D3),0.0
+1297,cucumber,"Vitamin C, total ascorbic acid",3.0
+1298,cucumber,Thiamin,2.0
+1299,cucumber,Riboflavin,2.0
+1300,cucumber,Niacin,0.0
+1301,cucumber,Vitamin B-6,2.0
+1302,cucumber,Vitamin B-12,0.0
+1303,cucumber,"Choline, total",1.0
+1304,cucumber,Vitamin K (phylloquinone),8.0
+1305,cucumber,Cholesterol,0.0
+1306,cucumber,"Fatty acids, total saturated",0.0
+1307,cumin,Protein,12.0
+1308,cumin,"Iron, Fe",369.0
+1309,cumin,"Magnesium, Mg",87.0
+1310,cumin,"Phosphorus, P",40.0
+1311,cumin,"Sodium, Na",7.0
+1312,cumin,"Copper, Cu",96.0
+1313,cumin,"Manganese, Mn",145.0
+1314,cumin,"Vitamin C, total ascorbic acid",9.0
+1315,cumin,Thiamin,52.0
+1316,cumin,Riboflavin,25.0
+1317,cumin,Cholesterol,0.0
+1318,cumin,Vitamin B-12,0.0
+1319,cumin,Total lipid (fat),13.0
+1320,cumin,"Calcium, Ca",72.0
+1321,cumin,"Potassium, K",38.0
+1322,cumin,"Zinc, Zn",44.0
+1323,cumin,Niacin,29.0
+1324,cumin,"Fatty acids, total saturated",1.0
+1325,cumin,"Selenium, Se",9.0
+1326,cumin,Vitamin K (phylloquinone),5.0
+1327,cumin,Vitamin E (alpha-tocopherol),22.0
+1328,cumin,"Vitamin A, RAE",7.0
+1329,cumin,"Choline, total",4.0
+1330,cumin,Vitamin D (D2 + D3),0.0
+1331,cumin,Vitamin B-6,26.0
+1332,currant,Protein,2.0
+1333,currant,Total lipid (fat),0.0
+1334,currant,"Calcium, Ca",7.0
+1335,currant,"Iron, Fe",10.0
+1336,currant,"Magnesium, Mg",9.0
+1337,currant,"Phosphorus, P",8.0
+1338,currant,"Potassium, K",17.0
+1339,currant,"Sodium, Na",2.0
+1340,currant,"Zinc, Zn",3.0
+1341,currant,"Copper, Cu",33.0
+1342,currant,"Selenium, Se",1.0
+1343,currant,"Vitamin A, RAE",0.0
+1344,currant,Vitamin E (alpha-tocopherol),1.0
+1345,currant,Vitamin D (D2 + D3),0.0
+1346,currant,"Vitamin C, total ascorbic acid",5.0
+1347,currant,Thiamin,13.0
+1348,currant,Riboflavin,11.0
+1349,currant,Niacin,10.0
+1350,currant,Vitamin B-6,17.0
+1351,currant,Vitamin B-12,0.0
+1352,currant,"Choline, total",2.0
+1353,currant,Vitamin K (phylloquinone),3.0
+1354,currant,Cholesterol,0.0
+1355,currant,"Fatty acids, total saturated",0.0
+1356,curry,Protein,0.0
+1357,curry,Total lipid (fat),0.0
+1358,curry,"Sodium, Na",0.0
+1359,date,Protein,2.0
+1360,date,Total lipid (fat),0.0
+1361,date,"Calcium, Ca",3.0
+1362,date,"Iron, Fe",6.0
+1363,date,"Magnesium, Mg",10.0
+1364,date,"Phosphorus, P",5.0
+1365,date,"Potassium, K",14.0
+1366,date,"Sodium, Na",0.0
+1367,date,"Zinc, Zn",3.0
+1368,date,"Copper, Cu",23.0
+1369,date,"Selenium, Se",5.0
+1370,date,"Vitamin A, RAE",0.0
+1371,date,Vitamin E (alpha-tocopherol),0.0
+1372,date,Vitamin D (D2 + D3),0.0
+1373,date,"Vitamin C, total ascorbic acid",0.0
+1374,date,Thiamin,4.0
+1375,date,Riboflavin,5.0
+1376,date,Niacin,8.0
+1377,date,Vitamin B-6,10.0
+1378,date,Vitamin B-12,0.0
+1379,date,"Choline, total",1.0
+1380,date,Vitamin K (phylloquinone),2.0
+1381,date,Cholesterol,0.0
+1382,date,"Fatty acids, total saturated",0.0
+1383,dill,Vitamin E (alpha-tocopherol),1.0
+1384,dill,"Sodium, Na",35.0
+1385,dill,"Vitamin A, RAE",0.0
+1386,dill,"Calcium, Ca",4.0
+1387,dill,"Potassium, K",2.0
+1388,dill,"Zinc, Zn",1.0
+1389,dill,Niacin,1.0
+1390,dill,Pantothenic acid,4.0
+1391,dill,Vitamin B-6,2.0
+1392,dill,Total lipid (fat),0.0
+1393,dill,Protein,0.0
+1394,dill,"Iron, Fe",1.0
+1395,dill,"Magnesium, Mg",2.0
+1396,dill,"Phosphorus, P",1.0
+1397,dill,"Vitamin C, total ascorbic acid",2.0
+1398,dill,"Copper, Cu",3.0
+1399,dill,"Manganese, Mn",2.0
+1400,dill,Vitamin K (phylloquinone),14.0
+1401,dill,Thiamin,4.0
+1402,dill,Riboflavin,4.0
+1403,dried fruit,Protein,2.0
+1404,dried fruit,Total lipid (fat),0.0
+1405,dried fruit,"Calcium, Ca",3.0
+1406,dried fruit,"Iron, Fe",7.0
+1407,dried fruit,"Magnesium, Mg",6.0
+1408,dried fruit,"Phosphorus, P",5.0
+1409,dried fruit,"Potassium, K",11.0
+1410,dried fruit,"Sodium, Na",1.0
+1411,dried fruit,"Zinc, Zn",3.0
+1412,dried fruit,"Copper, Cu",24.0
+1413,dried fruit,"Selenium, Se",2.0
+1414,dried fruit,"Vitamin A, RAE",3.0
+1415,dried fruit,Vitamin E (alpha-tocopherol),10.0
+1416,dried fruit,Vitamin D (D2 + D3),0.0
+1417,dried fruit,"Vitamin C, total ascorbic acid",6.0
+1418,dried fruit,Thiamin,5.0
+1419,dried fruit,Riboflavin,7.0
+1420,dried fruit,Niacin,6.0
+1421,dried fruit,Vitamin B-6,9.0
+1422,dried fruit,Vitamin B-12,0.0
+1423,dried fruit,"Choline, total",2.0
+1424,dried fruit,Vitamin K (phylloquinone),5.0
+1425,dried fruit,Cholesterol,0.0
+1426,dried fruit,"Fatty acids, total saturated",0.0
+1427,duck,Protein,0.0
+1428,duck,Total lipid (fat),0.0
+1429,duck,"Calcium, Ca",1.0
+1430,duck,"Iron, Fe",2.0
+1431,duck,"Magnesium, Mg",1.0
+1432,duck,"Phosphorus, P",1.0
+1433,duck,"Potassium, K",2.0
+1434,duck,"Sodium, Na",31.0
+1435,duck,"Zinc, Zn",2.0
+1436,duck,"Copper, Cu",4.0
+1437,duck,"Selenium, Se",2.0
+1438,duck,"Vitamin A, RAE",1.0
+1439,duck,Vitamin E (alpha-tocopherol),1.0
+1440,duck,Vitamin D (D2 + D3),0.0
+1441,duck,"Vitamin C, total ascorbic acid",1.0
+1442,duck,Thiamin,2.0
+1443,duck,Riboflavin,1.0
+1444,duck,Niacin,1.0
+1445,duck,Vitamin B-6,2.0
+1446,duck,Vitamin B-12,0.0
+1447,duck,"Choline, total",0.0
+1448,duck,Vitamin K (phylloquinone),0.0
+1449,duck,Cholesterol,0.0
+1450,duck,"Fatty acids, total saturated",0.0
+1451,eau de vie,Protein,5.0
+1452,eau de vie,Total lipid (fat),4.0
+1453,eau de vie,"Calcium, Ca",19.0
+1454,eau de vie,"Iron, Fe",1.0
+1455,eau de vie,"Magnesium, Mg",5.0
+1456,eau de vie,"Phosphorus, P",15.0
+1457,eau de vie,"Potassium, K",7.0
+1458,eau de vie,"Sodium, Na",6.0
+1459,eau de vie,"Zinc, Zn",7.0
+1460,eau de vie,"Copper, Cu",0.0
+1461,eau de vie,"Selenium, Se",5.0
+1462,eau de vie,"Vitamin A, RAE",8.0
+1463,eau de vie,Vitamin E (alpha-tocopherol),1.0
+1464,eau de vie,Vitamin D (D2 + D3),1.0
+1465,eau de vie,"Vitamin C, total ascorbic acid",3.0
+1466,eau de vie,Thiamin,1.0
+1467,eau de vie,Riboflavin,31.0
+1468,eau de vie,Niacin,1.0
+1469,eau de vie,Vitamin B-6,1.0
+1470,eau de vie,Vitamin B-12,13.0
+1471,eau de vie,"Choline, total",16.0
+1472,eau de vie,Vitamin K (phylloquinone),1.0
+1473,eau de vie,Cholesterol,10.0
+1474,eau de vie,"Fatty acids, total saturated",4.0
+1475,egg,Protein,6.0
+1476,egg,Total lipid (fat),0.0
+1477,egg,"Calcium, Ca",3.0
+1478,egg,"Iron, Fe",9.0
+1479,egg,"Potassium, K",3.0
+1480,egg,"Sodium, Na",8.0
+1481,egg,"Zinc, Zn",10.0
+1482,egg,"Vitamin C, total ascorbic acid",0.0
+1483,egg,Riboflavin,92.0
+1484,egg,Pantothenic acid,27.0
+1485,egg,Vitamin B-6,8.0
+1486,egg,Vitamin B-12,22.0
+1487,egg,Cholesterol,1.0
+1488,egg,"Fatty acids, total saturated",0.0
+1489,eggplant,Protein,3.0
+1490,eggplant,Total lipid (fat),7.0
+1491,eggplant,"Calcium, Ca",7.0
+1492,eggplant,"Iron, Fe",12.0
+1493,eggplant,"Magnesium, Mg",7.0
+1494,eggplant,"Phosphorus, P",13.0
+1495,eggplant,"Potassium, K",6.0
+1496,eggplant,"Sodium, Na",10.0
+1497,eggplant,"Zinc, Zn",10.0
+1498,eggplant,"Copper, Cu",43.0
+1499,eggplant,"Selenium, Se",13.0
+1500,eggplant,"Vitamin A, RAE",1.0
+1501,eggplant,Vitamin E (alpha-tocopherol),5.0
+1502,eggplant,Vitamin D (D2 + D3),0.0
+1503,eggplant,"Vitamin C, total ascorbic acid",8.0
+1504,eggplant,Thiamin,23.0
+1505,eggplant,Riboflavin,9.0
+1506,eggplant,Niacin,10.0
+1507,eggplant,Vitamin B-6,6.0
+1508,eggplant,Vitamin B-12,0.0
+1509,eggplant,"Choline, total",2.0
+1510,eggplant,Vitamin K (phylloquinone),20.0
+1511,eggplant,Cholesterol,0.0
+1512,eggplant,"Fatty acids, total saturated",2.0
+1513,endive,"Vitamin A, RAE",12.0
+1514,endive,"Choline, total",3.0
+1515,endive,Niacin,2.0
+1516,endive,Pantothenic acid,18.0
+1517,endive,Vitamin B-6,1.0
+1518,endive,"Calcium, Ca",4.0
+1519,endive,"Potassium, K",7.0
+1520,endive,"Zinc, Zn",7.0
+1521,endive,Total lipid (fat),0.0
+1522,endive,Riboflavin,6.0
+1523,endive,Vitamin B-12,0.0
+1524,endive,"Fatty acids, total saturated",0.0
+1525,endive,Cholesterol,0.0
+1526,endive,"Vitamin C, total ascorbic acid",7.0
+1527,endive,Thiamin,7.0
+1528,endive,Protein,1.0
+1529,endive,"Iron, Fe",5.0
+1530,endive,"Magnesium, Mg",4.0
+1531,endive,"Phosphorus, P",2.0
+1532,endive,"Sodium, Na",1.0
+1533,endive,"Copper, Cu",11.0
+1534,endive,"Manganese, Mn",18.0
+1535,endive,Vitamin D (D2 + D3),0.0
+1536,endive,"Selenium, Se",0.0
+1537,endive,Vitamin K (phylloquinone),192.0
+1538,endive,Vitamin E (alpha-tocopherol),3.0
+1539,escarole,Protein,1.0
+1540,escarole,Total lipid (fat),0.0
+1541,escarole,"Calcium, Ca",4.0
+1542,escarole,"Potassium, K",7.0
+1543,escarole,"Sodium, Na",1.0
+1544,escarole,Cholesterol,0.0
+1545,escarole,"Fatty acids, total saturated",0.0
+1546,fennel,Protein,1.0
+1547,fennel,Total lipid (fat),2.0
+1548,fennel,"Calcium, Ca",4.0
+1549,fennel,"Iron, Fe",5.0
+1550,fennel,"Magnesium, Mg",5.0
+1551,fennel,"Phosphorus, P",5.0
+1552,fennel,"Potassium, K",10.0
+1553,fennel,"Sodium, Na",9.0
+1554,fennel,"Zinc, Zn",2.0
+1555,fennel,"Copper, Cu",8.0
+1556,fennel,"Selenium, Se",1.0
+1557,fennel,"Vitamin A, RAE",7.0
+1558,fennel,Vitamin E (alpha-tocopherol),7.0
+1559,fennel,Vitamin D (D2 + D3),0.0
+1560,fennel,"Vitamin C, total ascorbic acid",13.0
+1561,fennel,Thiamin,1.0
+1562,fennel,Riboflavin,3.0
+1563,fennel,Niacin,4.0
+1564,fennel,Vitamin B-6,4.0
+1565,fennel,Vitamin B-12,0.0
+1566,fennel,"Choline, total",3.0
+1567,fennel,Vitamin K (phylloquinone),62.0
+1568,fennel,Cholesterol,1.0
+1569,fennel,"Fatty acids, total saturated",1.0
+1570,feta,Protein,0.0
+1571,feta,Total lipid (fat),16.0
+1572,feta,"Sodium, Na",30.0
+1573,feta,Vitamin B-12,104.0
+1574,feta,"Fatty acids, total saturated",21.0
+1575,fig,Protein,0.0
+1576,fig,Total lipid (fat),0.0
+1577,fig,"Calcium, Ca",1.0
+1578,fig,"Iron, Fe",0.0
+1579,fig,"Potassium, K",2.0
+1580,fig,"Sodium, Na",0.0
+1581,fig,Cholesterol,0.0
+1582,fig,"Fatty acids, total saturated",0.0
+1583,fish,"Calcium, Ca",1.0
+1584,fish,"Potassium, K",4.0
+1585,fish,"Zinc, Zn",4.0
+1586,fish,"Selenium, Se",29.0
+1587,fish,Vitamin E (alpha-tocopherol),46.0
+1588,fish,Niacin,10.0
+1589,fish,Pantothenic acid,5.0
+1590,fish,Vitamin B-6,5.0
+1591,fish,"Choline, total",8.0
+1592,fish,Total lipid (fat),9.0
+1593,fish,Cholesterol,9.0
+1594,fish,"Fatty acids, total saturated",3.0
+1595,fish,"Vitamin C, total ascorbic acid",0.0
+1596,fish,Thiamin,10.0
+1597,fish,Riboflavin,9.0
+1598,fish,Vitamin B-12,40.0
+1599,fish,Vitamin K (phylloquinone),4.0
+1600,fish,Protein,7.0
+1601,fish,"Iron, Fe",5.0
+1602,fish,"Magnesium, Mg",6.0
+1603,fish,"Phosphorus, P",15.0
+1604,fish,"Sodium, Na",17.0
+1605,fish,"Copper, Cu",7.0
+1606,fish,"Manganese, Mn",8.0
+1607,fish,"Vitamin A, RAE",0.0
+1608,fish,Vitamin D (D2 + D3),0.0
+1609,fontina,Vitamin K (phylloquinone),2.0
+1610,fontina,Vitamin E (alpha-tocopherol),2.0
+1611,fontina,"Vitamin A, RAE",29.0
+1612,fontina,Vitamin D (D2 + D3),3.0
+1613,fontina,"Choline, total",3.0
+1614,fontina,"Iron, Fe",1.0
+1615,fontina,"Magnesium, Mg",3.0
+1616,fontina,"Phosphorus, P",28.0
+1617,fontina,"Sodium, Na",35.0
+1618,fontina,"Copper, Cu",3.0
+1619,fontina,"Manganese, Mn",1.0
+1620,fontina,Cholesterol,39.0
+1621,fontina,"Fatty acids, total saturated",16.0
+1622,fontina,"Vitamin C, total ascorbic acid",0.0
+1623,fontina,Thiamin,2.0
+1624,fontina,Riboflavin,16.0
+1625,fontina,Vitamin B-12,70.0
+1626,fontina,Protein,17.0
+1627,fontina,Niacin,1.0
+1628,fontina,Pantothenic acid,9.0
+1629,fontina,Vitamin B-6,5.0
+1630,fontina,"Calcium, Ca",42.0
+1631,fontina,"Potassium, K",1.0
+1632,fontina,"Zinc, Zn",32.0
+1633,fontina,Total lipid (fat),17.0
+1634,fontina,"Selenium, Se",26.0
+1635,frangelico,Protein,8.0
+1636,frangelico,Total lipid (fat),12.0
+1637,frangelico,"Calcium, Ca",1.0
+1638,frangelico,"Iron, Fe",2.0
+1639,frangelico,"Sodium, Na",13.0
+1640,frangelico,"Vitamin C, total ascorbic acid",1.0
+1641,frangelico,Cholesterol,14.0
+1642,frangelico,"Fatty acids, total saturated",3.0
+1643,fruit juice,Protein,0.0
+1644,fruit juice,Total lipid (fat),0.0
+1645,fruit juice,"Calcium, Ca",1.0
+1646,fruit juice,"Iron, Fe",2.0
+1647,fruit juice,"Potassium, K",3.0
+1648,fruit juice,"Sodium, Na",0.0
+1649,fruit juice,"Vitamin C, total ascorbic acid",0.0
+1650,fruit juice,Cholesterol,0.0
+1651,fruit juice,"Fatty acids, total saturated",0.0
+1652,garlic,Protein,0.0
+1653,garlic,Total lipid (fat),0.0
+1654,garlic,"Calcium, Ca",51.0
+1655,garlic,"Sodium, Na",0.0
+1656,garlic,"Vitamin C, total ascorbic acid",89.0
+1657,gin,Protein,0.0
+1658,gin,Total lipid (fat),0.0
+1659,gin,"Calcium, Ca",0.0
+1660,gin,"Iron, Fe",0.0
+1661,gin,"Magnesium, Mg",0.0
+1662,gin,"Phosphorus, P",0.0
+1663,gin,"Potassium, K",0.0
+1664,gin,"Sodium, Na",0.0
+1665,gin,"Zinc, Zn",0.0
+1666,gin,"Copper, Cu",2.0
+1667,gin,"Selenium, Se",0.0
+1668,gin,"Vitamin A, RAE",0.0
+1669,gin,Vitamin E (alpha-tocopherol),0.0
+1670,gin,Vitamin D (D2 + D3),0.0
+1671,gin,"Vitamin C, total ascorbic acid",0.0
+1672,gin,Thiamin,0.0
+1673,gin,Riboflavin,0.0
+1674,gin,Niacin,0.0
+1675,gin,Vitamin B-6,0.0
+1676,gin,Vitamin B-12,0.0
+1677,gin,"Choline, total",0.0
+1678,gin,Vitamin K (phylloquinone),0.0
+1679,gin,Cholesterol,0.0
+1680,gin,"Fatty acids, total saturated",0.0
+1681,ginger,Protein,0.0
+1682,ginger,Total lipid (fat),7.0
+1683,ginger,"Sodium, Na",11.0
+1684,ginger,Cholesterol,0.0
+1685,ginger,"Fatty acids, total saturated",0.0
+1686,goat cheese,Protein,17.0
+1687,goat cheese,Total lipid (fat),18.0
+1688,goat cheese,"Calcium, Ca",55.0
+1689,goat cheese,"Iron, Fe",0.0
+1690,goat cheese,"Sodium, Na",30.0
+1691,goat cheese,"Vitamin C, total ascorbic acid",5.0
+1692,goat cheese,Cholesterol,32.0
+1693,goat cheese,"Fatty acids, total saturated",18.0
+1694,goose,Vitamin E (alpha-tocopherol),18.0
+1695,goose,Niacin,0.0
+1696,goose,Pantothenic acid,0.0
+1697,goose,Vitamin B-6,0.0
+1698,goose,Total lipid (fat),56.0
+1699,goose,"Calcium, Ca",0.0
+1700,goose,"Potassium, K",0.0
+1701,goose,"Zinc, Zn",0.0
+1702,goose,"Vitamin C, total ascorbic acid",0.0
+1703,goose,Thiamin,0.0
+1704,goose,Riboflavin,0.0
+1705,goose,Vitamin B-12,0.0
+1706,goose,Cholesterol,33.0
+1707,goose,"Fatty acids, total saturated",23.0
+1708,goose,Protein,0.0
+1709,goose,"Iron, Fe",0.0
+1710,goose,"Magnesium, Mg",0.0
+1711,goose,"Phosphorus, P",0.0
+1712,goose,"Sodium, Na",0.0
+1713,goose,"Vitamin A, RAE",0.0
+1714,goose,"Selenium, Se",0.0
+1715,gouda,Protein,17.0
+1716,gouda,Total lipid (fat),18.0
+1717,gouda,"Calcium, Ca",55.0
+1718,gouda,"Iron, Fe",0.0
+1719,gouda,"Sodium, Na",40.0
+1720,gouda,"Vitamin C, total ascorbic acid",0.0
+1721,gouda,Cholesterol,36.0
+1722,gouda,"Fatty acids, total saturated",18.0
+1723,grains,Cholesterol,0.0
+1724,grains,"Vitamin C, total ascorbic acid",0.0
+1725,grains,Protein,7.0
+1726,grains,"Iron, Fe",15.0
+1727,grains,"Magnesium, Mg",26.0
+1728,grains,"Phosphorus, P",27.0
+1729,grains,"Sodium, Na",0.0
+1730,grains,"Copper, Cu",41.0
+1731,grains,"Manganese, Mn",112.0
+1732,grains,"Choline, total",6.0
+1733,grains,"Calcium, Ca",2.0
+1734,grains,"Potassium, K",11.0
+1735,grains,"Zinc, Zn",24.0
+1736,grains,"Selenium, Se",25.0
+1737,grains,Vitamin E (alpha-tocopherol),6.0
+1738,grains,Total lipid (fat),1.0
+1739,grains,Thiamin,26.0
+1740,grains,Riboflavin,19.0
+1741,grains,"Fatty acids, total saturated",0.0
+1742,grains,"Vitamin A, RAE",0.0
+1743,grains,Niacin,27.0
+1744,grains,Pantothenic acid,29.0
+1745,grains,Vitamin B-6,17.0
+1746,grains,Vitamin K (phylloquinone),5.0
+1747,grains,Vitamin B-12,0.0
+1748,grains,Vitamin D (D2 + D3),0.0
+1749,grand marnier,Protein,0.0
+1750,grand marnier,Total lipid (fat),0.0
+1751,grand marnier,"Calcium, Ca",1.0
+1752,grand marnier,"Iron, Fe",0.0
+1753,grand marnier,"Potassium, K",1.0
+1754,grand marnier,"Sodium, Na",0.0
+1755,grand marnier,Cholesterol,0.0
+1756,grand marnier,"Fatty acids, total saturated",0.0
+1757,grape,Protein,0.0
+1758,grape,Total lipid (fat),0.0
+1759,grape,"Sodium, Na",0.0
+1760,grape,"Vitamin C, total ascorbic acid",23.0
+1761,grapefruit,Protein,0.0
+1762,grapefruit,Total lipid (fat),0.0
+1763,grapefruit,"Sodium, Na",0.0
+1764,green bean,Protein,0.0
+1765,green bean,Total lipid (fat),0.0
+1766,green bean,"Calcium, Ca",1.0
+1767,green bean,"Iron, Fe",2.0
+1768,green bean,"Sodium, Na",14.0
+1769,green bean,"Vitamin C, total ascorbic acid",0.0
+1770,green bean,Cholesterol,0.0
+1771,green bean,"Fatty acids, total saturated",0.0
+1772,ground beef,"Calcium, Ca",0.0
+1773,ground beef,"Iron, Fe",13.0
+1774,ground beef,"Vitamin C, total ascorbic acid",0.0
+1775,ground beef,Protein,13.0
+1776,ground beef,Total lipid (fat),6.0
+1777,ground beef,"Sodium, Na",3.0
+1778,ground beef,Cholesterol,22.0
+1779,ground beef,"Fatty acids, total saturated",3.0
+1780,ground lamb,Protein,11.0
+1781,ground lamb,Total lipid (fat),12.0
+1782,ground lamb,"Calcium, Ca",0.0
+1783,ground lamb,"Iron, Fe",9.0
+1784,ground lamb,"Sodium, Na",3.0
+1785,ground lamb,"Vitamin C, total ascorbic acid",0.0
+1786,ground lamb,Cholesterol,25.0
+1787,ground lamb,"Fatty acids, total saturated",7.0
+1788,guava,Protein,0.0
+1789,guava,Total lipid (fat),0.0
+1790,guava,"Calcium, Ca",2.0
+1791,guava,"Iron, Fe",3.0
+1792,guava,"Potassium, K",6.0
+1793,guava,"Sodium, Na",0.0
+1794,guava,Cholesterol,0.0
+1795,guava,"Fatty acids, total saturated",0.0
+1796,halibut,Protein,14.0
+1797,halibut,Total lipid (fat),1.0
+1798,halibut,"Calcium, Ca",2.0
+1799,halibut,"Iron, Fe",6.0
+1800,halibut,"Sodium, Na",2.0
+1801,halibut,"Vitamin C, total ascorbic acid",0.0
+1802,halibut,Cholesterol,12.0
+1803,halibut,"Fatty acids, total saturated",0.0
+1804,ham,Protein,13.0
+1805,ham,Total lipid (fat),2.0
+1806,ham,"Calcium, Ca",1.0
+1807,ham,"Iron, Fe",5.0
+1808,ham,"Magnesium, Mg",5.0
+1809,ham,"Phosphorus, P",22.0
+1810,ham,"Potassium, K",8.0
+1811,ham,"Sodium, Na",50.0
+1812,ham,"Zinc, Zn",17.0
+1813,ham,"Copper, Cu",14.0
+1814,ham,"Selenium, Se",61.0
+1815,ham,"Vitamin A, RAE",1.0
+1816,ham,Vitamin E (alpha-tocopherol),1.0
+1817,ham,Vitamin D (D2 + D3),3.0
+1818,ham,"Vitamin C, total ascorbic acid",0.0
+1819,ham,Thiamin,36.0
+1820,ham,Riboflavin,15.0
+1821,ham,Niacin,38.0
+1822,ham,Vitamin B-6,24.0
+1823,ham,Vitamin B-12,17.0
+1824,ham,"Choline, total",14.0
+1825,ham,Vitamin K (phylloquinone),0.0
+1826,ham,Cholesterol,18.0
+1827,ham,"Fatty acids, total saturated",1.0
+1828,hamburger,Protein,6.0
+1829,hamburger,Total lipid (fat),3.0
+1830,hamburger,"Calcium, Ca",7.0
+1831,hamburger,"Iron, Fe",14.0
+1832,hamburger,"Sodium, Na",21.0
+1833,hamburger,"Vitamin C, total ascorbic acid",0.0
+1834,hamburger,Thiamin,83.0
+1835,hamburger,Riboflavin,30.0
+1836,hamburger,Niacin,29.0
+1837,hamburger,Cholesterol,0.0
+1838,hamburger,"Fatty acids, total saturated",0.0
+1839,hazelnut,Protein,5.0
+1840,hazelnut,Total lipid (fat),18.0
+1841,hazelnut,"Calcium, Ca",11.0
+1842,hazelnut,"Iron, Fe",24.0
+1843,hazelnut,"Sodium, Na",3.0
+1844,hazelnut,"Vitamin C, total ascorbic acid",0.0
+1845,hazelnut,Cholesterol,4.0
+1846,hazelnut,"Fatty acids, total saturated",14.0
+1847,herb,Vitamin E (alpha-tocopherol),0.0
+1848,herb,Vitamin K (phylloquinone),0.0
+1849,herb,Cholesterol,0.0
+1850,herb,"Iron, Fe",0.0
+1851,herb,"Magnesium, Mg",0.0
+1852,herb,"Phosphorus, P",0.0
+1853,herb,"Sodium, Na",0.0
+1854,herb,"Copper, Cu",2.0
+1855,herb,"Manganese, Mn",2.0
+1856,herb,Protein,0.0
+1857,herb,"Vitamin C, total ascorbic acid",0.0
+1858,herb,Thiamin,1.0
+1859,herb,Riboflavin,0.0
+1860,herb,Vitamin B-12,0.0
+1861,herb,Niacin,0.0
+1862,herb,Pantothenic acid,0.0
+1863,herb,Vitamin B-6,0.0
+1864,herb,"Calcium, Ca",0.0
+1865,herb,"Potassium, K",0.0
+1866,herb,"Zinc, Zn",0.0
+1867,herb,Total lipid (fat),0.0
+1868,herb,"Vitamin A, RAE",0.0
+1869,herb,"Fatty acids, total saturated",0.0
+1870,herb,"Choline, total",0.0
+1871,herb,Vitamin D (D2 + D3),0.0
+1872,herb,"Selenium, Se",0.0
+1873,honey,Protein,0.0
+1874,honey,Total lipid (fat),0.0
+1875,honey,"Calcium, Ca",0.0
+1876,honey,"Iron, Fe",2.0
+1877,honey,"Magnesium, Mg",0.0
+1878,honey,"Phosphorus, P",0.0
+1879,honey,"Potassium, K",1.0
+1880,honey,"Sodium, Na",0.0
+1881,honey,"Zinc, Zn",2.0
+1882,honey,"Copper, Cu",4.0
+1883,honey,"Selenium, Se",1.0
+1884,honey,"Vitamin A, RAE",0.0
+1885,honey,Vitamin E (alpha-tocopherol),0.0
+1886,honey,Vitamin D (D2 + D3),0.0
+1887,honey,"Vitamin C, total ascorbic acid",1.0
+1888,honey,Thiamin,0.0
+1889,honey,Riboflavin,3.0
+1890,honey,Niacin,1.0
+1891,honey,Vitamin B-6,1.0
+1892,honey,Vitamin B-12,0.0
+1893,honey,"Choline, total",0.0
+1894,honey,Vitamin K (phylloquinone),0.0
+1895,honey,Cholesterol,0.0
+1896,honey,"Fatty acids, total saturated",0.0
+1897,honeydew,Protein,0.0
+1898,honeydew,Total lipid (fat),0.0
+1899,honeydew,"Calcium, Ca",0.0
+1900,honeydew,"Iron, Fe",1.0
+1901,honeydew,"Magnesium, Mg",2.0
+1902,honeydew,"Phosphorus, P",1.0
+1903,honeydew,"Potassium, K",5.0
+1904,honeydew,"Sodium, Na",1.0
+1905,honeydew,"Zinc, Zn",1.0
+1906,honeydew,"Copper, Cu",3.0
+1907,honeydew,"Selenium, Se",1.0
+1908,honeydew,"Vitamin A, RAE",0.0
+1909,honeydew,Vitamin E (alpha-tocopherol),0.0
+1910,honeydew,Vitamin D (D2 + D3),0.0
+1911,honeydew,"Vitamin C, total ascorbic acid",20.0
+1912,honeydew,Thiamin,3.0
+1913,honeydew,Riboflavin,1.0
+1914,honeydew,Niacin,3.0
+1915,honeydew,Vitamin B-6,5.0
+1916,honeydew,Vitamin B-12,0.0
+1917,honeydew,"Choline, total",1.0
+1918,honeydew,Vitamin K (phylloquinone),2.0
+1919,honeydew,Cholesterol,0.0
+1920,honeydew,"Fatty acids, total saturated",0.0
+1921,horseradish,Protein,1.0
+1922,horseradish,Total lipid (fat),0.0
+1923,horseradish,"Calcium, Ca",4.0
+1924,horseradish,"Iron, Fe",2.0
+1925,horseradish,"Magnesium, Mg",6.0
+1926,horseradish,"Phosphorus, P",2.0
+1927,horseradish,"Potassium, K",5.0
+1928,horseradish,"Sodium, Na",18.0
+1929,horseradish,"Zinc, Zn",8.0
+1930,horseradish,"Copper, Cu",6.0
+1931,horseradish,"Selenium, Se",5.0
+1932,horseradish,"Vitamin A, RAE",0.0
+1933,horseradish,Vitamin E (alpha-tocopherol),0.0
+1934,horseradish,Vitamin D (D2 + D3),0.0
+1935,horseradish,"Vitamin C, total ascorbic acid",28.0
+1936,horseradish,Thiamin,1.0
+1937,horseradish,Riboflavin,2.0
+1938,horseradish,Niacin,2.0
+1939,horseradish,Vitamin B-6,4.0
+1940,horseradish,Vitamin B-12,0.0
+1941,horseradish,"Choline, total",1.0
+1942,horseradish,Vitamin K (phylloquinone),1.0
+1943,horseradish,Cholesterol,0.0
+1944,horseradish,"Fatty acids, total saturated",0.0
+1945,hot pepper,Protein,14.0
+1946,hot pepper,Total lipid (fat),14.0
+1947,hot pepper,"Calcium, Ca",41.0
+1948,hot pepper,"Iron, Fe",0.0
+1949,hot pepper,"Sodium, Na",50.0
+1950,hot pepper,"Vitamin C, total ascorbic acid",0.0
+1951,hot pepper,Cholesterol,36.0
+1952,hot pepper,"Fatty acids, total saturated",18.0
+1953,ice cream,Protein,2.0
+1954,ice cream,Total lipid (fat),7.0
+1955,ice cream,"Calcium, Ca",9.0
+1956,ice cream,"Iron, Fe",0.0
+1957,ice cream,"Sodium, Na",3.0
+1958,ice cream,"Vitamin C, total ascorbic acid",0.0
+1959,ice cream,Cholesterol,13.0
+1960,ice cream,"Fatty acids, total saturated",8.0
+1961,jerusalem artichoke,"Vitamin A, RAE",0.0
+1962,jerusalem artichoke,"Fatty acids, total saturated",0.0
+1963,jerusalem artichoke,"Choline, total",5.0
+1964,jerusalem artichoke,"Iron, Fe",19.0
+1965,jerusalem artichoke,"Magnesium, Mg",4.0
+1966,jerusalem artichoke,"Phosphorus, P",6.0
+1967,jerusalem artichoke,"Sodium, Na",0.0
+1968,jerusalem artichoke,"Copper, Cu",16.0
+1969,jerusalem artichoke,"Manganese, Mn",3.0
+1970,jerusalem artichoke,Protein,1.0
+1971,jerusalem artichoke,"Vitamin C, total ascorbic acid",4.0
+1972,jerusalem artichoke,Thiamin,17.0
+1973,jerusalem artichoke,Riboflavin,5.0
+1974,jerusalem artichoke,Vitamin B-12,0.0
+1975,jerusalem artichoke,Cholesterol,0.0
+1976,jerusalem artichoke,Niacin,8.0
+1977,jerusalem artichoke,Pantothenic acid,8.0
+1978,jerusalem artichoke,Vitamin B-6,5.0
+1979,jerusalem artichoke,Total lipid (fat),0.0
+1980,jerusalem artichoke,"Calcium, Ca",1.0
+1981,jerusalem artichoke,"Potassium, K",9.0
+1982,jerusalem artichoke,"Zinc, Zn",1.0
+1983,jerusalem artichoke,Vitamin D (D2 + D3),0.0
+1984,jerusalem artichoke,"Selenium, Se",1.0
+1985,jerusalem artichoke,Vitamin E (alpha-tocopherol),1.0
+1986,jerusalem artichoke,Vitamin K (phylloquinone),0.0
+1987,kale,Protein,2.0
+1988,kale,Total lipid (fat),0.0
+1989,kale,"Calcium, Ca",10.0
+1990,kale,"Iron, Fe",9.0
+1991,kale,"Magnesium, Mg",8.0
+1992,kale,"Phosphorus, P",4.0
+1993,kale,"Potassium, K",10.0
+1994,kale,"Sodium, Na",2.0
+1995,kale,"Copper, Cu",29.0
+1996,kale,"Manganese, Mn",43.0
+1997,kale,"Vitamin C, total ascorbic acid",136.0
+1998,kale,Thiamin,0.0
+1999,kale,Riboflavin,9.0
+2000,kale,Niacin,7.0
+2001,kale,Vitamin B-6,16.0
+2002,kale,Vitamin K (phylloquinone),690.0
+2003,kale,Cholesterol,0.0
+2004,kale,"Fatty acids, total saturated",0.0
+2005,kirsch,Protein,0.0
+2006,kirsch,Total lipid (fat),0.0
+2007,kirsch,"Calcium, Ca",0.0
+2008,kirsch,"Iron, Fe",0.0
+2009,kirsch,"Magnesium, Mg",0.0
+2010,kirsch,"Phosphorus, P",0.0
+2011,kirsch,"Potassium, K",0.0
+2012,kirsch,"Sodium, Na",0.0
+2013,kirsch,"Zinc, Zn",0.0
+2014,kirsch,"Copper, Cu",9.0
+2015,kirsch,"Selenium, Se",1.0
+2016,kirsch,"Vitamin A, RAE",0.0
+2017,kirsch,Vitamin E (alpha-tocopherol),0.0
+2018,kirsch,Vitamin D (D2 + D3),0.0
+2019,kirsch,"Vitamin C, total ascorbic acid",0.0
+2020,kirsch,Thiamin,0.0
+2021,kirsch,Riboflavin,0.0
+2022,kirsch,Niacin,0.0
+2023,kirsch,Vitamin B-6,0.0
+2024,kirsch,Vitamin B-12,0.0
+2025,kirsch,"Choline, total",0.0
+2026,kirsch,Vitamin K (phylloquinone),0.0
+2027,kirsch,Cholesterol,0.0
+2028,kirsch,"Fatty acids, total saturated",0.0
+2029,kiwi,Protein,0.0
+2030,kiwi,Total lipid (fat),0.0
+2031,kiwi,"Calcium, Ca",5.0
+2032,kiwi,"Iron, Fe",7.0
+2033,kiwi,"Sodium, Na",6.0
+2034,kiwi,"Vitamin C, total ascorbic acid",4.0
+2035,kiwi,Cholesterol,0.0
+2036,kiwi,"Fatty acids, total saturated",0.0
+2037,kumquat,Protein,1.0
+2038,kumquat,Total lipid (fat),0.0
+2039,kumquat,"Calcium, Ca",5.0
+2040,kumquat,"Iron, Fe",5.0
+2041,kumquat,"Magnesium, Mg",5.0
+2042,kumquat,"Phosphorus, P",2.0
+2043,kumquat,"Potassium, K",4.0
+2044,kumquat,"Sodium, Na",0.0
+2045,kumquat,"Zinc, Zn",2.0
+2046,kumquat,"Copper, Cu",11.0
+2047,kumquat,"Selenium, Se",0.0
+2048,kumquat,"Vitamin A, RAE",2.0
+2049,kumquat,Vitamin E (alpha-tocopherol),1.0
+2050,kumquat,Vitamin D (D2 + D3),0.0
+2051,kumquat,"Vitamin C, total ascorbic acid",49.0
+2052,kumquat,Thiamin,3.0
+2053,kumquat,Riboflavin,7.0
+2054,kumquat,Niacin,3.0
+2055,kumquat,Vitamin B-6,2.0
+2056,kumquat,Vitamin B-12,0.0
+2057,kumquat,"Choline, total",2.0
+2058,kumquat,Vitamin K (phylloquinone),0.0
+2059,kumquat,Cholesterol,0.0
+2060,kumquat,"Fatty acids, total saturated",0.0
+2061,lamb,Protein,18.0
+2062,lamb,Total lipid (fat),9.0
+2063,lamb,"Calcium, Ca",2.0
+2064,lamb,"Iron, Fe",10.0
+2065,lamb,"Magnesium, Mg",6.0
+2066,lamb,"Phosphorus, P",17.0
+2067,lamb,"Potassium, K",7.0
+2068,lamb,"Sodium, Na",17.0
+2069,lamb,"Zinc, Zn",34.0
+2070,lamb,"Copper, Cu",15.0
+2071,lamb,"Selenium, Se",54.0
+2072,lamb,"Vitamin A, RAE",0.0
+2073,lamb,Vitamin E (alpha-tocopherol),1.0
+2074,lamb,Vitamin D (D2 + D3),0.0
+2075,lamb,"Vitamin C, total ascorbic acid",0.0
+2076,lamb,Thiamin,9.0
+2077,lamb,Riboflavin,20.0
+2078,lamb,Niacin,43.0
+2079,lamb,Vitamin B-6,8.0
+2080,lamb,Vitamin B-12,103.0
+2081,lamb,"Choline, total",18.0
+2082,lamb,Vitamin K (phylloquinone),4.0
+2083,lamb,Cholesterol,32.0
+2084,lamb,"Fatty acids, total saturated",6.0
+2085,lamb chop,Protein,18.0
+2086,lamb chop,Total lipid (fat),9.0
+2087,lamb chop,"Calcium, Ca",2.0
+2088,lamb chop,"Iron, Fe",10.0
+2089,lamb chop,"Magnesium, Mg",6.0
+2090,lamb chop,"Phosphorus, P",17.0
+2091,lamb chop,"Potassium, K",7.0
+2092,lamb chop,"Sodium, Na",17.0
+2093,lamb chop,"Zinc, Zn",34.0
+2094,lamb chop,"Copper, Cu",15.0
+2095,lamb chop,"Selenium, Se",54.0
+2096,lamb chop,"Vitamin A, RAE",0.0
+2097,lamb chop,Vitamin E (alpha-tocopherol),1.0
+2098,lamb chop,Vitamin D (D2 + D3),0.0
+2099,lamb chop,"Vitamin C, total ascorbic acid",0.0
+2100,lamb chop,Thiamin,9.0
+2101,lamb chop,Riboflavin,20.0
+2102,lamb chop,Niacin,43.0
+2103,lamb chop,Vitamin B-6,8.0
+2104,lamb chop,Vitamin B-12,103.0
+2105,lamb chop,"Choline, total",18.0
+2106,lamb chop,Vitamin K (phylloquinone),4.0
+2107,lamb chop,Cholesterol,32.0
+2108,lamb chop,"Fatty acids, total saturated",6.0
+2109,lamb shank,Total lipid (fat),6.0
+2110,lamb shank,"Calcium, Ca",1.0
+2111,lamb shank,"Potassium, K",6.0
+2112,lamb shank,"Zinc, Zn",35.0
+2113,lamb shank,"Selenium, Se",12.0
+2114,lamb shank,Vitamin E (alpha-tocopherol),2.0
+2115,lamb shank,Niacin,26.0
+2116,lamb shank,Pantothenic acid,9.0
+2117,lamb shank,Vitamin B-6,6.0
+2118,lamb shank,Protein,13.0
+2119,lamb shank,"Iron, Fe",7.0
+2120,lamb shank,"Magnesium, Mg",5.0
+2121,lamb shank,"Phosphorus, P",13.0
+2122,lamb shank,"Sodium, Na",3.0
+2123,lamb shank,"Copper, Cu",9.0
+2124,lamb shank,"Manganese, Mn",0.0
+2125,lamb shank,"Vitamin A, RAE",1.0
+2126,lamb shank,Vitamin D (D2 + D3),0.0
+2127,lamb shank,"Vitamin C, total ascorbic acid",0.0
+2128,lamb shank,Thiamin,8.0
+2129,lamb shank,Riboflavin,7.0
+2130,lamb shank,Vitamin B-12,84.0
+2131,lamb shank,Cholesterol,22.0
+2132,lamb shank,"Fatty acids, total saturated",4.0
+2133,lasagna,Protein,5.0
+2134,lasagna,Total lipid (fat),4.0
+2135,lasagna,"Calcium, Ca",14.0
+2136,lasagna,"Iron, Fe",7.0
+2137,lasagna,"Sodium, Na",13.0
+2138,lasagna,"Vitamin C, total ascorbic acid",8.0
+2139,lasagna,Cholesterol,11.0
+2140,lasagna,"Fatty acids, total saturated",3.0
+2141,leafy green,Protein,1.0
+2142,leafy green,Total lipid (fat),1.0
+2143,leafy green,"Calcium, Ca",2.0
+2144,leafy green,"Iron, Fe",3.0
+2145,leafy green,"Magnesium, Mg",2.0
+2146,leafy green,"Phosphorus, P",2.0
+2147,leafy green,"Potassium, K",3.0
+2148,leafy green,"Sodium, Na",13.0
+2149,leafy green,"Zinc, Zn",4.0
+2150,leafy green,"Copper, Cu",9.0
+2151,leafy green,"Selenium, Se",3.0
+2152,leafy green,"Vitamin A, RAE",6.0
+2153,leafy green,Vitamin E (alpha-tocopherol),2.0
+2154,leafy green,Vitamin D (D2 + D3),0.0
+2155,leafy green,"Vitamin C, total ascorbic acid",7.0
+2156,leafy green,Thiamin,3.0
+2157,leafy green,Riboflavin,4.0
+2158,leafy green,Niacin,3.0
+2159,leafy green,Vitamin B-6,3.0
+2160,leafy green,Vitamin B-12,0.0
+2161,leafy green,"Choline, total",2.0
+2162,leafy green,Vitamin K (phylloquinone),19.0
+2163,leafy green,Cholesterol,0.0
+2164,leafy green,"Fatty acids, total saturated",0.0
+2165,leek,Protein,1.0
+2166,leek,Total lipid (fat),2.0
+2167,leek,"Calcium, Ca",5.0
+2168,leek,"Iron, Fe",12.0
+2169,leek,"Magnesium, Mg",7.0
+2170,leek,"Phosphorus, P",3.0
+2171,leek,"Potassium, K",4.0
+2172,leek,"Sodium, Na",7.0
+2173,leek,"Zinc, Zn",1.0
+2174,leek,"Copper, Cu",14.0
+2175,leek,"Selenium, Se",2.0
+2176,leek,"Vitamin A, RAE",10.0
+2177,leek,Vitamin E (alpha-tocopherol),9.0
+2178,leek,Vitamin D (D2 + D3),0.0
+2179,leek,"Vitamin C, total ascorbic acid",12.0
+2180,leek,Thiamin,5.0
+2181,leek,Riboflavin,2.0
+2182,leek,Niacin,2.0
+2183,leek,Vitamin B-6,14.0
+2184,leek,Vitamin B-12,0.0
+2185,leek,"Choline, total",2.0
+2186,leek,Vitamin K (phylloquinone),43.0
+2187,leek,Cholesterol,1.0
+2188,leek,"Fatty acids, total saturated",1.0
+2189,legume,Protein,17.0
+2190,legume,Total lipid (fat),0.0
+2191,legume,"Calcium, Ca",5.0
+2192,legume,"Iron, Fe",45.0
+2193,legume,"Sodium, Na",6.0
+2194,legume,"Vitamin C, total ascorbic acid",5.0
+2195,legume,Cholesterol,0.0
+2196,legume,"Fatty acids, total saturated",0.0
+2197,lemon,Protein,0.0
+2198,lemon,Total lipid (fat),17.0
+2199,lemon,"Calcium, Ca",0.0
+2200,lemon,"Iron, Fe",0.0
+2201,lemon,"Sodium, Na",35.0
+2202,lemon,"Vitamin C, total ascorbic acid",4.0
+2203,lemon,Cholesterol,0.0
+2204,lemon,"Fatty acids, total saturated",3.0
+2205,lemon juice,Protein,0.0
+2206,lemon juice,Total lipid (fat),0.0
+2207,lemon juice,"Sodium, Na",0.0
+2208,lemon juice,"Vitamin C, total ascorbic acid",27.0
+2209,lemon juice,Cholesterol,0.0
+2210,lemon juice,"Fatty acids, total saturated",0.0
+2211,lemongrass,Protein,1.0
+2212,lemongrass,"Iron, Fe",0.0
+2213,lemongrass,"Sodium, Na",6.0
+2214,lemongrass,"Vitamin C, total ascorbic acid",0.0
+2215,lemongrass,Cholesterol,0.0
+2216,lemongrass,"Fatty acids, total saturated",0.0
+2217,lemongrass,Total lipid (fat),1.0
+2218,lemongrass,"Calcium, Ca",2.0
+2219,lentil,Protein,2.0
+2220,lentil,Total lipid (fat),3.0
+2221,lentil,"Calcium, Ca",2.0
+2222,lentil,"Iron, Fe",8.0
+2223,lentil,"Magnesium, Mg",5.0
+2224,lentil,"Phosphorus, P",6.0
+2225,lentil,"Potassium, K",6.0
+2226,lentil,"Sodium, Na",17.0
+2227,lentil,"Zinc, Zn",5.0
+2228,lentil,"Copper, Cu",17.0
+2229,lentil,"Selenium, Se",3.0
+2230,lentil,"Vitamin A, RAE",4.0
+2231,lentil,Vitamin E (alpha-tocopherol),9.0
+2232,lentil,Vitamin D (D2 + D3),0.0
+2233,lentil,"Vitamin C, total ascorbic acid",8.0
+2234,lentil,Thiamin,6.0
+2235,lentil,Riboflavin,4.0
+2236,lentil,Niacin,5.0
+2237,lentil,Vitamin B-6,8.0
+2238,lentil,Vitamin B-12,0.0
+2239,lentil,"Choline, total",3.0
+2240,lentil,Vitamin K (phylloquinone),8.0
+2241,lentil,Cholesterol,0.0
+2242,lentil,"Fatty acids, total saturated",1.0
+2243,lettuce,Protein,1.0
+2244,lettuce,Total lipid (fat),0.0
+2245,lettuce,"Calcium, Ca",2.0
+2246,lettuce,"Iron, Fe",4.0
+2247,lettuce,"Magnesium, Mg",2.0
+2248,lettuce,"Phosphorus, P",2.0
+2249,lettuce,"Potassium, K",4.0
+2250,lettuce,"Sodium, Na",1.0
+2251,lettuce,"Zinc, Zn",1.0
+2252,lettuce,"Copper, Cu",3.0
+2253,lettuce,"Selenium, Se",1.0
+2254,lettuce,"Vitamin A, RAE",22.0
+2255,lettuce,Vitamin E (alpha-tocopherol),1.0
+2256,lettuce,Vitamin D (D2 + D3),0.0
+2257,lettuce,"Vitamin C, total ascorbic acid",7.0
+2258,lettuce,Thiamin,5.0
+2259,lettuce,Riboflavin,4.0
+2260,lettuce,Niacin,2.0
+2261,lettuce,Vitamin B-6,4.0
+2262,lettuce,Vitamin B-12,0.0
+2263,lettuce,"Choline, total",2.0
+2264,lettuce,Vitamin K (phylloquinone),63.0
+2265,lettuce,Cholesterol,0.0
+2266,lettuce,"Fatty acids, total saturated",0.0
+2267,lima bean,Protein,5.0
+2268,lima bean,Total lipid (fat),4.0
+2269,lima bean,"Calcium, Ca",1.0
+2270,lima bean,"Iron, Fe",12.0
+2271,lima bean,"Magnesium, Mg",10.0
+2272,lima bean,"Phosphorus, P",8.0
+2273,lima bean,"Potassium, K",10.0
+2274,lima bean,"Sodium, Na",9.0
+2275,lima bean,"Zinc, Zn",8.0
+2276,lima bean,"Copper, Cu",24.0
+2277,lima bean,"Selenium, Se",8.0
+2278,lima bean,"Vitamin A, RAE",0.0
+2279,lima bean,Vitamin E (alpha-tocopherol),8.0
+2280,lima bean,Vitamin D (D2 + D3),0.0
+2281,lima bean,"Vitamin C, total ascorbic acid",0.0
+2282,lima bean,Thiamin,12.0
+2283,lima bean,Riboflavin,4.0
+2284,lima bean,Niacin,2.0
+2285,lima bean,Vitamin B-6,8.0
+2286,lima bean,Vitamin B-12,0.0
+2287,lima bean,"Choline, total",5.0
+2288,lima bean,Vitamin K (phylloquinone),8.0
+2289,lima bean,Cholesterol,0.0
+2290,lima bean,"Fatty acids, total saturated",1.0
+2291,lime,Protein,6.0
+2292,lime,Total lipid (fat),8.0
+2293,lime,"Calcium, Ca",3.0
+2294,lime,"Iron, Fe",8.0
+2295,lime,"Magnesium, Mg",5.0
+2296,lime,"Phosphorus, P",12.0
+2297,lime,"Potassium, K",3.0
+2298,lime,"Sodium, Na",3.0
+2299,lime,"Zinc, Zn",12.0
+2300,lime,"Copper, Cu",17.0
+2301,lime,"Selenium, Se",36.0
+2302,lime,"Vitamin A, RAE",12.0
+2303,lime,Vitamin E (alpha-tocopherol),6.0
+2304,lime,Vitamin D (D2 + D3),8.0
+2305,lime,"Vitamin C, total ascorbic acid",6.0
+2306,lime,Thiamin,9.0
+2307,lime,Riboflavin,21.0
+2308,lime,Niacin,1.0
+2309,lime,Vitamin B-6,4.0
+2310,lime,Vitamin B-12,21.0
+2311,lime,"Choline, total",31.0
+2312,lime,Vitamin K (phylloquinone),1.0
+2313,lime,Cholesterol,83.0
+2314,lime,"Fatty acids, total saturated",2.0
+2315,lime juice,Protein,0.0
+2316,lime juice,"Iron, Fe",0.0
+2317,lime juice,"Magnesium, Mg",2.0
+2318,lime juice,"Phosphorus, P",1.0
+2319,lime juice,"Sodium, Na",0.0
+2320,lime juice,"Copper, Cu",3.0
+2321,lime juice,"Manganese, Mn",1.0
+2322,lime juice,"Vitamin C, total ascorbic acid",33.0
+2323,lime juice,Thiamin,2.0
+2324,lime juice,Riboflavin,1.0
+2325,lime juice,Vitamin K (phylloquinone),0.0
+2326,lime juice,"Vitamin A, RAE",0.0
+2327,lime juice,Total lipid (fat),0.0
+2328,lime juice,Niacin,1.0
+2329,lime juice,Pantothenic acid,2.0
+2330,lime juice,Vitamin B-6,2.0
+2331,lime juice,"Calcium, Ca",1.0
+2332,lime juice,"Potassium, K",2.0
+2333,lime juice,"Zinc, Zn",1.0
+2334,lime juice,"Selenium, Se",0.0
+2335,lime juice,Vitamin E (alpha-tocopherol),1.0
+2336,lime juice,"Choline, total",1.0
+2337,lime juice,"Fatty acids, total saturated",0.0
+2338,lime juice,Vitamin B-12,0.0
+2339,lime juice,Cholesterol,0.0
+2340,lime juice,Vitamin D (D2 + D3),0.0
+2341,lingonberry,Protein,0.0
+2342,lingonberry,Total lipid (fat),0.0
+2343,lingonberry,"Sodium, Na",0.0
+2344,liqueur,Protein,0.0
+2345,liqueur,Total lipid (fat),0.0
+2346,liqueur,"Calcium, Ca",0.0
+2347,liqueur,"Iron, Fe",0.0
+2348,liqueur,"Magnesium, Mg",0.0
+2349,liqueur,"Phosphorus, P",0.0
+2350,liqueur,"Potassium, K",0.0
+2351,liqueur,"Sodium, Na",0.0
+2352,liqueur,"Zinc, Zn",0.0
+2353,liqueur,"Copper, Cu",9.0
+2354,liqueur,"Selenium, Se",1.0
+2355,liqueur,"Vitamin A, RAE",0.0
+2356,liqueur,Vitamin E (alpha-tocopherol),0.0
+2357,liqueur,Vitamin D (D2 + D3),0.0
+2358,liqueur,"Vitamin C, total ascorbic acid",0.0
+2359,liqueur,Thiamin,0.0
+2360,liqueur,Riboflavin,0.0
+2361,liqueur,Niacin,0.0
+2362,liqueur,Vitamin B-6,0.0
+2363,liqueur,Vitamin B-12,0.0
+2364,liqueur,"Choline, total",0.0
+2365,liqueur,Vitamin K (phylloquinone),0.0
+2366,liqueur,Cholesterol,0.0
+2367,liqueur,"Fatty acids, total saturated",0.0
+2368,lobster,Protein,14.0
+2369,lobster,Total lipid (fat),1.0
+2370,lobster,"Calcium, Ca",8.0
+2371,lobster,"Iron, Fe",2.0
+2372,lobster,"Magnesium, Mg",11.0
+2373,lobster,"Phosphorus, P",16.0
+2374,lobster,"Potassium, K",5.0
+2375,lobster,"Sodium, Na",23.0
+2376,lobster,"Zinc, Zn",41.0
+2377,lobster,"Copper, Cu",190.0
+2378,lobster,"Selenium, Se",146.0
+2379,lobster,"Vitamin A, RAE",0.0
+2380,lobster,Vitamin E (alpha-tocopherol),7.0
+2381,lobster,Vitamin D (D2 + D3),0.0
+2382,lobster,"Vitamin C, total ascorbic acid",0.0
+2383,lobster,Thiamin,2.0
+2384,lobster,Riboflavin,1.0
+2385,lobster,Niacin,12.0
+2386,lobster,Vitamin B-6,7.0
+2387,lobster,Vitamin B-12,56.0
+2388,lobster,"Choline, total",16.0
+2389,lobster,Vitamin K (phylloquinone),0.0
+2390,lobster,Cholesterol,54.0
+2391,lobster,"Fatty acids, total saturated",0.0
+2392,lychee,Protein,1.0
+2393,lychee,Total lipid (fat),0.0
+2394,lychee,"Calcium, Ca",0.0
+2395,lychee,"Iron, Fe",2.0
+2396,lychee,"Magnesium, Mg",2.0
+2397,lychee,"Phosphorus, P",2.0
+2398,lychee,"Potassium, K",4.0
+2399,lychee,"Sodium, Na",0.0
+2400,lychee,"Zinc, Zn",1.0
+2401,lychee,"Copper, Cu",16.0
+2402,lychee,"Selenium, Se",1.0
+2403,lychee,"Vitamin A, RAE",0.0
+2404,lychee,Vitamin E (alpha-tocopherol),0.0
+2405,lychee,Vitamin D (D2 + D3),0.0
+2406,lychee,"Vitamin C, total ascorbic acid",79.0
+2407,lychee,Thiamin,1.0
+2408,lychee,Riboflavin,5.0
+2409,lychee,Niacin,4.0
+2410,lychee,Vitamin B-6,6.0
+2411,lychee,Vitamin B-12,0.0
+2412,lychee,"Choline, total",1.0
+2413,lychee,Vitamin K (phylloquinone),0.0
+2414,lychee,Cholesterol,0.0
+2415,lychee,"Fatty acids, total saturated",0.0
+2416,macadamia nut,Vitamin D (D2 + D3),0.0
+2417,macadamia nut,"Fatty acids, total saturated",10.0
+2418,macadamia nut,"Vitamin A, RAE",0.0
+2419,macadamia nut,"Selenium, Se",7.0
+2420,macadamia nut,Vitamin B-12,0.0
+2421,macadamia nut,Cholesterol,0.0
+2422,macadamia nut,Protein,5.0
+2423,macadamia nut,"Vitamin C, total ascorbic acid",1.0
+2424,macadamia nut,Thiamin,100.0
+2425,macadamia nut,Riboflavin,12.0
+2426,macadamia nut,"Iron, Fe",20.0
+2427,macadamia nut,"Magnesium, Mg",31.0
+2428,macadamia nut,"Phosphorus, P",15.0
+2429,macadamia nut,"Sodium, Na",0.0
+2430,macadamia nut,"Copper, Cu",84.0
+2431,macadamia nut,"Manganese, Mn",180.0
+2432,macadamia nut,Vitamin E (alpha-tocopherol),4.0
+2433,macadamia nut,"Calcium, Ca",7.0
+2434,macadamia nut,"Potassium, K",8.0
+2435,macadamia nut,"Zinc, Zn",12.0
+2436,macadamia nut,Total lipid (fat),43.0
+2437,macadamia nut,Niacin,15.0
+2438,macadamia nut,Pantothenic acid,15.0
+2439,macadamia nut,Vitamin B-6,16.0
+2440,mango,Protein,0.0
+2441,mango,Total lipid (fat),0.0
+2442,mango,"Calcium, Ca",1.0
+2443,mango,"Iron, Fe",11.0
+2444,mango,"Sodium, Na",0.0
+2445,mango,"Vitamin C, total ascorbic acid",33.0
+2446,mango,Cholesterol,0.0
+2447,mango,"Fatty acids, total saturated",0.0
+2448,maple syrup,Total lipid (fat),0.0
+2449,maple syrup,"Calcium, Ca",8.0
+2450,maple syrup,"Iron, Fe",10.0
+2451,maple syrup,"Magnesium, Mg",11.0
+2452,maple syrup,"Potassium, K",6.0
+2453,maple syrup,"Manganese, Mn",130.0
+2454,maple syrup,"Vitamin C, total ascorbic acid",0.0
+2455,maple syrup,Cholesterol,0.0
+2456,maple syrup,"Fatty acids, total saturated",0.0
+2457,maple syrup,Protein,0.0
+2458,maple syrup,"Sodium, Na",16.0
+2459,margarita,Protein,0.0
+2460,margarita,Total lipid (fat),0.0
+2461,margarita,"Calcium, Ca",0.0
+2462,margarita,"Iron, Fe",0.0
+2463,margarita,"Magnesium, Mg",0.0
+2464,margarita,"Phosphorus, P",0.0
+2465,margarita,"Potassium, K",0.0
+2466,margarita,"Sodium, Na",9.0
+2467,margarita,"Zinc, Zn",1.0
+2468,margarita,"Copper, Cu",1.0
+2469,margarita,"Selenium, Se",1.0
+2470,margarita,"Vitamin A, RAE",0.0
+2471,margarita,Vitamin E (alpha-tocopherol),0.0
+2472,margarita,Vitamin D (D2 + D3),0.0
+2473,margarita,"Vitamin C, total ascorbic acid",2.0
+2474,margarita,Thiamin,1.0
+2475,margarita,Riboflavin,1.0
+2476,margarita,Niacin,0.0
+2477,margarita,Vitamin B-6,0.0
+2478,margarita,Vitamin B-12,0.0
+2479,margarita,"Choline, total",0.0
+2480,margarita,Vitamin K (phylloquinone),0.0
+2481,margarita,Cholesterol,0.0
+2482,margarita,"Fatty acids, total saturated",0.0
+2483,marsala,Protein,0.0
+2484,marsala,Total lipid (fat),32.0
+2485,marsala,"Calcium, Ca",0.0
+2486,marsala,"Iron, Fe",0.0
+2487,marsala,"Sodium, Na",77.0
+2488,marsala,"Vitamin C, total ascorbic acid",0.0
+2489,marsala,Cholesterol,0.0
+2490,marsala,"Fatty acids, total saturated",12.0
+2491,mayonnaise,Protein,0.0
+2492,mayonnaise,Total lipid (fat),42.0
+2493,mayonnaise,"Calcium, Ca",0.0
+2494,mayonnaise,"Iron, Fe",0.0
+2495,mayonnaise,"Sodium, Na",29.0
+2496,mayonnaise,"Vitamin C, total ascorbic acid",0.0
+2497,mayonnaise,Cholesterol,28.0
+2498,mayonnaise,"Fatty acids, total saturated",10.0
+2499,meat,"Calcium, Ca",1.0
+2500,meat,"Iron, Fe",4.0
+2501,meat,"Vitamin C, total ascorbic acid",0.0
+2502,meat,Protein,12.0
+2503,meat,Total lipid (fat),7.0
+2504,meat,"Sodium, Na",10.0
+2505,meat,Cholesterol,19.0
+2506,meat,"Fatty acids, total saturated",3.0
+2507,meatball,Protein,5.0
+2508,meatball,Total lipid (fat),5.0
+2509,meatball,"Calcium, Ca",5.0
+2510,meatball,"Iron, Fe",12.0
+2511,meatball,"Potassium, K",4.0
+2512,meatball,"Sodium, Na",22.0
+2513,meatball,"Vitamin C, total ascorbic acid",0.0
+2514,meatball,Cholesterol,1.0
+2515,meatball,"Fatty acids, total saturated",3.0
+2516,melon,Protein,1.0
+2517,melon,"Iron, Fe",6.0
+2518,melon,"Magnesium, Mg",10.0
+2519,melon,"Phosphorus, P",3.0
+2520,melon,"Sodium, Na",0.0
+2521,melon,"Copper, Cu",2.0
+2522,melon,"Manganese, Mn",2.0
+2523,melon,"Vitamin A, RAE",1.0
+2524,melon,"Vitamin C, total ascorbic acid",6.0
+2525,melon,Thiamin,2.0
+2526,melon,Riboflavin,1.0
+2527,melon,Total lipid (fat),1.0
+2528,melon,"Calcium, Ca",1.0
+2529,melon,"Potassium, K",3.0
+2530,melon,"Zinc, Zn",4.0
+2531,melon,Niacin,4.0
+2532,melon,Pantothenic acid,4.0
+2533,melon,Vitamin B-6,4.0
+2534,mezcal,Total lipid (fat),0.0
+2535,mezcal,"Calcium, Ca",0.0
+2536,mezcal,"Iron, Fe",0.0
+2537,mezcal,"Vitamin C, total ascorbic acid",33.0
+2538,mezcal,Cholesterol,0.0
+2539,mezcal,"Fatty acids, total saturated",0.0
+2540,mezcal,Protein,2.0
+2541,mezcal,"Sodium, Na",26.0
+2542,midori,Protein,0.0
+2543,midori,Total lipid (fat),0.0
+2544,midori,"Sodium, Na",0.0
+2545,mint,Protein,0.0
+2546,mint,Total lipid (fat),0.0
+2547,mint,"Sodium, Na",0.0
+2548,molasses,"Fatty acids, total saturated",0.0
+2549,molasses,"Vitamin A, RAE",0.0
+2550,molasses,"Choline, total",2.0
+2551,molasses,"Iron, Fe",26.0
+2552,molasses,"Magnesium, Mg",58.0
+2553,molasses,"Phosphorus, P",2.0
+2554,molasses,"Sodium, Na",2.0
+2555,molasses,"Copper, Cu",54.0
+2556,molasses,"Manganese, Mn",67.0
+2557,molasses,Thiamin,3.0
+2558,molasses,Riboflavin,0.0
+2559,molasses,Vitamin B-12,0.0
+2560,molasses,Total lipid (fat),0.0
+2561,molasses,"Calcium, Ca",16.0
+2562,molasses,"Potassium, K",31.0
+2563,molasses,"Zinc, Zn",3.0
+2564,molasses,Niacin,6.0
+2565,molasses,Pantothenic acid,16.0
+2566,molasses,Vitamin B-6,39.0
+2567,molasses,Cholesterol,0.0
+2568,molasses,Vitamin K (phylloquinone),0.0
+2569,molasses,"Vitamin C, total ascorbic acid",0.0
+2570,molasses,Protein,0.0
+2571,molasses,Vitamin E (alpha-tocopherol),0.0
+2572,molasses,Vitamin D (D2 + D3),0.0
+2573,molasses,"Selenium, Se",32.0
+2574,monterey jack,Protein,16.0
+2575,monterey jack,Total lipid (fat),17.0
+2576,monterey jack,"Calcium, Ca",51.0
+2577,monterey jack,"Iron, Fe",0.0
+2578,monterey jack,"Sodium, Na",27.0
+2579,monterey jack,"Vitamin C, total ascorbic acid",0.0
+2580,monterey jack,Cholesterol,33.0
+2581,monterey jack,"Fatty acids, total saturated",17.0
+2582,mozzarella,Protein,14.0
+2583,mozzarella,Total lipid (fat),14.0
+2584,mozzarella,"Calcium, Ca",41.0
+2585,mozzarella,"Iron, Fe",0.0
+2586,mozzarella,"Sodium, Na",8.0
+2587,mozzarella,"Vitamin C, total ascorbic acid",0.0
+2588,mozzarella,Cholesterol,24.0
+2589,mozzarella,"Fatty acids, total saturated",12.0
+2590,muffin,"Calcium, Ca",0.0
+2591,muffin,"Iron, Fe",4.0
+2592,muffin,"Vitamin C, total ascorbic acid",0.0
+2593,muffin,Cholesterol,0.0
+2594,muffin,"Fatty acids, total saturated",0.0
+2595,muffin,Protein,2.0
+2596,muffin,Total lipid (fat),2.0
+2597,muffin,"Sodium, Na",7.0
+2598,mussel,Protein,10.0
+2599,mussel,Total lipid (fat),2.0
+2600,mussel,"Calcium, Ca",3.0
+2601,mussel,"Iron, Fe",28.0
+2602,mussel,"Magnesium, Mg",10.0
+2603,mussel,"Phosphorus, P",20.0
+2604,mussel,"Potassium, K",9.0
+2605,mussel,"Sodium, Na",16.0
+2606,mussel,"Zinc, Zn",18.0
+2607,mussel,"Copper, Cu",13.0
+2608,mussel,"Selenium, Se",103.0
+2609,mussel,"Vitamin A, RAE",6.0
+2610,mussel,Vitamin E (alpha-tocopherol),5.0
+2611,mussel,Vitamin D (D2 + D3),0.0
+2612,mussel,"Vitamin C, total ascorbic acid",9.0
+2613,mussel,Thiamin,14.0
+2614,mussel,Riboflavin,19.0
+2615,mussel,Niacin,12.0
+2616,mussel,Vitamin B-6,3.0
+2617,mussel,Vitamin B-12,538.0
+2618,mussel,"Choline, total",15.0
+2619,mussel,Vitamin K (phylloquinone),0.0
+2620,mussel,Cholesterol,12.0
+2621,mussel,"Fatty acids, total saturated",0.0
+2622,mustard,Protein,3.0
+2623,mustard,Total lipid (fat),2.0
+2624,mustard,"Calcium, Ca",5.0
+2625,mustard,"Iron, Fe",9.0
+2626,mustard,"Magnesium, Mg",11.0
+2627,mustard,"Phosphorus, P",9.0
+2628,mustard,"Potassium, K",3.0
+2629,mustard,"Sodium, Na",48.0
+2630,mustard,"Zinc, Zn",6.0
+2631,mustard,"Copper, Cu",8.0
+2632,mustard,"Selenium, Se",62.0
+2633,mustard,"Vitamin A, RAE",0.0
+2634,mustard,Vitamin E (alpha-tocopherol),2.0
+2635,mustard,Vitamin D (D2 + D3),0.0
+2636,mustard,"Vitamin C, total ascorbic acid",0.0
+2637,mustard,Thiamin,16.0
+2638,mustard,Riboflavin,5.0
+2639,mustard,Niacin,4.0
+2640,mustard,Vitamin B-6,4.0
+2641,mustard,Vitamin B-12,0.0
+2642,mustard,"Choline, total",4.0
+2643,mustard,Vitamin K (phylloquinone),1.0
+2644,mustard,Cholesterol,0.0
+2645,mustard,"Fatty acids, total saturated",0.0
+2646,mustard greens,Protein,2.0
+2647,mustard greens,Total lipid (fat),0.0
+2648,mustard greens,"Calcium, Ca",8.0
+2649,mustard greens,"Iron, Fe",7.0
+2650,mustard greens,"Potassium, K",8.0
+2651,mustard greens,"Sodium, Na",1.0
+2652,mustard greens,"Vitamin C, total ascorbic acid",52.0
+2653,mustard greens,Cholesterol,0.0
+2654,mustard greens,"Fatty acids, total saturated",0.0
+2655,nectarine,Protein,1.0
+2656,nectarine,Total lipid (fat),0.0
+2657,nectarine,"Calcium, Ca",0.0
+2658,nectarine,"Iron, Fe",2.0
+2659,nectarine,"Magnesium, Mg",2.0
+2660,nectarine,"Phosphorus, P",2.0
+2661,nectarine,"Potassium, K",3.0
+2662,nectarine,"Sodium, Na",1.0
+2663,nectarine,"Zinc, Zn",2.0
+2664,nectarine,"Copper, Cu",9.0
+2665,nectarine,"Selenium, Se",0.0
+2666,nectarine,"Vitamin A, RAE",2.0
+2667,nectarine,Vitamin E (alpha-tocopherol),4.0
+2668,nectarine,Vitamin D (D2 + D3),0.0
+2669,nectarine,"Vitamin C, total ascorbic acid",3.0
+2670,nectarine,Thiamin,3.0
+2671,nectarine,Riboflavin,2.0
+2672,nectarine,Niacin,7.0
+2673,nectarine,Vitamin B-6,1.0
+2674,nectarine,Vitamin B-12,0.0
+2675,nectarine,"Choline, total",1.0
+2676,nectarine,Vitamin K (phylloquinone),2.0
+2677,nectarine,Cholesterol,0.0
+2678,nectarine,"Fatty acids, total saturated",0.0
+2679,noodle,Protein,2.0
+2680,noodle,Total lipid (fat),3.0
+2681,nut,"Vitamin C, total ascorbic acid",1.0
+2682,nut,Thiamin,35.0
+2683,nut,Riboflavin,4.0
+2684,nut,Protein,12.0
+2685,nut,"Iron, Fe",37.0
+2686,nut,"Magnesium, Mg",70.0
+2687,nut,"Phosphorus, P",47.0
+2688,nut,"Sodium, Na",1.0
+2689,nut,"Copper, Cu",244.0
+2690,nut,"Manganese, Mn",72.0
+2691,nut,Vitamin B-6,25.0
+2692,nut,"Calcium, Ca",3.0
+2693,nut,"Potassium, K",14.0
+2694,nut,"Zinc, Zn",53.0
+2695,nut,Niacin,7.0
+2696,nut,Total lipid (fat),25.0
+2697,nut,Vitamin D (D2 + D3),0.0
+2698,nut,"Fatty acids, total saturated",6.0
+2699,nut,"Vitamin A, RAE",0.0
+2700,nut,Vitamin B-12,0.0
+2701,nut,Vitamin K (phylloquinone),28.0
+2702,nut,Cholesterol,0.0
+2703,nut,"Selenium, Se",36.0
+2704,nut,Vitamin E (alpha-tocopherol),6.0
+2705,nut,Pantothenic acid,17.0
+2706,nutmeg,Vitamin B-12,0.0
+2707,nutmeg,"Vitamin C, total ascorbic acid",0.0
+2708,nutmeg,Thiamin,0.0
+2709,nutmeg,Riboflavin,0.0
+2710,nutmeg,Cholesterol,0.0
+2711,nutmeg,"Fatty acids, total saturated",75.0
+2712,nutmeg,Protein,0.0
+2713,nutmeg,"Iron, Fe",0.0
+2714,nutmeg,"Magnesium, Mg",0.0
+2715,nutmeg,"Phosphorus, P",0.0
+2716,nutmeg,"Sodium, Na",0.0
+2717,nutmeg,Niacin,0.0
+2718,nutmeg,Pantothenic acid,0.0
+2719,nutmeg,Vitamin B-6,0.0
+2720,nutmeg,Vitamin E (alpha-tocopherol),1.0
+2721,nutmeg,"Calcium, Ca",0.0
+2722,nutmeg,"Potassium, K",0.0
+2723,nutmeg,"Zinc, Zn",0.0
+2724,nutmeg,Total lipid (fat),56.0
+2725,nutmeg,"Vitamin A, RAE",0.0
+2726,nutmeg,"Selenium, Se",0.0
+2727,oat,Protein,9.0
+2728,oat,Total lipid (fat),4.0
+2729,oat,"Calcium, Ca",4.0
+2730,oat,"Iron, Fe",24.0
+2731,oat,"Magnesium, Mg",33.0
+2732,oat,"Phosphorus, P",33.0
+2733,oat,"Potassium, K",8.0
+2734,oat,"Sodium, Na",0.0
+2735,oat,"Zinc, Zn",33.0
+2736,oat,"Copper, Cu",43.0
+2737,oat,"Selenium, Se",53.0
+2738,oat,"Vitamin A, RAE",0.0
+2739,oat,Vitamin E (alpha-tocopherol),3.0
+2740,oat,Vitamin D (D2 + D3),0.0
+2741,oat,"Vitamin C, total ascorbic acid",0.0
+2742,oat,Thiamin,38.0
+2743,oat,Riboflavin,12.0
+2744,oat,Niacin,7.0
+2745,oat,Vitamin B-6,6.0
+2746,oat,Vitamin B-12,0.0
+2747,oat,"Choline, total",7.0
+2748,oat,Vitamin K (phylloquinone),2.0
+2749,oat,Cholesterol,0.0
+2750,oat,"Fatty acids, total saturated",1.0
+2751,oatmeal,Total lipid (fat),4.0
+2752,oatmeal,"Calcium, Ca",26.0
+2753,oatmeal,"Iron, Fe",133.0
+2754,oatmeal,"Potassium, K",0.0
+2755,oatmeal,"Sodium, Na",0.0
+2756,oatmeal,"Vitamin C, total ascorbic acid",74.0
+2757,oatmeal,Cholesterol,0.0
+2758,oatmeal,"Fatty acids, total saturated",0.0
+2759,octopus,Protein,9.0
+2760,octopus,Total lipid (fat),7.0
+2761,octopus,"Calcium, Ca",4.0
+2762,octopus,"Iron, Fe",27.0
+2763,octopus,"Magnesium, Mg",7.0
+2764,octopus,"Phosphorus, P",13.0
+2765,octopus,"Potassium, K",6.0
+2766,octopus,"Sodium, Na",23.0
+2767,octopus,"Zinc, Zn",13.0
+2768,octopus,"Copper, Cu",40.0
+2769,octopus,"Selenium, Se",68.0
+2770,octopus,"Vitamin A, RAE",4.0
+2771,octopus,Vitamin E (alpha-tocopherol),19.0
+2772,octopus,Vitamin D (D2 + D3),0.0
+2773,octopus,"Vitamin C, total ascorbic acid",3.0
+2774,octopus,Thiamin,14.0
+2775,octopus,Riboflavin,8.0
+2776,octopus,Niacin,16.0
+2777,octopus,Vitamin B-6,15.0
+2778,octopus,Vitamin B-12,542.0
+2779,octopus,"Choline, total",10.0
+2780,octopus,Vitamin K (phylloquinone),11.0
+2781,octopus,Cholesterol,14.0
+2782,octopus,"Fatty acids, total saturated",2.0
+2783,okra,Total lipid (fat),0.0
+2784,okra,"Calcium, Ca",6.0
+2785,okra,"Iron, Fe",3.0
+2786,okra,"Vitamin C, total ascorbic acid",13.0
+2787,okra,Cholesterol,0.0
+2788,okra,"Fatty acids, total saturated",0.0
+2789,okra,Protein,2.0
+2790,okra,"Sodium, Na",0.0
+2791,olive,Protein,0.0
+2792,olive,Total lipid (fat),17.0
+2793,olive,"Calcium, Ca",5.0
+2794,olive,"Iron, Fe",19.0
+2795,olive,"Magnesium, Mg",1.0
+2796,olive,"Phosphorus, P",0.0
+2797,olive,"Potassium, K",0.0
+2798,olive,"Sodium, Na",36.0
+2799,olive,"Zinc, Zn",1.0
+2800,olive,"Copper, Cu",18.0
+2801,olive,"Selenium, Se",1.0
+2802,olive,"Vitamin A, RAE",2.0
+2803,olive,Vitamin E (alpha-tocopherol),41.0
+2804,olive,Vitamin D (D2 + D3),0.0
+2805,olive,"Vitamin C, total ascorbic acid",0.0
+2806,olive,Thiamin,1.0
+2807,olive,Riboflavin,0.0
+2808,olive,Niacin,1.0
+2809,olive,Vitamin B-6,1.0
+2810,olive,Vitamin B-12,0.0
+2811,olive,"Choline, total",2.0
+2812,olive,Vitamin K (phylloquinone),5.0
+2813,olive,Cholesterol,0.0
+2814,olive,"Fatty acids, total saturated",4.0
+2815,onion,Protein,7.0
+2816,onion,Total lipid (fat),0.0
+2817,onion,"Calcium, Ca",1.0
+2818,onion,"Iron, Fe",20.0
+2819,onion,"Sodium, Na",19.0
+2820,onion,"Vitamin C, total ascorbic acid",0.0
+2821,onion,Thiamin,83.0
+2822,onion,Riboflavin,26.0
+2823,onion,Niacin,29.0
+2824,onion,Cholesterol,0.0
+2825,onion,"Fatty acids, total saturated",0.0
+2826,orange,Protein,3.0
+2827,orange,Total lipid (fat),0.0
+2828,orange,"Sodium, Na",17.0
+2829,orange juice,Total lipid (fat),0.0
+2830,orange juice,"Calcium, Ca",1.0
+2831,orange juice,"Magnesium, Mg",2.0
+2832,orange juice,"Vitamin C, total ascorbic acid",28.0
+2833,orange juice,Thiamin,0.0
+2834,orange juice,Riboflavin,1.0
+2835,orange juice,Niacin,1.0
+2836,orange juice,Vitamin B-6,2.0
+2837,orange juice,Cholesterol,0.0
+2838,orange juice,"Fatty acids, total saturated",0.0
+2839,orange juice,Protein,0.0
+2840,orange juice,"Potassium, K",4.0
+2841,orange juice,"Sodium, Na",0.0
+2842,oregano,Protein,0.0
+2843,oregano,Total lipid (fat),0.0
+2844,oregano,"Sodium, Na",0.0
+2845,oregano,Cholesterol,0.0
+2846,organic,Protein,1.0
+2847,organic,Total lipid (fat),2.0
+2848,organic,"Calcium, Ca",4.0
+2849,organic,"Iron, Fe",7.0
+2850,organic,"Magnesium, Mg",1.0
+2851,organic,"Phosphorus, P",2.0
+2852,organic,"Potassium, K",1.0
+2853,organic,"Sodium, Na",1.0
+2854,organic,"Zinc, Zn",5.0
+2855,organic,"Copper, Cu",6.0
+2856,organic,"Selenium, Se",3.0
+2857,organic,"Vitamin A, RAE",7.0
+2858,organic,Vitamin E (alpha-tocopherol),5.0
+2859,organic,Vitamin D (D2 + D3),5.0
+2860,organic,"Vitamin C, total ascorbic acid",8.0
+2861,organic,Thiamin,5.0
+2862,organic,Riboflavin,7.0
+2863,organic,Niacin,4.0
+2864,organic,Vitamin B-6,2.0
+2865,organic,Vitamin B-12,8.0
+2866,organic,"Choline, total",3.0
+2867,organic,Vitamin K (phylloquinone),5.0
+2868,organic,Cholesterol,0.0
+2869,organic,"Fatty acids, total saturated",1.0
+2870,orzo,"Calcium, Ca",0.0
+2871,orzo,"Iron, Fe",18.0
+2872,orzo,"Sodium, Na",0.0
+2873,orzo,"Vitamin C, total ascorbic acid",0.0
+2874,orzo,Thiamin,83.0
+2875,orzo,Riboflavin,23.0
+2876,orzo,Niacin,34.0
+2877,orzo,Cholesterol,0.0
+2878,orzo,"Fatty acids, total saturated",0.0
+2879,orzo,Protein,8.0
+2880,orzo,Total lipid (fat),1.0
+2881,oyster,Protein,3.0
+2882,oyster,Total lipid (fat),6.0
+2883,oyster,"Calcium, Ca",7.0
+2884,oyster,"Iron, Fe",14.0
+2885,oyster,"Magnesium, Mg",4.0
+2886,oyster,"Phosphorus, P",5.0
+2887,oyster,"Potassium, K",3.0
+2888,oyster,"Sodium, Na",22.0
+2889,oyster,"Zinc, Zn",91.0
+2890,oyster,"Copper, Cu",81.0
+2891,oyster,"Selenium, Se",23.0
+2892,oyster,"Vitamin A, RAE",11.0
+2893,oyster,Vitamin E (alpha-tocopherol),9.0
+2894,oyster,Vitamin D (D2 + D3),2.0
+2895,oyster,"Vitamin C, total ascorbic acid",2.0
+2896,oyster,Thiamin,12.0
+2897,oyster,Riboflavin,9.0
+2898,oyster,Niacin,12.0
+2899,oyster,Vitamin B-6,4.0
+2900,oyster,Vitamin B-12,81.0
+2901,oyster,"Choline, total",4.0
+2902,oyster,Vitamin K (phylloquinone),27.0
+2903,oyster,Cholesterol,3.0
+2904,oyster,"Fatty acids, total saturated",2.0
+2905,papaya,Protein,2.0
+2906,papaya,Total lipid (fat),0.0
+2907,papaya,"Calcium, Ca",12.0
+2908,papaya,"Iron, Fe",0.0
+2909,papaya,"Sodium, Na",1.0
+2910,papaya,"Vitamin C, total ascorbic acid",7.0
+2911,papaya,Cholesterol,0.0
+2912,papaya,"Fatty acids, total saturated",0.0
+2913,paprika,Protein,8.0
+2914,paprika,Total lipid (fat),7.0
+2915,paprika,"Calcium, Ca",20.0
+2916,paprika,"Iron, Fe",77.0
+2917,paprika,"Potassium, K",38.0
+2918,paprika,"Sodium, Na",41.0
+2919,paprika,Cholesterol,0.0
+2920,paprika,"Fatty acids, total saturated",2.0
+2921,parmesan,Vitamin D (D2 + D3),2.0
+2922,parmesan,Total lipid (fat),16.0
+2923,parmesan,"Calcium, Ca",66.0
+2924,parmesan,"Potassium, K",4.0
+2925,parmesan,"Zinc, Zn",38.0
+2926,parmesan,"Selenium, Se",63.0
+2927,parmesan,Vitamin E (alpha-tocopherol),4.0
+2928,parmesan,Niacin,0.0
+2929,parmesan,Pantothenic acid,9.0
+2930,parmesan,Vitamin B-6,5.0
+2931,parmesan,"Choline, total",3.0
+2932,parmesan,Protein,19.0
+2933,parmesan,"Iron, Fe",3.0
+2934,parmesan,"Magnesium, Mg",8.0
+2935,parmesan,"Phosphorus, P",50.0
+2936,parmesan,"Sodium, Na",78.0
+2937,parmesan,"Copper, Cu",4.0
+2938,parmesan,"Manganese, Mn",3.0
+2939,parmesan,"Vitamin A, RAE",29.0
+2940,parmesan,Cholesterol,29.0
+2941,parmesan,"Fatty acids, total saturated",13.0
+2942,parmesan,Vitamin K (phylloquinone),1.0
+2943,parmesan,Thiamin,2.0
+2944,parmesan,Riboflavin,28.0
+2945,parmesan,Vitamin B-12,58.0
+2946,parmesan,"Vitamin C, total ascorbic acid",0.0
+2947,parsley,Protein,0.0
+2948,parsley,Total lipid (fat),0.0
+2949,parsley,"Sodium, Na",0.0
+2950,parsnip,Protein,1.0
+2951,parsnip,Total lipid (fat),2.0
+2952,parsnip,"Calcium, Ca",3.0
+2953,parsnip,"Iron, Fe",3.0
+2954,parsnip,"Magnesium, Mg",7.0
+2955,parsnip,"Phosphorus, P",5.0
+2956,parsnip,"Potassium, K",8.0
+2957,parsnip,"Sodium, Na",6.0
+2958,parsnip,"Zinc, Zn",2.0
+2959,parsnip,"Copper, Cu",15.0
+2960,parsnip,"Selenium, Se",3.0
+2961,parsnip,"Vitamin A, RAE",1.0
+2962,parsnip,Vitamin E (alpha-tocopherol),9.0
+2963,parsnip,Vitamin D (D2 + D3),0.0
+2964,parsnip,"Vitamin C, total ascorbic acid",14.0
+2965,parsnip,Thiamin,7.0
+2966,parsnip,Riboflavin,4.0
+2967,parsnip,Niacin,4.0
+2968,parsnip,Vitamin B-6,6.0
+2969,parsnip,Vitamin B-12,0.0
+2970,parsnip,"Choline, total",5.0
+2971,parsnip,Vitamin K (phylloquinone),3.0
+2972,parsnip,Cholesterol,1.0
+2973,parsnip,"Fatty acids, total saturated",1.0
+2974,party,Protein,19.0
+2975,party,Total lipid (fat),30.0
+2976,party,"Calcium, Ca",5.0
+2977,party,"Iron, Fe",7.0
+2978,party,"Sodium, Na",14.0
+2979,party,"Vitamin C, total ascorbic acid",0.0
+2980,party,Cholesterol,0.0
+2981,party,"Fatty acids, total saturated",7.0
+2982,passion fruit,Total lipid (fat),0.0
+2983,passion fruit,"Calcium, Ca",0.0
+2984,passion fruit,"Iron, Fe",7.0
+2985,passion fruit,"Vitamin C, total ascorbic acid",37.0
+2986,passion fruit,Cholesterol,0.0
+2987,passion fruit,"Fatty acids, total saturated",0.0
+2988,passion fruit,Protein,1.0
+2989,passion fruit,"Sodium, Na",0.0
+2990,pasta,"Calcium, Ca",0.0
+2991,pasta,"Iron, Fe",18.0
+2992,pasta,"Sodium, Na",0.0
+2993,pasta,"Vitamin C, total ascorbic acid",0.0
+2994,pasta,Thiamin,83.0
+2995,pasta,Riboflavin,23.0
+2996,pasta,Niacin,34.0
+2997,pasta,Cholesterol,0.0
+2998,pasta,"Fatty acids, total saturated",0.0
+2999,pasta,Protein,8.0
+3000,pasta,Total lipid (fat),1.0
+3001,pea,Protein,9.0
+3002,pea,Total lipid (fat),8.0
+3003,pea,"Calcium, Ca",9.0
+3004,pea,"Iron, Fe",21.0
+3005,pea,"Magnesium, Mg",24.0
+3006,pea,"Phosphorus, P",22.0
+3007,pea,"Potassium, K",16.0
+3008,pea,"Sodium, Na",13.0
+3009,pea,"Zinc, Zn",30.0
+3010,pea,"Copper, Cu",49.0
+3011,pea,"Selenium, Se",13.0
+3012,pea,"Vitamin A, RAE",9.0
+3013,pea,Vitamin E (alpha-tocopherol),15.0
+3014,pea,Vitamin D (D2 + D3),0.0
+3015,pea,"Vitamin C, total ascorbic acid",0.0
+3016,pea,Thiamin,51.0
+3017,pea,Riboflavin,24.0
+3018,pea,Niacin,32.0
+3019,pea,Vitamin B-6,32.0
+3020,pea,Vitamin B-12,0.0
+3021,pea,"Choline, total",11.0
+3022,pea,Vitamin K (phylloquinone),42.0
+3023,pea,Cholesterol,0.0
+3024,pea,"Fatty acids, total saturated",4.0
+3025,peach,Protein,3.0
+3026,peach,Total lipid (fat),12.0
+3027,peach,"Calcium, Ca",2.0
+3028,peach,"Iron, Fe",9.0
+3029,peach,"Sodium, Na",15.0
+3030,peach,"Vitamin C, total ascorbic acid",6.0
+3031,peach,Thiamin,0.0
+3032,peach,Riboflavin,12.0
+3033,peach,Niacin,11.0
+3034,peach,Cholesterol,22.0
+3035,peach,"Fatty acids, total saturated",4.0
+3036,peanut,Protein,6.0
+3037,peanut,Total lipid (fat),15.0
+3038,peanut,"Calcium, Ca",5.0
+3039,peanut,"Iron, Fe",6.0
+3040,peanut,"Sodium, Na",2.0
+3041,peanut,"Vitamin C, total ascorbic acid",4.0
+3042,peanut,Cholesterol,5.0
+3043,peanut,"Fatty acids, total saturated",9.0
+3044,peanut butter,Protein,15.0
+3045,peanut butter,Total lipid (fat),29.0
+3046,peanut butter,"Calcium, Ca",4.0
+3047,peanut butter,"Iron, Fe",10.0
+3048,peanut butter,"Magnesium, Mg",40.0
+3049,peanut butter,"Phosphorus, P",27.0
+3050,peanut butter,"Potassium, K",12.0
+3051,peanut butter,"Sodium, Na",19.0
+3052,peanut butter,"Zinc, Zn",23.0
+3053,peanut butter,"Copper, Cu",47.0
+3054,peanut butter,"Selenium, Se",7.0
+3055,peanut butter,"Vitamin A, RAE",0.0
+3056,peanut butter,Vitamin E (alpha-tocopherol),61.0
+3057,peanut butter,Vitamin D (D2 + D3),0.0
+3058,peanut butter,"Vitamin C, total ascorbic acid",0.0
+3059,peanut butter,Thiamin,12.0
+3060,peanut butter,Riboflavin,15.0
+3061,peanut butter,Niacin,83.0
+3062,peanut butter,Vitamin B-6,26.0
+3063,peanut butter,Vitamin B-12,0.0
+3064,peanut butter,"Choline, total",11.0
+3065,peanut butter,Vitamin K (phylloquinone),0.0
+3066,peanut butter,Cholesterol,0.0
+3067,peanut butter,"Fatty acids, total saturated",8.0
+3068,pear,Protein,0.0
+3069,pear,Total lipid (fat),0.0
+3070,pear,"Calcium, Ca",1.0
+3071,pear,"Iron, Fe",1.0
+3072,pear,"Magnesium, Mg",2.0
+3073,pear,"Phosphorus, P",1.0
+3074,pear,"Potassium, K",2.0
+3075,pear,"Sodium, Na",0.0
+3076,pear,"Zinc, Zn",1.0
+3077,pear,"Copper, Cu",9.0
+3078,pear,"Selenium, Se",0.0
+3079,pear,"Vitamin A, RAE",0.0
+3080,pear,Vitamin E (alpha-tocopherol),1.0
+3081,pear,Vitamin D (D2 + D3),0.0
+3082,pear,"Vitamin C, total ascorbic acid",5.0
+3083,pear,Thiamin,1.0
+3084,pear,Riboflavin,2.0
+3085,pear,Niacin,1.0
+3086,pear,Vitamin B-6,2.0
+3087,pear,Vitamin B-12,0.0
+3088,pear,"Choline, total",1.0
+3089,pear,Vitamin K (phylloquinone),4.0
+3090,pear,Cholesterol,0.0
+3091,pear,"Fatty acids, total saturated",0.0
+3092,pecan,Total lipid (fat),40.0
+3093,pecan,"Calcium, Ca",5.0
+3094,pecan,"Potassium, K",9.0
+3095,pecan,"Zinc, Zn",41.0
+3096,pecan,Vitamin E (alpha-tocopherol),9.0
+3097,pecan,Niacin,7.0
+3098,pecan,Pantothenic acid,17.0
+3099,pecan,Vitamin B-6,12.0
+3100,pecan,Protein,6.0
+3101,pecan,"Iron, Fe",14.0
+3102,pecan,"Magnesium, Mg",29.0
+3103,pecan,"Phosphorus, P",22.0
+3104,pecan,"Sodium, Na",0.0
+3105,pecan,"Copper, Cu",133.0
+3106,pecan,"Manganese, Mn",196.0
+3107,pecan,"Vitamin C, total ascorbic acid",1.0
+3108,pecan,Thiamin,55.0
+3109,pecan,Riboflavin,10.0
+3110,pecan,"Fatty acids, total saturated",5.0
+3111,pecan,"Vitamin A, RAE",0.0
+3112,pecan,"Choline, total",7.0
+3113,pecan,Vitamin D (D2 + D3),0.0
+3114,pecan,Cholesterol,0.0
+3115,pecan,Vitamin B-12,0.0
+3116,pecan,Vitamin K (phylloquinone),3.0
+3117,pecan,"Selenium, Se",7.0
+3118,pepper,Protein,0.0
+3119,pepper,Total lipid (fat),0.0
+3120,pepper,"Calcium, Ca",34.0
+3121,pepper,"Iron, Fe",161.0
+3122,pepper,"Sodium, Na",0.0
+3123,pepper,"Vitamin C, total ascorbic acid",23.0
+3124,pepper,Cholesterol,0.0
+3125,pepper,"Fatty acids, total saturated",0.0
+3126,pernod,Protein,5.0
+3127,pernod,Total lipid (fat),12.0
+3128,pernod,"Calcium, Ca",16.0
+3129,pernod,"Iron, Fe",18.0
+3130,pernod,"Potassium, K",2.0
+3131,pernod,"Sodium, Na",19.0
+3132,pernod,Cholesterol,21.0
+3133,pernod,"Fatty acids, total saturated",10.0
+3134,persimmon,Protein,1.0
+3135,persimmon,Total lipid (fat),0.0
+3136,persimmon,"Calcium, Ca",2.0
+3137,persimmon,"Iron, Fe",2.0
+3138,persimmon,"Magnesium, Mg",6.0
+3139,persimmon,"Phosphorus, P",4.0
+3140,persimmon,"Potassium, K",9.0
+3141,persimmon,"Sodium, Na",0.0
+3142,persimmon,"Zinc, Zn",3.0
+3143,persimmon,"Copper, Cu",34.0
+3144,persimmon,"Selenium, Se",3.0
+3145,persimmon,"Vitamin A, RAE",12.0
+3146,persimmon,Vitamin E (alpha-tocopherol),13.0
+3147,persimmon,Vitamin D (D2 + D3),0.0
+3148,persimmon,"Vitamin C, total ascorbic acid",4.0
+3149,persimmon,Thiamin,5.0
+3150,persimmon,Riboflavin,4.0
+3151,persimmon,Niacin,1.0
+3152,persimmon,Vitamin B-6,14.0
+3153,persimmon,Vitamin B-12,0.0
+3154,persimmon,"Choline, total",4.0
+3155,persimmon,Vitamin K (phylloquinone),6.0
+3156,persimmon,Cholesterol,0.0
+3157,persimmon,"Fatty acids, total saturated",0.0
+3158,pickles,Protein,0.0
+3159,pickles,Total lipid (fat),0.0
+3160,pickles,"Iron, Fe",13.0
+3161,pickles,"Sodium, Na",0.0
+3162,pine nut,Protein,9.0
+3163,pine nut,Total lipid (fat),38.0
+3164,pine nut,"Calcium, Ca",1.0
+3165,pine nut,"Iron, Fe",31.0
+3166,pine nut,"Magnesium, Mg",60.0
+3167,pine nut,"Phosphorus, P",46.0
+3168,pine nut,"Potassium, K",13.0
+3169,pine nut,"Sodium, Na",0.0
+3170,pine nut,"Zinc, Zn",59.0
+3171,pine nut,"Copper, Cu",147.0
+3172,pine nut,"Selenium, Se",1.0
+3173,pine nut,"Vitamin A, RAE",0.0
+3174,pine nut,Vitamin E (alpha-tocopherol),62.0
+3175,pine nut,Vitamin D (D2 + D3),0.0
+3176,pine nut,"Vitamin C, total ascorbic acid",1.0
+3177,pine nut,Thiamin,30.0
+3178,pine nut,Riboflavin,17.0
+3179,pine nut,Niacin,27.0
+3180,pine nut,Vitamin B-6,6.0
+3181,pine nut,Vitamin B-12,0.0
+3182,pine nut,"Choline, total",10.0
+3183,pine nut,Vitamin K (phylloquinone),45.0
+3184,pine nut,Cholesterol,0.0
+3185,pine nut,"Fatty acids, total saturated",4.0
+3186,pineapple,Protein,0.0
+3187,pineapple,Total lipid (fat),0.0
+3188,pineapple,"Calcium, Ca",3.0
+3189,pineapple,"Iron, Fe",4.0
+3190,pineapple,"Sodium, Na",1.0
+3191,pineapple,"Vitamin C, total ascorbic acid",0.0
+3192,pineapple,Cholesterol,0.0
+3193,pineapple,"Fatty acids, total saturated",0.0
+3194,pistachio,Protein,13.0
+3195,pistachio,Total lipid (fat),26.0
+3196,pistachio,"Calcium, Ca",10.0
+3197,pistachio,"Iron, Fe",27.0
+3198,pistachio,"Magnesium, Mg",48.0
+3199,pistachio,"Phosphorus, P",40.0
+3200,pistachio,"Sodium, Na",17.0
+3201,pistachio,"Copper, Cu",148.0
+3202,pistachio,"Vitamin C, total ascorbic acid",4.0
+3203,pistachio,Thiamin,0.0
+3204,pistachio,Vitamin B-6,59.0
+3205,pistachio,Cholesterol,0.0
+3206,pistachio,"Fatty acids, total saturated",6.0
+3207,plantain,Protein,2.0
+3208,plantain,Total lipid (fat),17.0
+3209,plantain,"Calcium, Ca",1.0
+3210,plantain,"Iron, Fe",5.0
+3211,plantain,"Magnesium, Mg",17.0
+3212,plantain,"Phosphorus, P",6.0
+3213,plantain,"Potassium, K",17.0
+3214,plantain,"Sodium, Na",9.0
+3215,plantain,"Zinc, Zn",3.0
+3216,plantain,"Copper, Cu",22.0
+3217,plantain,"Selenium, Se",1.0
+3218,plantain,"Vitamin A, RAE",8.0
+3219,plantain,Vitamin E (alpha-tocopherol),34.0
+3220,plantain,Vitamin D (D2 + D3),0.0
+3221,plantain,"Vitamin C, total ascorbic acid",36.0
+3222,plantain,Thiamin,5.0
+3223,plantain,Riboflavin,3.0
+3224,plantain,Niacin,5.0
+3225,plantain,Vitamin B-6,27.0
+3226,plantain,Vitamin B-12,0.0
+3227,plantain,"Choline, total",0.0
+3228,plantain,Vitamin K (phylloquinone),24.0
+3229,plantain,Cholesterol,0.0
+3230,plantain,"Fatty acids, total saturated",7.0
+3231,plum,Protein,0.0
+3232,plum,Total lipid (fat),0.0
+3233,plum,"Calcium, Ca",0.0
+3234,plum,"Iron, Fe",1.0
+3235,plum,"Magnesium, Mg",1.0
+3236,plum,"Phosphorus, P",1.0
+3237,plum,"Potassium, K",2.0
+3238,plum,"Sodium, Na",0.0
+3239,plum,"Zinc, Zn",1.0
+3240,plum,"Copper, Cu",5.0
+3241,plum,"Selenium, Se",0.0
+3242,plum,"Vitamin A, RAE",1.0
+3243,plum,Vitamin E (alpha-tocopherol),1.0
+3244,plum,Vitamin D (D2 + D3),0.0
+3245,plum,"Vitamin C, total ascorbic acid",6.0
+3246,plum,Thiamin,1.0
+3247,plum,Riboflavin,1.0
+3248,plum,Niacin,2.0
+3249,plum,Vitamin B-6,1.0
+3250,plum,Vitamin B-12,0.0
+3251,plum,"Choline, total",0.0
+3252,plum,Vitamin K (phylloquinone),4.0
+3253,plum,Cholesterol,0.0
+3254,plum,"Fatty acids, total saturated",0.0
+3255,poblano,Protein,0.0
+3256,pomegranate,Protein,0.0
+3257,pomegranate,Total lipid (fat),0.0
+3258,pomegranate,"Calcium, Ca",1.0
+3259,pomegranate,"Sodium, Na",1.0
+3260,pomegranate,"Vitamin C, total ascorbic acid",7.0
+3261,pomegranate,Cholesterol,0.0
+3262,pomegranate,"Fatty acids, total saturated",0.0
+3263,pomegranate juice,Protein,0.0
+3264,pomegranate juice,Total lipid (fat),0.0
+3265,pomegranate juice,"Calcium, Ca",3.0
+3266,pomegranate juice,"Iron, Fe",0.0
+3267,pomegranate juice,"Potassium, K",6.0
+3268,pomegranate juice,"Sodium, Na",0.0
+3269,pomegranate juice,"Vitamin C, total ascorbic acid",11.0
+3270,pomegranate juice,Cholesterol,0.0
+3271,poppy,Protein,1.0
+3272,poppy,Total lipid (fat),19.0
+3273,poppy,"Calcium, Ca",5.0
+3274,poppy,"Iron, Fe",1.0
+3275,poppy,"Magnesium, Mg",2.0
+3276,poppy,"Phosphorus, P",4.0
+3277,poppy,"Potassium, K",1.0
+3278,poppy,"Sodium, Na",41.0
+3279,poppy,"Zinc, Zn",2.0
+3280,poppy,"Copper, Cu",4.0
+3281,poppy,"Selenium, Se",2.0
+3282,poppy,"Vitamin A, RAE",6.0
+3283,poppy,Vitamin E (alpha-tocopherol),16.0
+3284,poppy,Vitamin D (D2 + D3),0.0
+3285,poppy,"Vitamin C, total ascorbic acid",0.0
+3286,poppy,Thiamin,2.0
+3287,poppy,Riboflavin,4.0
+3288,poppy,Niacin,0.0
+3289,poppy,Vitamin B-6,1.0
+3290,poppy,Vitamin B-12,4.0
+3291,poppy,"Choline, total",1.0
+3292,poppy,Vitamin K (phylloquinone),42.0
+3293,poppy,Cholesterol,5.0
+3294,poppy,"Fatty acids, total saturated",5.0
+3295,pork,Protein,14.0
+3296,pork,Total lipid (fat),2.0
+3297,pork,"Calcium, Ca",0.0
+3298,pork,"Iron, Fe",7.0
+3299,pork,"Sodium, Na",9.0
+3300,pork,"Vitamin C, total ascorbic acid",0.0
+3301,pork,Cholesterol,25.0
+3302,pork,"Fatty acids, total saturated",2.0
+3303,pork chop,Protein,12.0
+3304,pork chop,Total lipid (fat),5.0
+3305,pork chop,"Calcium, Ca",1.0
+3306,pork chop,"Iron, Fe",4.0
+3307,pork chop,"Magnesium, Mg",5.0
+3308,pork chop,"Phosphorus, P",14.0
+3309,pork chop,"Potassium, K",6.0
+3310,pork chop,"Sodium, Na",18.0
+3311,pork chop,"Zinc, Zn",12.0
+3312,pork chop,"Copper, Cu",8.0
+3313,pork chop,"Selenium, Se",74.0
+3314,pork chop,"Vitamin A, RAE",3.0
+3315,pork chop,Vitamin E (alpha-tocopherol),3.0
+3316,pork chop,Vitamin D (D2 + D3),2.0
+3317,pork chop,"Vitamin C, total ascorbic acid",0.0
+3318,pork chop,Thiamin,37.0
+3319,pork chop,Riboflavin,13.0
+3320,pork chop,Niacin,36.0
+3321,pork chop,Vitamin B-6,24.0
+3322,pork chop,Vitamin B-12,17.0
+3323,pork chop,"Choline, total",10.0
+3324,pork chop,Vitamin K (phylloquinone),3.0
+3325,pork chop,Cholesterol,15.0
+3326,pork chop,"Fatty acids, total saturated",2.0
+3327,pork rib,Protein,11.0
+3328,pork rib,Total lipid (fat),8.0
+3329,pork rib,"Calcium, Ca",3.0
+3330,pork rib,"Iron, Fe",5.0
+3331,pork rib,"Magnesium, Mg",4.0
+3332,pork rib,"Phosphorus, P",10.0
+3333,pork rib,"Potassium, K",5.0
+3334,pork rib,"Sodium, Na",29.0
+3335,pork rib,"Zinc, Zn",20.0
+3336,pork rib,"Copper, Cu",11.0
+3337,pork rib,"Selenium, Se",41.0
+3338,pork rib,"Vitamin A, RAE",1.0
+3339,pork rib,Vitamin E (alpha-tocopherol),3.0
+3340,pork rib,Vitamin D (D2 + D3),4.0
+3341,pork rib,"Vitamin C, total ascorbic acid",0.0
+3342,pork rib,Thiamin,27.0
+3343,pork rib,Riboflavin,19.0
+3344,pork rib,Niacin,34.0
+3345,pork rib,Vitamin B-6,18.0
+3346,pork rib,Vitamin B-12,21.0
+3347,pork rib,"Choline, total",10.0
+3348,pork rib,Vitamin K (phylloquinone),0.0
+3349,pork rib,Cholesterol,19.0
+3350,pork rib,"Fatty acids, total saturated",5.0
+3351,pork tenderloin,"Vitamin C, total ascorbic acid",1.0
+3352,pork tenderloin,Protein,12.0
+3353,pork tenderloin,Total lipid (fat),1.0
+3354,pork tenderloin,"Sodium, Na",13.0
+3355,pork tenderloin,Cholesterol,18.0
+3356,pork tenderloin,"Fatty acids, total saturated",1.0
+3357,port,Vitamin E (alpha-tocopherol),2.0
+3358,port,Vitamin K (phylloquinone),2.0
+3359,port,"Vitamin A, RAE",35.0
+3360,port,Vitamin D (D2 + D3),2.0
+3361,port,Vitamin B-6,3.0
+3362,port,"Choline, total",3.0
+3363,port,Niacin,0.0
+3364,port,Pantothenic acid,4.0
+3365,port,"Calcium, Ca",50.0
+3366,port,"Potassium, K",3.0
+3367,port,"Zinc, Zn",24.0
+3368,port,Total lipid (fat),16.0
+3369,port,Protein,16.0
+3370,port,"Iron, Fe",2.0
+3371,port,"Magnesium, Mg",6.0
+3372,port,"Phosphorus, P",29.0
+3373,port,"Sodium, Na",23.0
+3374,port,"Copper, Cu",2.0
+3375,port,"Manganese, Mn",0.0
+3376,port,Cholesterol,41.0
+3377,port,"Fatty acids, total saturated",14.0
+3378,port,"Vitamin C, total ascorbic acid",0.0
+3379,port,Thiamin,1.0
+3380,port,Riboflavin,18.0
+3381,port,Vitamin B-12,62.0
+3382,port,"Selenium, Se",26.0
+3383,potato,Protein,3.0
+3384,potato,Total lipid (fat),6.0
+3385,potato,"Calcium, Ca",3.0
+3386,potato,"Iron, Fe",4.0
+3387,potato,"Magnesium, Mg",3.0
+3388,potato,"Phosphorus, P",6.0
+3389,potato,"Potassium, K",5.0
+3390,potato,"Sodium, Na",10.0
+3391,potato,"Zinc, Zn",4.0
+3392,potato,"Copper, Cu",2.0
+3393,potato,"Selenium, Se",11.0
+3394,potato,"Vitamin A, RAE",7.0
+3395,potato,Vitamin E (alpha-tocopherol),9.0
+3396,potato,Vitamin D (D2 + D3),2.0
+3397,potato,"Vitamin C, total ascorbic acid",1.0
+3398,potato,Thiamin,9.0
+3399,potato,Riboflavin,11.0
+3400,potato,Niacin,6.0
+3401,potato,Vitamin B-6,5.0
+3402,potato,Vitamin B-12,12.0
+3403,potato,"Choline, total",10.0
+3404,potato,Vitamin K (phylloquinone),7.0
+3405,potato,Cholesterol,25.0
+3406,potato,"Fatty acids, total saturated",3.0
+3407,poultry,Protein,0.0
+3408,poultry,Total lipid (fat),1.0
+3409,poultry,"Calcium, Ca",1.0
+3410,poultry,"Iron, Fe",0.0
+3411,poultry,"Magnesium, Mg",1.0
+3412,poultry,"Phosphorus, P",2.0
+3413,poultry,"Potassium, K",1.0
+3414,poultry,"Sodium, Na",17.0
+3415,poultry,"Zinc, Zn",1.0
+3416,poultry,"Copper, Cu",2.0
+3417,poultry,"Selenium, Se",1.0
+3418,poultry,"Vitamin A, RAE",0.0
+3419,poultry,Vitamin E (alpha-tocopherol),1.0
+3420,poultry,Vitamin D (D2 + D3),0.0
+3421,poultry,"Vitamin C, total ascorbic acid",0.0
+3422,poultry,Thiamin,2.0
+3423,poultry,Riboflavin,4.0
+3424,poultry,Niacin,2.0
+3425,poultry,Vitamin B-6,1.0
+3426,poultry,Vitamin B-12,0.0
+3427,poultry,"Choline, total",1.0
+3428,poultry,Vitamin K (phylloquinone),0.0
+3429,poultry,Cholesterol,2.0
+3430,poultry,"Fatty acids, total saturated",1.0
+3431,poultry sausage,Protein,0.0
+3432,poultry sausage,Total lipid (fat),1.0
+3433,poultry sausage,"Calcium, Ca",1.0
+3434,poultry sausage,"Iron, Fe",0.0
+3435,poultry sausage,"Magnesium, Mg",1.0
+3436,poultry sausage,"Phosphorus, P",2.0
+3437,poultry sausage,"Potassium, K",1.0
+3438,poultry sausage,"Sodium, Na",17.0
+3439,poultry sausage,"Zinc, Zn",1.0
+3440,poultry sausage,"Copper, Cu",2.0
+3441,poultry sausage,"Selenium, Se",1.0
+3442,poultry sausage,"Vitamin A, RAE",0.0
+3443,poultry sausage,Vitamin E (alpha-tocopherol),1.0
+3444,poultry sausage,Vitamin D (D2 + D3),0.0
+3445,poultry sausage,"Vitamin C, total ascorbic acid",0.0
+3446,poultry sausage,Thiamin,2.0
+3447,poultry sausage,Riboflavin,4.0
+3448,poultry sausage,Niacin,2.0
+3449,poultry sausage,Vitamin B-6,1.0
+3450,poultry sausage,Vitamin B-12,0.0
+3451,poultry sausage,"Choline, total",1.0
+3452,poultry sausage,Vitamin K (phylloquinone),0.0
+3453,poultry sausage,Cholesterol,2.0
+3454,poultry sausage,"Fatty acids, total saturated",1.0
+3455,prosciutto,Total lipid (fat),6.0
+3456,prosciutto,"Calcium, Ca",0.0
+3457,prosciutto,"Iron, Fe",8.0
+3458,prosciutto,"Potassium, K",0.0
+3459,prosciutto,"Sodium, Na",89.0
+3460,prosciutto,Cholesterol,12.0
+3461,prosciutto,"Fatty acids, total saturated",3.0
+3462,prune,Protein,1.0
+3463,prune,"Vitamin C, total ascorbic acid",5.0
+3464,prune,Thiamin,3.0
+3465,prune,Cholesterol,0.0
+3466,prune,"Iron, Fe",16.0
+3467,prune,"Phosphorus, P",6.0
+3468,prune,"Sodium, Na",1.0
+3469,prune,Total lipid (fat),0.0
+3470,prune,"Calcium, Ca",2.0
+3471,prune,"Potassium, K",18.0
+3472,prune,Niacin,16.0
+3473,prune,Pantothenic acid,9.0
+3474,prune,"Fatty acids, total saturated",0.0
+3475,prune,"Vitamin A, RAE",11.0
+3476,pumpkin,Protein,1.0
+3477,pumpkin,Total lipid (fat),0.0
+3478,pumpkin,"Calcium, Ca",3.0
+3479,pumpkin,"Iron, Fe",3.0
+3480,pumpkin,"Sodium, Na",0.0
+3481,pumpkin,"Vitamin C, total ascorbic acid",4.0
+3482,pumpkin,Cholesterol,0.0
+3483,pumpkin,"Fatty acids, total saturated",0.0
+3484,punch,"Calcium, Ca",0.0
+3485,punch,"Iron, Fe",0.0
+3486,punch,"Vitamin C, total ascorbic acid",0.0
+3487,quail,Protein,17.0
+3488,quail,Total lipid (fat),8.0
+3489,quail,"Calcium, Ca",1.0
+3490,quail,"Iron, Fe",24.0
+3491,quail,"Magnesium, Mg",5.0
+3492,quail,"Phosphorus, P",22.0
+3493,quail,"Potassium, K",5.0
+3494,quail,"Sodium, Na",9.0
+3495,quail,"Zinc, Zn",28.0
+3496,quail,"Copper, Cu",66.0
+3497,quail,"Selenium, Se",39.0
+3498,quail,"Vitamin A, RAE",8.0
+3499,quail,Vitamin E (alpha-tocopherol),5.0
+3500,quail,Vitamin D (D2 + D3),1.0
+3501,quail,"Vitamin C, total ascorbic acid",3.0
+3502,quail,Thiamin,18.0
+3503,quail,Riboflavin,23.0
+3504,quail,Niacin,49.0
+3505,quail,Vitamin B-6,36.0
+3506,quail,Vitamin B-12,15.0
+3507,quail,"Choline, total",12.0
+3508,quail,Vitamin K (phylloquinone),4.0
+3509,quail,Cholesterol,29.0
+3510,quail,"Fatty acids, total saturated",3.0
+3511,quince,"Vitamin A, RAE",0.0
+3512,quince,Protein,0.0
+3513,quince,"Vitamin C, total ascorbic acid",17.0
+3514,quince,Thiamin,2.0
+3515,quince,Riboflavin,2.0
+3516,quince,"Iron, Fe",4.0
+3517,quince,"Magnesium, Mg",2.0
+3518,quince,"Phosphorus, P",1.0
+3519,quince,"Sodium, Na",0.0
+3520,quince,"Copper, Cu",14.0
+3521,quince,"Fatty acids, total saturated",0.0
+3522,quince,Vitamin B-12,0.0
+3523,quince,Cholesterol,0.0
+3524,quince,Total lipid (fat),0.0
+3525,quince,"Calcium, Ca",1.0
+3526,quince,"Potassium, K",4.0
+3527,quince,Niacin,1.0
+3528,quince,Pantothenic acid,2.0
+3529,quince,Vitamin B-6,2.0
+3530,quince,"Zinc, Zn",0.0
+3531,quince,"Selenium, Se",1.0
+3532,quinoa,Protein,2.0
+3533,quinoa,Total lipid (fat),1.0
+3534,quinoa,"Calcium, Ca",1.0
+3535,quinoa,"Iron, Fe",4.0
+3536,quinoa,"Sodium, Na",7.0
+3537,quinoa,"Vitamin C, total ascorbic acid",4.0
+3538,quinoa,Cholesterol,0.0
+3539,quinoa,"Fatty acids, total saturated",0.0
+3540,rabbit,Protein,20.0
+3541,rabbit,Total lipid (fat),5.0
+3542,rabbit,"Calcium, Ca",2.0
+3543,rabbit,"Iron, Fe",13.0
+3544,rabbit,"Magnesium, Mg",5.0
+3545,rabbit,"Phosphorus, P",18.0
+3546,rabbit,"Potassium, K",6.0
+3547,rabbit,"Sodium, Na",15.0
+3548,rabbit,"Zinc, Zn",21.0
+3549,rabbit,"Copper, Cu",19.0
+3550,rabbit,"Selenium, Se",69.0
+3551,rabbit,"Vitamin A, RAE",0.0
+3552,rabbit,Vitamin E (alpha-tocopherol),3.0
+3553,rabbit,Vitamin D (D2 + D3),0.0
+3554,rabbit,"Vitamin C, total ascorbic acid",0.0
+3555,rabbit,Thiamin,5.0
+3556,rabbit,Riboflavin,13.0
+3557,rabbit,Niacin,44.0
+3558,rabbit,Vitamin B-6,20.0
+3559,rabbit,Vitamin B-12,269.0
+3560,rabbit,"Choline, total",22.0
+3561,rabbit,Vitamin K (phylloquinone),1.0
+3562,rabbit,Cholesterol,28.0
+3563,rabbit,"Fatty acids, total saturated",2.0
+3564,rack of lamb,"Potassium, K",7.0
+3565,rack of lamb,"Zinc, Zn",20.0
+3566,rack of lamb,"Selenium, Se",5.0
+3567,rack of lamb,Vitamin E (alpha-tocopherol),2.0
+3568,rack of lamb,Niacin,31.0
+3569,rack of lamb,Pantothenic acid,12.0
+3570,rack of lamb,Vitamin B-6,14.0
+3571,rack of lamb,Total lipid (fat),6.0
+3572,rack of lamb,"Calcium, Ca",1.0
+3573,rack of lamb,Cholesterol,21.0
+3574,rack of lamb,"Fatty acids, total saturated",4.0
+3575,rack of lamb,Protein,13.0
+3576,rack of lamb,"Iron, Fe",8.0
+3577,rack of lamb,"Magnesium, Mg",5.0
+3578,rack of lamb,"Phosphorus, P",15.0
+3579,rack of lamb,"Sodium, Na",3.0
+3580,rack of lamb,"Copper, Cu",11.0
+3581,rack of lamb,"Manganese, Mn",0.0
+3582,rack of lamb,"Vitamin A, RAE",1.0
+3583,rack of lamb,Vitamin D (D2 + D3),0.0
+3584,rack of lamb,"Vitamin C, total ascorbic acid",0.0
+3585,rack of lamb,Thiamin,5.0
+3586,rack of lamb,Riboflavin,13.0
+3587,rack of lamb,Vitamin B-12,43.0
+3588,radicchio,Protein,1.0
+3589,radicchio,Total lipid (fat),0.0
+3590,radicchio,"Calcium, Ca",2.0
+3591,radicchio,"Iron, Fe",2.0
+3592,radicchio,"Magnesium, Mg",3.0
+3593,radicchio,"Phosphorus, P",4.0
+3594,radicchio,"Potassium, K",3.0
+3595,radicchio,"Sodium, Na",2.0
+3596,radicchio,"Zinc, Zn",8.0
+3597,radicchio,"Copper, Cu",84.0
+3598,radicchio,"Manganese, Mn",0.0
+3599,radicchio,"Vitamin C, total ascorbic acid",7.0
+3600,radicchio,Vitamin K (phylloquinone),142.0
+3601,radicchio,Cholesterol,0.0
+3602,radicchio,"Fatty acids, total saturated",0.0
+3603,radish,Protein,0.0
+3604,radish,Total lipid (fat),0.0
+3605,radish,"Calcium, Ca",2.0
+3606,radish,"Iron, Fe",2.0
+3607,radish,"Magnesium, Mg",2.0
+3608,radish,"Phosphorus, P",2.0
+3609,radish,"Potassium, K",5.0
+3610,radish,"Sodium, Na",2.0
+3611,radish,"Zinc, Zn",3.0
+3612,radish,"Copper, Cu",6.0
+3613,radish,"Selenium, Se",1.0
+3614,radish,"Vitamin A, RAE",0.0
+3615,radish,Vitamin E (alpha-tocopherol),0.0
+3616,radish,Vitamin D (D2 + D3),0.0
+3617,radish,"Vitamin C, total ascorbic acid",16.0
+3618,radish,Thiamin,1.0
+3619,radish,Riboflavin,3.0
+3620,radish,Niacin,2.0
+3621,radish,Vitamin B-6,4.0
+3622,radish,Vitamin B-12,0.0
+3623,radish,"Choline, total",1.0
+3624,radish,Vitamin K (phylloquinone),1.0
+3625,radish,Cholesterol,0.0
+3626,radish,"Fatty acids, total saturated",0.0
+3627,raisin,Protein,7.0
+3628,raisin,Total lipid (fat),2.0
+3629,raisin,"Calcium, Ca",3.0
+3630,raisin,"Iron, Fe",17.0
+3631,raisin,"Sodium, Na",15.0
+3632,raisin,"Vitamin C, total ascorbic acid",7.0
+3633,raisin,Thiamin,0.0
+3634,raisin,Riboflavin,22.0
+3635,raisin,Niacin,21.0
+3636,raisin,Cholesterol,0.0
+3637,raisin,"Fatty acids, total saturated",0.0
+3638,raspberry,Protein,0.0
+3639,raspberry,Total lipid (fat),0.0
+3640,raspberry,"Calcium, Ca",0.0
+3641,raspberry,"Iron, Fe",0.0
+3642,raspberry,"Potassium, K",0.0
+3643,raspberry,"Sodium, Na",0.0
+3644,raspberry,Cholesterol,0.0
+3645,raspberry,"Fatty acids, total saturated",0.0
+3646,red wine,Protein,0.0
+3647,red wine,Total lipid (fat),0.0
+3648,red wine,"Calcium, Ca",1.0
+3649,red wine,"Iron, Fe",3.0
+3650,red wine,"Magnesium, Mg",3.0
+3651,red wine,"Phosphorus, P",2.0
+3652,red wine,"Potassium, K",3.0
+3653,red wine,"Sodium, Na",0.0
+3654,red wine,"Zinc, Zn",1.0
+3655,red wine,"Copper, Cu",1.0
+3656,red wine,"Selenium, Se",0.0
+3657,red wine,"Vitamin A, RAE",0.0
+3658,red wine,Vitamin E (alpha-tocopherol),0.0
+3659,red wine,Vitamin D (D2 + D3),0.0
+3660,red wine,"Vitamin C, total ascorbic acid",0.0
+3661,red wine,Thiamin,0.0
+3662,red wine,Riboflavin,2.0
+3663,red wine,Niacin,1.0
+3664,red wine,Vitamin B-6,3.0
+3665,red wine,Vitamin B-12,0.0
+3666,red wine,"Choline, total",1.0
+3667,red wine,Vitamin K (phylloquinone),0.0
+3668,red wine,Cholesterol,0.0
+3669,red wine,"Fatty acids, total saturated",0.0
+3670,rhubarb,Protein,1.0
+3671,rhubarb,Total lipid (fat),0.0
+3672,rhubarb,"Calcium, Ca",6.0
+3673,rhubarb,"Iron, Fe",1.0
+3674,rhubarb,"Magnesium, Mg",3.0
+3675,rhubarb,"Phosphorus, P",1.0
+3676,rhubarb,"Potassium, K",5.0
+3677,rhubarb,"Sodium, Na",0.0
+3678,rhubarb,"Zinc, Zn",1.0
+3679,rhubarb,"Copper, Cu",2.0
+3680,rhubarb,"Selenium, Se",2.0
+3681,rhubarb,"Vitamin A, RAE",0.0
+3682,rhubarb,Vitamin E (alpha-tocopherol),2.0
+3683,rhubarb,Vitamin D (D2 + D3),0.0
+3684,rhubarb,"Vitamin C, total ascorbic acid",6.0
+3685,rhubarb,Thiamin,1.0
+3686,rhubarb,Riboflavin,2.0
+3687,rhubarb,Niacin,2.0
+3688,rhubarb,Vitamin B-6,1.0
+3689,rhubarb,Vitamin B-12,0.0
+3690,rhubarb,"Choline, total",1.0
+3691,rhubarb,Vitamin K (phylloquinone),22.0
+3692,rhubarb,Cholesterol,0.0
+3693,rhubarb,"Fatty acids, total saturated",0.0
+3694,rice,"Calcium, Ca",2.0
+3695,rice,"Iron, Fe",10.0
+3696,rice,"Vitamin C, total ascorbic acid",3.0
+3697,rice,Cholesterol,0.0
+3698,rice,"Fatty acids, total saturated",0.0
+3699,rice,Protein,2.0
+3700,rice,Total lipid (fat),1.0
+3701,rice,"Sodium, Na",20.0
+3702,ricotta,Protein,6.0
+3703,ricotta,Total lipid (fat),5.0
+3704,ricotta,"Calcium, Ca",19.0
+3705,ricotta,"Iron, Fe",2.0
+3706,ricotta,"Magnesium, Mg",4.0
+3707,ricotta,"Phosphorus, P",14.0
+3708,ricotta,"Potassium, K",4.0
+3709,ricotta,"Sodium, Na",4.0
+3710,ricotta,"Zinc, Zn",9.0
+3711,ricotta,"Copper, Cu",2.0
+3712,ricotta,"Selenium, Se",20.0
+3713,ricotta,"Vitamin A, RAE",13.0
+3714,ricotta,Vitamin E (alpha-tocopherol),1.0
+3715,ricotta,Vitamin D (D2 + D3),1.0
+3716,ricotta,"Vitamin C, total ascorbic acid",0.0
+3717,ricotta,Thiamin,3.0
+3718,ricotta,Riboflavin,20.0
+3719,ricotta,Niacin,1.0
+3720,ricotta,Vitamin B-6,4.0
+3721,ricotta,Vitamin B-12,23.0
+3722,ricotta,"Choline, total",3.0
+3723,ricotta,Vitamin K (phylloquinone),0.0
+3724,ricotta,Cholesterol,13.0
+3725,ricotta,"Fatty acids, total saturated",5.0
+3726,roast,Protein,19.0
+3727,roast,Total lipid (fat),5.0
+3728,roast,"Calcium, Ca",1.0
+3729,roast,"Iron, Fe",16.0
+3730,roast,"Magnesium, Mg",4.0
+3731,roast,"Phosphorus, P",18.0
+3732,roast,"Potassium, K",7.0
+3733,roast,"Sodium, Na",16.0
+3734,roast,"Zinc, Zn",67.0
+3735,roast,"Copper, Cu",8.0
+3736,roast,"Selenium, Se",55.0
+3737,roast,"Vitamin A, RAE",0.0
+3738,roast,Vitamin E (alpha-tocopherol),1.0
+3739,roast,Vitamin D (D2 + D3),0.0
+3740,roast,"Vitamin C, total ascorbic acid",0.0
+3741,roast,Thiamin,6.0
+3742,roast,Riboflavin,20.0
+3743,roast,Niacin,36.0
+3744,roast,Vitamin B-6,32.0
+3745,roast,Vitamin B-12,108.0
+3746,roast,"Choline, total",15.0
+3747,roast,Vitamin K (phylloquinone),1.0
+3748,roast,Cholesterol,30.0
+3749,roast,"Fatty acids, total saturated",3.0
+3750,root vegetable,"Fatty acids, total saturated",0.0
+3751,root vegetable,"Vitamin A, RAE",0.0
+3752,root vegetable,"Choline, total",2.0
+3753,root vegetable,Protein,1.0
+3754,root vegetable,"Iron, Fe",4.0
+3755,root vegetable,"Magnesium, Mg",9.0
+3756,root vegetable,"Phosphorus, P",4.0
+3757,root vegetable,"Sodium, Na",0.0
+3758,root vegetable,"Copper, Cu",9.0
+3759,root vegetable,"Manganese, Mn",10.0
+3760,root vegetable,Cholesterol,0.0
+3761,root vegetable,"Vitamin C, total ascorbic acid",3.0
+3762,root vegetable,Thiamin,1.0
+3763,root vegetable,Riboflavin,2.0
+3764,root vegetable,Vitamin B-12,0.0
+3765,root vegetable,Total lipid (fat),0.0
+3766,root vegetable,"Calcium, Ca",3.0
+3767,root vegetable,"Potassium, K",7.0
+3768,root vegetable,"Zinc, Zn",3.0
+3769,root vegetable,Niacin,2.0
+3770,root vegetable,Pantothenic acid,6.0
+3771,root vegetable,Vitamin B-6,14.0
+3772,root vegetable,Vitamin D (D2 + D3),0.0
+3773,root vegetable,"Selenium, Se",1.0
+3774,root vegetable,Vitamin E (alpha-tocopherol),3.0
+3775,root vegetable,Vitamin K (phylloquinone),1.0
+3776,rosemary,Protein,0.0
+3777,rosemary,Total lipid (fat),0.0
+3778,rosemary,"Sodium, Na",0.0
+3779,rosemary,Cholesterol,0.0
+3780,rum,Protein,0.0
+3781,rum,Total lipid (fat),0.0
+3782,rum,"Calcium, Ca",0.0
+3783,rum,"Iron, Fe",0.0
+3784,rum,"Magnesium, Mg",0.0
+3785,rum,"Phosphorus, P",0.0
+3786,rum,"Potassium, K",0.0
+3787,rum,"Sodium, Na",0.0
+3788,rum,"Zinc, Zn",0.0
+3789,rum,"Copper, Cu",2.0
+3790,rum,"Selenium, Se",0.0
+3791,rum,"Vitamin A, RAE",0.0
+3792,rum,Vitamin E (alpha-tocopherol),0.0
+3793,rum,Vitamin D (D2 + D3),0.0
+3794,rum,"Vitamin C, total ascorbic acid",0.0
+3795,rum,Thiamin,0.0
+3796,rum,Riboflavin,0.0
+3797,rum,Niacin,0.0
+3798,rum,Vitamin B-6,0.0
+3799,rum,Vitamin B-12,0.0
+3800,rum,"Choline, total",0.0
+3801,rum,Vitamin K (phylloquinone),0.0
+3802,rum,Cholesterol,0.0
+3803,rum,"Fatty acids, total saturated",0.0
+3804,rutabaga,Total lipid (fat),0.0
+3805,rutabaga,"Calcium, Ca",3.0
+3806,rutabaga,"Iron, Fe",2.0
+3807,rutabaga,"Vitamin C, total ascorbic acid",27.0
+3808,rutabaga,Cholesterol,0.0
+3809,rutabaga,"Fatty acids, total saturated",0.0
+3810,rutabaga,Protein,1.0
+3811,rutabaga,"Sodium, Na",0.0
+3812,rye,Protein,5.0
+3813,rye,Total lipid (fat),1.0
+3814,rye,"Calcium, Ca",5.0
+3815,rye,"Iron, Fe",16.0
+3816,rye,"Sodium, Na",28.0
+3817,rye,"Vitamin C, total ascorbic acid",0.0
+3818,rye,Cholesterol,0.0
+3819,rye,"Fatty acids, total saturated",1.0
+3820,saffron,"Calcium, Ca",9.0
+3821,saffron,"Potassium, K",37.0
+3822,saffron,Protein,8.0
+3823,saffron,"Phosphorus, P",20.0
+3824,saffron,"Iron, Fe",62.0
+3825,saffron,Vitamin B-12,0.0
+3826,saffron,Cholesterol,0.0
+3827,saffron,"Copper, Cu",36.0
+3828,saffron,"Manganese, Mn",1235.0
+3829,saffron,"Fatty acids, total saturated",1.0
+3830,saffron,Total lipid (fat),3.0
+3831,saffron,"Selenium, Se",10.0
+3832,saffron,"Zinc, Zn",10.0
+3833,saffron,Niacin,9.0
+3834,saffron,"Magnesium, Mg",63.0
+3835,saffron,"Vitamin C, total ascorbic acid",90.0
+3836,saffron,Thiamin,10.0
+3837,saffron,Riboflavin,21.0
+3838,saffron,Vitamin D (D2 + D3),0.0
+3839,saffron,Vitamin B-6,59.0
+3840,saffron,"Vitamin A, RAE",3.0
+3841,saffron,"Sodium, Na",6.0
+3842,sage,Protein,0.0
+3843,sage,Total lipid (fat),0.0
+3844,sage,"Sodium, Na",0.0
+3845,sage,Cholesterol,0.0
+3846,sake,Vitamin E (alpha-tocopherol),0.0
+3847,sake,"Vitamin A, RAE",0.0
+3848,sake,Vitamin K (phylloquinone),0.0
+3849,sake,Vitamin D (D2 + D3),0.0
+3850,sake,"Selenium, Se",3.0
+3851,sake,Total lipid (fat),0.0
+3852,sake,Niacin,0.0
+3853,sake,Vitamin B-6,0.0
+3854,sake,"Choline, total",0.0
+3855,sake,"Calcium, Ca",0.0
+3856,sake,"Potassium, K",1.0
+3857,sake,"Zinc, Zn",0.0
+3858,sake,"Iron, Fe",1.0
+3859,sake,"Magnesium, Mg",1.0
+3860,sake,"Phosphorus, P",0.0
+3861,sake,"Sodium, Na",0.0
+3862,sake,"Copper, Cu",1.0
+3863,sake,Cholesterol,0.0
+3864,sake,"Vitamin C, total ascorbic acid",0.0
+3865,sake,Thiamin,0.0
+3866,sake,Riboflavin,0.0
+3867,sake,Vitamin B-12,0.0
+3868,sake,"Fatty acids, total saturated",0.0
+3869,sake,Protein,0.0
+3870,salmon,Protein,13.0
+3871,salmon,Total lipid (fat),2.0
+3872,salmon,"Calcium, Ca",1.0
+3873,salmon,"Iron, Fe",2.0
+3874,salmon,"Sodium, Na",3.0
+3875,salmon,"Vitamin C, total ascorbic acid",1.0
+3876,salmon,Cholesterol,18.0
+3877,salmon,"Fatty acids, total saturated",0.0
+3878,sardine,Protein,12.0
+3879,sardine,Total lipid (fat),4.0
+3880,sardine,"Calcium, Ca",24.0
+3881,sardine,"Iron, Fe",17.0
+3882,sardine,"Magnesium, Mg",8.0
+3883,sardine,"Phosphorus, P",26.0
+3884,sardine,"Potassium, K",6.0
+3885,sardine,"Sodium, Na",17.0
+3886,sardine,"Zinc, Zn",10.0
+3887,sardine,"Copper, Cu",18.0
+3888,sardine,"Selenium, Se",72.0
+3889,sardine,"Vitamin A, RAE",2.0
+3890,sardine,Vitamin E (alpha-tocopherol),8.0
+3891,sardine,Vitamin D (D2 + D3),14.0
+3892,sardine,"Vitamin C, total ascorbic acid",0.0
+3893,sardine,Thiamin,23.0
+3894,sardine,Riboflavin,18.0
+3895,sardine,Niacin,31.0
+3896,sardine,Vitamin B-6,8.0
+3897,sardine,Vitamin B-12,207.0
+3898,sardine,"Choline, total",9.0
+3899,sardine,Vitamin K (phylloquinone),1.0
+3900,sardine,Cholesterol,26.0
+3901,sardine,"Fatty acids, total saturated",1.0
+3902,sauce,Total lipid (fat),0.0
+3903,sauce,"Calcium, Ca",0.0
+3904,sauce,"Iron, Fe",0.0
+3905,sauce,"Vitamin C, total ascorbic acid",0.0
+3906,sauce,Cholesterol,0.0
+3907,sauce,"Fatty acids, total saturated",0.0
+3908,sauce,Protein,0.0
+3909,sauce,"Sodium, Na",186.0
+3910,sausage,Protein,7.0
+3911,sausage,Total lipid (fat),10.0
+3912,sausage,"Calcium, Ca",2.0
+3913,sausage,"Iron, Fe",20.0
+3914,sausage,"Sodium, Na",87.0
+3915,sausage,"Vitamin C, total ascorbic acid",2.0
+3916,sausage,Cholesterol,13.0
+3917,sausage,"Fatty acids, total saturated",4.0
+3918,scallop,Protein,7.0
+3919,scallop,Total lipid (fat),7.0
+3920,scallop,"Calcium, Ca",1.0
+3921,scallop,"Iron, Fe",7.0
+3922,scallop,"Magnesium, Mg",5.0
+3923,scallop,"Phosphorus, P",22.0
+3924,scallop,"Potassium, K",4.0
+3925,scallop,"Sodium, Na",20.0
+3926,scallop,"Zinc, Zn",8.0
+3927,scallop,"Copper, Cu",5.0
+3928,scallop,"Selenium, Se",23.0
+3929,scallop,"Vitamin A, RAE",0.0
+3930,scallop,Vitamin E (alpha-tocopherol),13.0
+3931,scallop,Vitamin D (D2 + D3),0.0
+3932,scallop,"Vitamin C, total ascorbic acid",0.0
+3933,scallop,Thiamin,12.0
+3934,scallop,Riboflavin,6.0
+3935,scallop,Niacin,10.0
+3936,scallop,Vitamin B-6,4.0
+3937,scallop,Vitamin B-12,39.0
+3938,scallop,"Choline, total",10.0
+3939,scallop,Vitamin K (phylloquinone),11.0
+3940,scallop,Cholesterol,8.0
+3941,scallop,"Fatty acids, total saturated",1.0
+3942,scotch,Protein,0.0
+3943,scotch,Total lipid (fat),0.0
+3944,scotch,"Calcium, Ca",0.0
+3945,scotch,"Iron, Fe",0.0
+3946,scotch,"Magnesium, Mg",0.0
+3947,scotch,"Phosphorus, P",0.0
+3948,scotch,"Potassium, K",0.0
+3949,scotch,"Sodium, Na",0.0
+3950,scotch,"Zinc, Zn",0.0
+3951,scotch,"Copper, Cu",2.0
+3952,scotch,"Selenium, Se",0.0
+3953,scotch,"Vitamin A, RAE",0.0
+3954,scotch,Vitamin E (alpha-tocopherol),0.0
+3955,scotch,Vitamin D (D2 + D3),0.0
+3956,scotch,"Vitamin C, total ascorbic acid",0.0
+3957,scotch,Thiamin,0.0
+3958,scotch,Riboflavin,0.0
+3959,scotch,Niacin,0.0
+3960,scotch,Vitamin B-6,0.0
+3961,scotch,Vitamin B-12,0.0
+3962,scotch,"Choline, total",0.0
+3963,scotch,Vitamin K (phylloquinone),0.0
+3964,scotch,Cholesterol,0.0
+3965,scotch,"Fatty acids, total saturated",0.0
+3966,seed,Vitamin D (D2 + D3),0.0
+3967,seed,"Vitamin A, RAE",1.0
+3968,seed,"Vitamin C, total ascorbic acid",7.0
+3969,seed,Thiamin,24.0
+3970,seed,Riboflavin,13.0
+3971,seed,Vitamin B-12,0.0
+3972,seed,Cholesterol,0.0
+3973,seed,"Fatty acids, total saturated",1.0
+3974,seed,"Iron, Fe",3.0
+3975,seed,"Magnesium, Mg",12.0
+3976,seed,"Phosphorus, P",10.0
+3977,seed,"Sodium, Na",1.0
+3978,seed,"Copper, Cu",119.0
+3979,seed,"Manganese, Mn",6.0
+3980,seed,Protein,4.0
+3981,seed,"Calcium, Ca",5.0
+3982,seed,"Potassium, K",19.0
+3983,seed,"Zinc, Zn",8.0
+3984,seed,Niacin,33.0
+3985,seed,Pantothenic acid,16.0
+3986,seed,Vitamin B-6,18.0
+3987,seed,Total lipid (fat),1.0
+3988,semolina,Protein,7.0
+3989,semolina,Total lipid (fat),1.0
+3990,semolina,"Calcium, Ca",0.0
+3991,semolina,"Iron, Fe",19.0
+3992,semolina,"Potassium, K",2.0
+3993,semolina,"Sodium, Na",1.0
+3994,semolina,Cholesterol,0.0
+3995,semolina,"Fatty acids, total saturated",0.0
+3996,sesame,Protein,2.0
+3997,sesame,Total lipid (fat),25.0
+3998,sesame,"Calcium, Ca",1.0
+3999,sesame,"Iron, Fe",3.0
+4000,sesame,"Magnesium, Mg",0.0
+4001,sesame,"Phosphorus, P",3.0
+4002,sesame,"Potassium, K",3.0
+4003,sesame,"Sodium, Na",43.0
+4004,sesame,"Zinc, Zn",1.0
+4005,sesame,"Copper, Cu",0.0
+4006,sesame,"Selenium, Se",3.0
+4007,sesame,"Vitamin A, RAE",0.0
+4008,sesame,Vitamin E (alpha-tocopherol),33.0
+4009,sesame,Vitamin D (D2 + D3),0.0
+4010,sesame,"Vitamin C, total ascorbic acid",0.0
+4011,sesame,Thiamin,0.0
+4012,sesame,Riboflavin,0.0
+4013,sesame,Niacin,0.0
+4014,sesame,Vitamin B-6,0.0
+4015,sesame,Vitamin B-12,0.0
+4016,sesame,"Choline, total",1.0
+4017,sesame,Vitamin K (phylloquinone),47.0
+4018,sesame,Cholesterol,0.0
+4019,sesame,"Fatty acids, total saturated",5.0
+4020,sesame oil,Protein,0.0
+4021,sesame oil,Total lipid (fat),56.0
+4022,sesame oil,"Calcium, Ca",0.0
+4023,sesame oil,"Iron, Fe",0.0
+4024,sesame oil,"Magnesium, Mg",0.0
+4025,sesame oil,"Phosphorus, P",0.0
+4026,sesame oil,"Potassium, K",0.0
+4027,sesame oil,"Sodium, Na",0.0
+4028,sesame oil,"Zinc, Zn",0.0
+4029,sesame oil,"Copper, Cu",0.0
+4030,sesame oil,"Selenium, Se",0.0
+4031,sesame oil,"Vitamin A, RAE",0.0
+4032,sesame oil,Vitamin E (alpha-tocopherol),9.0
+4033,sesame oil,Vitamin D (D2 + D3),0.0
+4034,sesame oil,"Vitamin C, total ascorbic acid",0.0
+4035,sesame oil,Thiamin,0.0
+4036,sesame oil,Riboflavin,0.0
+4037,sesame oil,Niacin,0.0
+4038,sesame oil,Vitamin B-6,0.0
+4039,sesame oil,Vitamin B-12,0.0
+4040,sesame oil,"Choline, total",0.0
+4041,sesame oil,Vitamin K (phylloquinone),11.0
+4042,sesame oil,Cholesterol,0.0
+4043,sesame oil,"Fatty acids, total saturated",12.0
+4044,shallot,Total lipid (fat),0.0
+4045,shallot,"Calcium, Ca",3.0
+4046,shallot,"Potassium, K",7.0
+4047,shallot,"Zinc, Zn",4.0
+4048,shallot,Niacin,1.0
+4049,shallot,Pantothenic acid,6.0
+4050,shallot,Vitamin B-6,20.0
+4051,shallot,"Iron, Fe",7.0
+4052,shallot,"Magnesium, Mg",5.0
+4053,shallot,"Phosphorus, P",5.0
+4054,shallot,"Sodium, Na",1.0
+4055,shallot,"Copper, Cu",10.0
+4056,shallot,"Manganese, Mn",13.0
+4057,shallot,Cholesterol,0.0
+4058,shallot,Protein,2.0
+4059,shallot,"Fatty acids, total saturated",0.0
+4060,shallot,"Vitamin C, total ascorbic acid",9.0
+4061,shallot,Thiamin,5.0
+4062,shallot,Riboflavin,2.0
+4063,shallot,"Choline, total",2.0
+4064,shallot,Vitamin E (alpha-tocopherol),0.0
+4065,shallot,"Vitamin A, RAE",0.0
+4066,shallot,Vitamin B-12,0.0
+4067,shallot,Vitamin K (phylloquinone),1.0
+4068,shallot,Vitamin D (D2 + D3),0.0
+4069,shallot,"Selenium, Se",2.0
+4070,shellfish,Protein,10.0
+4071,shellfish,Total lipid (fat),4.0
+4072,shellfish,"Calcium, Ca",5.0
+4073,shellfish,"Iron, Fe",3.0
+4074,shellfish,"Magnesium, Mg",6.0
+4075,shellfish,"Phosphorus, P",22.0
+4076,shellfish,"Potassium, K",3.0
+4077,shellfish,"Sodium, Na",15.0
+4078,shellfish,"Zinc, Zn",10.0
+4079,shellfish,"Copper, Cu",23.0
+4080,shellfish,"Selenium, Se",61.0
+4081,shellfish,"Vitamin A, RAE",7.0
+4082,shellfish,Vitamin E (alpha-tocopherol),15.0
+4083,shellfish,Vitamin D (D2 + D3),0.0
+4084,shellfish,"Vitamin C, total ascorbic acid",0.0
+4085,shellfish,Thiamin,6.0
+4086,shellfish,Riboflavin,3.0
+4087,shellfish,Niacin,14.0
+4088,shellfish,Vitamin B-6,10.0
+4089,shellfish,Vitamin B-12,43.0
+4090,shellfish,"Choline, total",16.0
+4091,shellfish,Vitamin K (phylloquinone),5.0
+4092,shellfish,Cholesterol,47.0
+4093,shellfish,"Fatty acids, total saturated",1.0
+4094,sherry,Protein,0.0
+4095,sherry,Total lipid (fat),0.0
+4096,sherry,"Sodium, Na",0.0
+4097,sherry,Cholesterol,0.0
+4098,sherry,"Fatty acids, total saturated",0.0
+4099,shrimp,Protein,8.0
+4100,shrimp,Total lipid (fat),0.0
+4101,shrimp,"Calcium, Ca",5.0
+4102,shrimp,"Iron, Fe",2.0
+4103,shrimp,"Sodium, Na",21.0
+4104,shrimp,"Vitamin C, total ascorbic acid",0.0
+4105,shrimp,Cholesterol,37.0
+4106,shrimp,"Fatty acids, total saturated",0.0
+4107,snapper,Protein,14.0
+4108,snapper,Total lipid (fat),1.0
+4109,snapper,"Calcium, Ca",2.0
+4110,snapper,"Iron, Fe",0.0
+4111,snapper,"Potassium, K",9.0
+4112,snapper,"Sodium, Na",3.0
+4113,snapper,Cholesterol,13.0
+4114,snapper,"Fatty acids, total saturated",0.0
+4115,sorbet,Protein,1.0
+4116,sorbet,Total lipid (fat),0.0
+4117,sorbet,"Calcium, Ca",0.0
+4118,sorbet,"Iron, Fe",1.0
+4119,sorbet,"Magnesium, Mg",0.0
+4120,sorbet,"Phosphorus, P",0.0
+4121,sorbet,"Potassium, K",1.0
+4122,sorbet,"Sodium, Na",1.0
+4123,sorbet,"Zinc, Zn",0.0
+4124,sorbet,"Copper, Cu",1.0
+4125,sorbet,"Selenium, Se",0.0
+4126,sorbet,"Vitamin A, RAE",0.0
+4127,sorbet,Vitamin E (alpha-tocopherol),0.0
+4128,sorbet,Vitamin D (D2 + D3),0.0
+4129,sorbet,"Vitamin C, total ascorbic acid",6.0
+4130,sorbet,Thiamin,0.0
+4131,sorbet,Riboflavin,1.0
+4132,sorbet,Niacin,1.0
+4133,sorbet,Vitamin B-6,1.0
+4134,sorbet,Vitamin B-12,0.0
+4135,sorbet,"Choline, total",1.0
+4136,sorbet,Vitamin K (phylloquinone),0.0
+4137,sorbet,Cholesterol,0.0
+4138,sorbet,"Fatty acids, total saturated",0.0
+4139,sour cream,Protein,2.0
+4140,sour cream,Total lipid (fat),11.0
+4141,sour cream,"Calcium, Ca",5.0
+4142,sour cream,"Iron, Fe",0.0
+4143,sour cream,"Sodium, Na",1.0
+4144,sour cream,"Vitamin C, total ascorbic acid",0.0
+4145,sour cream,Cholesterol,22.0
+4146,sour cream,"Fatty acids, total saturated",10.0
+4147,sourdough,Protein,5.0
+4148,sourdough,Total lipid (fat),0.0
+4149,sourdough,"Calcium, Ca",5.0
+4150,sourdough,"Iron, Fe",14.0
+4151,sourdough,"Sodium, Na",29.0
+4152,sourdough,"Vitamin C, total ascorbic acid",0.0
+4153,sourdough,Cholesterol,0.0
+4154,sourdough,"Fatty acids, total saturated",0.0
+4155,soy,Protein,18.0
+4156,soy,Total lipid (fat),4.0
+4157,soy,"Calcium, Ca",13.0
+4158,soy,"Iron, Fe",29.0
+4159,soy,"Magnesium, Mg",40.0
+4160,soy,"Phosphorus, P",1.0
+4161,soy,"Potassium, K",0.0
+4162,soy,"Sodium, Na",37.0
+4163,soy,"Zinc, Zn",14.0
+4164,soy,"Copper, Cu",273.0
+4165,soy,"Selenium, Se",22.0
+4166,soy,"Vitamin A, RAE",0.0
+4167,soy,Vitamin E (alpha-tocopherol),7.0
+4168,soy,Vitamin D (D2 + D3),0.0
+4169,soy,"Vitamin C, total ascorbic acid",0.0
+4170,soy,Thiamin,28.0
+4171,soy,Riboflavin,27.0
+4172,soy,Niacin,19.0
+4173,soy,Vitamin B-6,30.0
+4174,soy,Vitamin B-12,0.0
+4175,soy,"Choline, total",20.0
+4176,soy,Vitamin K (phylloquinone),10.0
+4177,soy,Cholesterol,0.0
+4178,soy,"Fatty acids, total saturated",1.0
+4179,soy sauce,Protein,5.0
+4180,soy sauce,Total lipid (fat),0.0
+4181,soy sauce,"Calcium, Ca",3.0
+4182,soy sauce,"Iron, Fe",8.0
+4183,soy sauce,"Magnesium, Mg",18.0
+4184,soy sauce,"Phosphorus, P",13.0
+4185,soy sauce,"Potassium, K",9.0
+4186,soy sauce,"Sodium, Na",239.0
+4187,soy sauce,"Zinc, Zn",8.0
+4188,soy sauce,"Copper, Cu",5.0
+4189,soy sauce,"Selenium, Se",1.0
+4190,soy sauce,"Vitamin A, RAE",0.0
+4191,soy sauce,Vitamin E (alpha-tocopherol),0.0
+4192,soy sauce,Vitamin D (D2 + D3),0.0
+4193,soy sauce,"Vitamin C, total ascorbic acid",0.0
+4194,soy sauce,Thiamin,3.0
+4195,soy sauce,Riboflavin,13.0
+4196,soy sauce,Niacin,14.0
+4197,soy sauce,Vitamin B-6,9.0
+4198,soy sauce,Vitamin B-12,0.0
+4199,soy sauce,"Choline, total",3.0
+4200,soy sauce,Vitamin K (phylloquinone),0.0
+4201,soy sauce,Cholesterol,0.0
+4202,soy sauce,"Fatty acids, total saturated",0.0
+4203,sparkling wine,Protein,0.0
+4204,sparkling wine,Total lipid (fat),0.0
+4205,sparkling wine,"Calcium, Ca",0.0
+4206,sparkling wine,"Iron, Fe",1.0
+4207,sparkling wine,"Magnesium, Mg",1.0
+4208,sparkling wine,"Phosphorus, P",0.0
+4209,sparkling wine,"Potassium, K",1.0
+4210,sparkling wine,"Sodium, Na",0.0
+4211,sparkling wine,"Zinc, Zn",0.0
+4212,sparkling wine,"Copper, Cu",1.0
+4213,sparkling wine,"Selenium, Se",3.0
+4214,sparkling wine,"Vitamin A, RAE",0.0
+4215,sparkling wine,Vitamin E (alpha-tocopherol),0.0
+4216,sparkling wine,Vitamin D (D2 + D3),0.0
+4217,sparkling wine,"Vitamin C, total ascorbic acid",0.0
+4218,sparkling wine,Thiamin,0.0
+4219,sparkling wine,Riboflavin,0.0
+4220,sparkling wine,Niacin,0.0
+4221,sparkling wine,Vitamin B-6,0.0
+4222,sparkling wine,Vitamin B-12,0.0
+4223,sparkling wine,"Choline, total",0.0
+4224,sparkling wine,Vitamin K (phylloquinone),0.0
+4225,sparkling wine,Cholesterol,0.0
+4226,sparkling wine,"Fatty acids, total saturated",0.0
+4227,spice,Total lipid (fat),7.0
+4228,spice,"Calcium, Ca",52.0
+4229,spice,"Potassium, K",14.0
+4230,spice,"Zinc, Zn",22.0
+4231,spice,Niacin,14.0
+4232,spice,Cholesterol,0.0
+4233,spice,Vitamin B-12,0.0
+4234,spice,"Iron, Fe",109.0
+4235,spice,"Magnesium, Mg",32.0
+4236,spice,"Phosphorus, P",9.0
+4237,spice,"Sodium, Na",2.0
+4238,spice,"Copper, Cu",54.0
+4239,spice,"Manganese, Mn",687.0
+4240,spice,"Vitamin C, total ascorbic acid",26.0
+4241,spice,Thiamin,11.0
+4242,spice,Riboflavin,11.0
+4243,spice,Protein,4.0
+4244,spice,"Selenium, Se",17.0
+4245,spice,Vitamin K (phylloquinone),24.0
+4246,spice,"Fatty acids, total saturated",5.0
+4247,spice,Vitamin E (alpha-tocopherol),13.0
+4248,spice,"Vitamin A, RAE",1.0
+4249,spice,Vitamin D (D2 + D3),0.0
+4250,spice,Vitamin B-6,24.0
+4251,spice,"Choline, total",4.0
+4252,spinach,Protein,2.0
+4253,spinach,Total lipid (fat),0.0
+4254,spinach,"Calcium, Ca",8.0
+4255,spinach,"Iron, Fe",13.0
+4256,spinach,"Potassium, K",12.0
+4257,spinach,"Sodium, Na",3.0
+4258,spinach,"Manganese, Mn",43.0
+4259,spinach,"Vitamin C, total ascorbic acid",31.0
+4260,spinach,Vitamin K (phylloquinone),403.0
+4261,spinach,Cholesterol,0.0
+4262,spinach,"Fatty acids, total saturated",0.0
+4263,squash,Protein,0.0
+4264,squash,Total lipid (fat),2.0
+4265,squash,"Calcium, Ca",2.0
+4266,squash,"Iron, Fe",2.0
+4267,squash,"Magnesium, Mg",3.0
+4268,squash,"Phosphorus, P",1.0
+4269,squash,"Potassium, K",2.0
+4270,squash,"Sodium, Na",6.0
+4271,squash,"Zinc, Zn",2.0
+4272,squash,"Copper, Cu",4.0
+4273,squash,"Selenium, Se",1.0
+4274,squash,"Vitamin A, RAE",2.0
+4275,squash,Vitamin E (alpha-tocopherol),3.0
+4276,squash,Vitamin D (D2 + D3),0.0
+4277,squash,"Vitamin C, total ascorbic acid",4.0
+4278,squash,Thiamin,3.0
+4279,squash,Riboflavin,2.0
+4280,squash,Niacin,5.0
+4281,squash,Vitamin B-6,7.0
+4282,squash,Vitamin B-12,0.0
+4283,squash,"Choline, total",1.0
+4284,squash,Vitamin K (phylloquinone),2.0
+4285,squash,Cholesterol,1.0
+4286,squash,"Fatty acids, total saturated",1.0
+4287,squid,Protein,10.0
+4288,squid,Total lipid (fat),9.0
+4289,squid,"Calcium, Ca",6.0
+4290,squid,"Iron, Fe",7.0
+4291,squid,"Sodium, Na",28.0
+4292,squid,"Vitamin C, total ascorbic acid",0.0
+4293,squid,Cholesterol,9.0
+4294,squid,"Fatty acids, total saturated",2.0
+4295,steak,Protein,0.0
+4296,steak,Total lipid (fat),0.0
+4297,steak,"Calcium, Ca",0.0
+4298,steak,"Iron, Fe",0.0
+4299,steak,"Sodium, Na",0.0
+4300,steak,"Vitamin C, total ascorbic acid",0.0
+4301,steak,Cholesterol,0.0
+4302,steak,"Fatty acids, total saturated",0.0
+4303,strawberry,Protein,0.0
+4304,strawberry,Total lipid (fat),3.0
+4305,strawberry,"Calcium, Ca",0.0
+4306,strawberry,"Iron, Fe",1.0
+4307,strawberry,"Potassium, K",1.0
+4308,strawberry,"Sodium, Na",0.0
+4309,strawberry,Cholesterol,0.0
+4310,strawberry,"Fatty acids, total saturated",5.0
+4311,sugar snap pea,Protein,2.0
+4312,sugar snap pea,Total lipid (fat),0.0
+4313,sugar snap pea,"Calcium, Ca",4.0
+4314,sugar snap pea,"Iron, Fe",12.0
+4315,sugar snap pea,"Sodium, Na",0.0
+4316,sugar snap pea,"Vitamin C, total ascorbic acid",71.0
+4317,sugar snap pea,Cholesterol,0.0
+4318,sugar snap pea,"Fatty acids, total saturated",0.0
+4319,swiss cheese,Protein,17.0
+4320,swiss cheese,Total lipid (fat),15.0
+4321,swiss cheese,"Calcium, Ca",67.0
+4322,swiss cheese,"Iron, Fe",0.0
+4323,swiss cheese,"Sodium, Na",9.0
+4324,swiss cheese,"Vitamin C, total ascorbic acid",0.0
+4325,swiss cheese,Cholesterol,29.0
+4326,swiss cheese,"Fatty acids, total saturated",14.0
+4327,swordfish,Protein,15.0
+4328,swordfish,Total lipid (fat),7.0
+4329,swordfish,"Calcium, Ca",1.0
+4330,swordfish,"Iron, Fe",5.0
+4331,swordfish,"Magnesium, Mg",8.0
+4332,swordfish,"Phosphorus, P",23.0
+4333,swordfish,"Potassium, K",10.0
+4334,swordfish,"Sodium, Na",15.0
+4335,swordfish,"Zinc, Zn",7.0
+4336,swordfish,"Copper, Cu",7.0
+4337,swordfish,"Selenium, Se",113.0
+4338,swordfish,"Vitamin A, RAE",6.0
+4339,swordfish,Vitamin E (alpha-tocopherol),18.0
+4340,swordfish,Vitamin D (D2 + D3),73.0
+4341,swordfish,"Vitamin C, total ascorbic acid",0.0
+4342,swordfish,Thiamin,14.0
+4343,swordfish,Riboflavin,8.0
+4344,swordfish,Niacin,55.0
+4345,swordfish,Vitamin B-6,32.0
+4346,swordfish,Vitamin B-12,68.0
+4347,swordfish,"Choline, total",13.0
+4348,swordfish,Vitamin K (phylloquinone),4.0
+4349,swordfish,Cholesterol,26.0
+4350,swordfish,"Fatty acids, total saturated",2.0
+4351,tamarind,Protein,2.0
+4352,tamarind,Total lipid (fat),0.0
+4353,tamarind,"Calcium, Ca",6.0
+4354,tamarind,"Iron, Fe",16.0
+4355,tamarind,"Magnesium, Mg",22.0
+4356,tamarind,"Phosphorus, P",9.0
+4357,tamarind,"Potassium, K",13.0
+4358,tamarind,"Sodium, Na",1.0
+4359,tamarind,"Zinc, Zn",1.0
+4360,tamarind,"Copper, Cu",10.0
+4361,tamarind,"Selenium, Se",2.0
+4362,tamarind,"Vitamin A, RAE",0.0
+4363,tamarind,Vitamin E (alpha-tocopherol),1.0
+4364,tamarind,Vitamin D (D2 + D3),0.0
+4365,tamarind,"Vitamin C, total ascorbic acid",4.0
+4366,tamarind,Thiamin,36.0
+4367,tamarind,Riboflavin,12.0
+4368,tamarind,Niacin,12.0
+4369,tamarind,Vitamin B-6,4.0
+4370,tamarind,Vitamin B-12,0.0
+4371,tamarind,"Choline, total",2.0
+4372,tamarind,Vitamin K (phylloquinone),2.0
+4373,tamarind,Cholesterol,0.0
+4374,tamarind,"Fatty acids, total saturated",0.0
+4375,tangerine,Protein,0.0
+4376,tangerine,Total lipid (fat),0.0
+4377,tangerine,"Sodium, Na",1.0
+4378,tapioca,Protein,0.0
+4379,tapioca,Total lipid (fat),0.0
+4380,tapioca,"Sodium, Na",0.0
+4381,tarragon,Total lipid (fat),0.0
+4382,tarragon,"Sodium, Na",0.0
+4383,tarragon,Protein,0.0
+4384,tea,Total lipid (fat),0.0
+4385,tea,Protein,0.0
+4386,tea,"Sodium, Na",0.0
+4387,tequila,Protein,0.0
+4388,tequila,Total lipid (fat),0.0
+4389,tequila,"Calcium, Ca",0.0
+4390,tequila,"Iron, Fe",0.0
+4391,tequila,"Magnesium, Mg",0.0
+4392,tequila,"Phosphorus, P",0.0
+4393,tequila,"Potassium, K",0.0
+4394,tequila,"Sodium, Na",0.0
+4395,tequila,"Zinc, Zn",0.0
+4396,tequila,"Copper, Cu",2.0
+4397,tequila,"Selenium, Se",0.0
+4398,tequila,"Vitamin A, RAE",0.0
+4399,tequila,Vitamin E (alpha-tocopherol),0.0
+4400,tequila,Vitamin D (D2 + D3),0.0
+4401,tequila,"Vitamin C, total ascorbic acid",0.0
+4402,tequila,Thiamin,0.0
+4403,tequila,Riboflavin,0.0
+4404,tequila,Niacin,0.0
+4405,tequila,Vitamin B-6,0.0
+4406,tequila,Vitamin B-12,0.0
+4407,tequila,"Choline, total",0.0
+4408,tequila,Vitamin K (phylloquinone),0.0
+4409,tequila,Cholesterol,0.0
+4410,tequila,"Fatty acids, total saturated",0.0
+4411,thyme,Protein,0.0
+4412,thyme,Total lipid (fat),0.0
+4413,thyme,"Sodium, Na",0.0
+4414,thyme,Cholesterol,0.0
+4415,tilapia,Protein,13.0
+4416,tilapia,Total lipid (fat),2.0
+4417,tilapia,"Calcium, Ca",1.0
+4418,tilapia,"Iron, Fe",4.0
+4419,tilapia,"Sodium, Na",19.0
+4420,tilapia,"Vitamin C, total ascorbic acid",1.0
+4421,tilapia,Cholesterol,15.0
+4422,tilapia,"Fatty acids, total saturated",1.0
+4423,tomatillo,Vitamin E (alpha-tocopherol),3.0
+4424,tomatillo,"Choline, total",1.0
+4425,tomatillo,"Vitamin A, RAE",1.0
+4426,tomatillo,Vitamin K (phylloquinone),8.0
+4427,tomatillo,"Fatty acids, total saturated",0.0
+4428,tomatillo,Total lipid (fat),1.0
+4429,tomatillo,"Calcium, Ca",1.0
+4430,tomatillo,"Potassium, K",6.0
+4431,tomatillo,"Zinc, Zn",2.0
+4432,tomatillo,Niacin,12.0
+4433,tomatillo,Pantothenic acid,3.0
+4434,tomatillo,Vitamin B-6,3.0
+4435,tomatillo,Cholesterol,0.0
+4436,tomatillo,"Vitamin C, total ascorbic acid",13.0
+4437,tomatillo,Thiamin,4.0
+4438,tomatillo,Riboflavin,3.0
+4439,tomatillo,Vitamin B-12,0.0
+4440,tomatillo,"Iron, Fe",3.0
+4441,tomatillo,"Magnesium, Mg",5.0
+4442,tomatillo,"Phosphorus, P",3.0
+4443,tomatillo,"Sodium, Na",0.0
+4444,tomatillo,"Copper, Cu",9.0
+4445,tomatillo,"Manganese, Mn",7.0
+4446,tomatillo,Protein,1.0
+4447,tomatillo,Vitamin D (D2 + D3),0.0
+4448,tomatillo,"Selenium, Se",1.0
+4449,tortillas,"Calcium, Ca",11.0
+4450,tortillas,"Iron, Fe",7.0
+4451,tortillas,"Sodium, Na",0.0
+4452,tortillas,"Vitamin C, total ascorbic acid",0.0
+4453,tortillas,Cholesterol,0.0
+4454,tortillas,"Fatty acids, total saturated",0.0
+4455,tortillas,Protein,2.0
+4456,tortillas,Total lipid (fat),1.0
+4457,triple sec,Protein,0.0
+4458,triple sec,Total lipid (fat),0.0
+4459,triple sec,"Sodium, Na",0.0
+4460,tropical fruit,Total lipid (fat),0.0
+4461,tropical fruit,Vitamin E (alpha-tocopherol),1.0
+4462,tropical fruit,Niacin,1.0
+4463,tropical fruit,Pantothenic acid,2.0
+4464,tropical fruit,Vitamin B-6,2.0
+4465,tropical fruit,"Choline, total",1.0
+4466,tropical fruit,"Zinc, Zn",0.0
+4467,tropical fruit,Protein,0.0
+4468,tropical fruit,"Copper, Cu",4.0
+4469,tropical fruit,"Manganese, Mn",2.0
+4470,tropical fruit,"Vitamin A, RAE",0.0
+4471,tropical fruit,Vitamin D (D2 + D3),0.0
+4472,tropical fruit,"Magnesium, Mg",1.0
+4473,tropical fruit,"Phosphorus, P",1.0
+4474,tropical fruit,Thiamin,2.0
+4475,tropical fruit,Riboflavin,2.0
+4476,tropical fruit,Vitamin B-12,0.0
+4477,tropical fruit,Vitamin K (phylloquinone),1.0
+4478,tropical fruit,Cholesterol,0.0
+4479,tropical fruit,"Fatty acids, total saturated",0.0
+4480,tropical fruit,"Selenium, Se",0.0
+4481,tropical fruit,"Calcium, Ca",0.0
+4482,tropical fruit,"Potassium, K",3.0
+4483,tropical fruit,"Vitamin C, total ascorbic acid",18.0
+4484,tropical fruit,"Iron, Fe",0.0
+4485,tropical fruit,"Sodium, Na",0.0
+4486,trout,Protein,11.0
+4487,trout,Total lipid (fat),9.0
+4488,trout,"Calcium, Ca",3.0
+4489,trout,"Iron, Fe",6.0
+4490,trout,"Magnesium, Mg",6.0
+4491,trout,"Phosphorus, P",16.0
+4492,trout,"Potassium, K",7.0
+4493,trout,"Sodium, Na",17.0
+4494,trout,"Zinc, Zn",4.0
+4495,trout,"Copper, Cu",7.0
+4496,trout,"Selenium, Se",38.0
+4497,trout,"Vitamin A, RAE",6.0
+4498,trout,Vitamin E (alpha-tocopherol),25.0
+4499,trout,Vitamin D (D2 + D3),60.0
+4500,trout,"Vitamin C, total ascorbic acid",2.0
+4501,trout,Thiamin,19.0
+4502,trout,Riboflavin,11.0
+4503,trout,Niacin,33.0
+4504,trout,Vitamin B-6,14.0
+4505,trout,Vitamin B-12,124.0
+4506,trout,"Choline, total",10.0
+4507,trout,Vitamin K (phylloquinone),11.0
+4508,trout,Cholesterol,17.0
+4509,trout,"Fatty acids, total saturated",2.0
+4510,tuna,Protein,4.0
+4511,tuna,Total lipid (fat),2.0
+4512,tuna,"Calcium, Ca",3.0
+4513,tuna,"Iron, Fe",4.0
+4514,tuna,"Sodium, Na",19.0
+4515,tuna,"Vitamin C, total ascorbic acid",6.0
+4516,tuna,Cholesterol,2.0
+4517,tuna,"Fatty acids, total saturated",0.0
+4518,turkey,Protein,6.0
+4519,turkey,Total lipid (fat),1.0
+4520,turkey,"Calcium, Ca",3.0
+4521,turkey,"Iron, Fe",6.0
+4522,turkey,"Sodium, Na",23.0
+4523,turkey,"Vitamin C, total ascorbic acid",0.0
+4524,turkey,Cholesterol,11.0
+4525,turkey,"Fatty acids, total saturated",0.0
+4526,turnip,"Vitamin A, RAE",34.0
+4527,turnip,Total lipid (fat),0.0
+4528,turnip,"Calcium, Ca",9.0
+4529,turnip,"Potassium, K",2.0
+4530,turnip,"Zinc, Zn",1.0
+4531,turnip,Niacin,2.0
+4532,turnip,Pantothenic acid,2.0
+4533,turnip,Vitamin B-6,4.0
+4534,turnip,Protein,2.0
+4535,turnip,"Iron, Fe",9.0
+4536,turnip,"Magnesium, Mg",4.0
+4537,turnip,"Phosphorus, P",2.0
+4538,turnip,"Sodium, Na",1.0
+4539,turnip,"Copper, Cu",6.0
+4540,turnip,"Manganese, Mn",10.0
+4541,turnip,"Fatty acids, total saturated",0.0
+4542,turnip,"Vitamin C, total ascorbic acid",29.0
+4543,turnip,Thiamin,4.0
+4544,turnip,Riboflavin,7.0
+4545,turnip,Vitamin B-12,0.0
+4546,turnip,Cholesterol,0.0
+4547,turnip,Vitamin D (D2 + D3),0.0
+4548,turnip,"Selenium, Se",2.0
+4549,vanilla,Protein,2.0
+4550,vanilla,Total lipid (fat),9.0
+4551,vanilla,"Calcium, Ca",9.0
+4552,vanilla,"Iron, Fe",2.0
+4553,vanilla,"Magnesium, Mg",3.0
+4554,vanilla,"Phosphorus, P",8.0
+4555,vanilla,"Potassium, K",3.0
+4556,vanilla,"Sodium, Na",3.0
+4557,vanilla,"Zinc, Zn",4.0
+4558,vanilla,"Copper, Cu",1.0
+4559,vanilla,"Selenium, Se",6.0
+4560,vanilla,"Vitamin A, RAE",20.0
+4561,vanilla,Vitamin E (alpha-tocopherol),3.0
+4562,vanilla,Vitamin D (D2 + D3),2.0
+4563,vanilla,"Vitamin C, total ascorbic acid",0.0
+4564,vanilla,Thiamin,3.0
+4565,vanilla,Riboflavin,13.0
+4566,vanilla,Niacin,1.0
+4567,vanilla,Vitamin B-6,3.0
+4568,vanilla,Vitamin B-12,16.0
+4569,vanilla,"Choline, total",5.0
+4570,vanilla,Vitamin K (phylloquinone),1.0
+4571,vanilla,Cholesterol,31.0
+4572,vanilla,"Fatty acids, total saturated",9.0
+4573,veal,Protein,11.0
+4574,veal,Total lipid (fat),5.0
+4575,veal,"Calcium, Ca",1.0
+4576,veal,"Iron, Fe",6.0
+4577,veal,"Magnesium, Mg",5.0
+4578,veal,"Phosphorus, P",12.0
+4579,veal,"Potassium, K",6.0
+4580,veal,"Sodium, Na",6.0
+4581,veal,"Zinc, Zn",17.0
+4582,veal,"Copper, Cu",15.0
+4583,veal,"Selenium, Se",18.0
+4584,veal,"Vitamin A, RAE",5.0
+4585,veal,Vitamin E (alpha-tocopherol),4.0
+4586,veal,Vitamin D (D2 + D3),0.0
+4587,veal,"Vitamin C, total ascorbic acid",2.0
+4588,veal,Thiamin,8.0
+4589,veal,Riboflavin,20.0
+4590,veal,Niacin,40.0
+4591,veal,Vitamin B-6,11.0
+4592,veal,Vitamin B-12,27.0
+4593,veal,"Choline, total",12.0
+4594,veal,Vitamin K (phylloquinone),16.0
+4595,veal,Cholesterol,23.0
+4596,veal,"Fatty acids, total saturated",3.0
+4597,vegetable,"Fatty acids, total saturated",0.0
+4598,vegetable,Vitamin D (D2 + D3),0.0
+4599,vegetable,"Vitamin A, RAE",34.0
+4600,vegetable,Vitamin K (phylloquinone),20.0
+4601,vegetable,Vitamin E (alpha-tocopherol),3.0
+4602,vegetable,"Choline, total",2.0
+4603,vegetable,Cholesterol,0.0
+4604,vegetable,"Sodium, Na",1.0
+4605,vegetable,Niacin,5.0
+4606,vegetable,Pantothenic acid,5.0
+4607,vegetable,Vitamin B-6,6.0
+4608,vegetable,"Calcium, Ca",2.0
+4609,vegetable,"Potassium, K",4.0
+4610,vegetable,"Zinc, Zn",2.0
+4611,vegetable,Total lipid (fat),0.0
+4612,vegetable,Protein,2.0
+4613,vegetable,"Copper, Cu",8.0
+4614,vegetable,"Iron, Fe",5.0
+4615,vegetable,"Magnesium, Mg",5.0
+4616,vegetable,"Phosphorus, P",2.0
+4617,vegetable,"Vitamin C, total ascorbic acid",6.0
+4618,vegetable,Thiamin,5.0
+4619,vegetable,Riboflavin,5.0
+4620,vegetable,Vitamin B-12,0.0
+4621,vegetable,"Selenium, Se",1.0
+4622,venison,Protein,7.0
+4623,venison,Total lipid (fat),15.0
+4624,venison,"Calcium, Ca",2.0
+4625,venison,"Iron, Fe",7.0
+4626,venison,"Magnesium, Mg",3.0
+4627,venison,"Phosphorus, P",12.0
+4628,venison,"Potassium, K",7.0
+4629,venison,"Sodium, Na",44.0
+4630,venison,"Zinc, Zn",18.0
+4631,venison,"Copper, Cu",6.0
+4632,venison,"Selenium, Se",21.0
+4633,venison,"Vitamin A, RAE",2.0
+4634,venison,Vitamin E (alpha-tocopherol),4.0
+4635,venison,Vitamin D (D2 + D3),3.0
+4636,venison,"Vitamin C, total ascorbic acid",17.0
+4637,venison,Thiamin,2.0
+4638,venison,Riboflavin,5.0
+4639,venison,Niacin,14.0
+4640,venison,Vitamin B-6,9.0
+4641,venison,Vitamin B-12,50.0
+4642,venison,"Choline, total",5.0
+4643,venison,Vitamin K (phylloquinone),2.0
+4644,venison,Cholesterol,19.0
+4645,venison,"Fatty acids, total saturated",9.0
+4646,vermouth,Protein,0.0
+4647,vermouth,Total lipid (fat),6.0
+4648,vermouth,"Sodium, Na",73.0
+4649,vinegar,Protein,0.0
+4650,vinegar,Total lipid (fat),0.0
+4651,vinegar,"Calcium, Ca",1.0
+4652,vinegar,"Iron, Fe",1.0
+4653,vinegar,"Magnesium, Mg",1.0
+4654,vinegar,"Phosphorus, P",1.0
+4655,vinegar,"Potassium, K",2.0
+4656,vinegar,"Sodium, Na",0.0
+4657,vinegar,"Zinc, Zn",0.0
+4658,vinegar,"Copper, Cu",1.0
+4659,vinegar,"Selenium, Se",0.0
+4660,vinegar,"Vitamin A, RAE",0.0
+4661,vinegar,Vitamin E (alpha-tocopherol),0.0
+4662,vinegar,Vitamin D (D2 + D3),0.0
+4663,vinegar,"Vitamin C, total ascorbic acid",0.0
+4664,vinegar,Thiamin,0.0
+4665,vinegar,Riboflavin,0.0
+4666,vinegar,Niacin,0.0
+4667,vinegar,Vitamin B-6,0.0
+4668,vinegar,Vitamin B-12,0.0
+4669,vinegar,"Choline, total",0.0
+4670,vinegar,Vitamin K (phylloquinone),0.0
+4671,vinegar,Cholesterol,0.0
+4672,vinegar,"Fatty acids, total saturated",0.0
+4673,vodka,Protein,0.0
+4674,vodka,Total lipid (fat),0.0
+4675,vodka,"Calcium, Ca",0.0
+4676,vodka,"Iron, Fe",0.0
+4677,vodka,"Magnesium, Mg",0.0
+4678,vodka,"Phosphorus, P",0.0
+4679,vodka,"Potassium, K",0.0
+4680,vodka,"Sodium, Na",0.0
+4681,vodka,"Zinc, Zn",0.0
+4682,vodka,"Copper, Cu",2.0
+4683,vodka,"Selenium, Se",0.0
+4684,vodka,"Vitamin A, RAE",0.0
+4685,vodka,Vitamin E (alpha-tocopherol),0.0
+4686,vodka,Vitamin D (D2 + D3),0.0
+4687,vodka,"Vitamin C, total ascorbic acid",0.0
+4688,vodka,Thiamin,0.0
+4689,vodka,Riboflavin,0.0
+4690,vodka,Niacin,0.0
+4691,vodka,Vitamin B-6,0.0
+4692,vodka,Vitamin B-12,0.0
+4693,vodka,"Choline, total",0.0
+4694,vodka,Vitamin K (phylloquinone),0.0
+4695,vodka,Cholesterol,0.0
+4696,vodka,"Fatty acids, total saturated",0.0
+4697,walnut,Protein,7.0
+4698,walnut,Total lipid (fat),21.0
+4699,walnut,"Calcium, Ca",16.0
+4700,walnut,"Iron, Fe",21.0
+4701,walnut,"Sodium, Na",2.0
+4702,walnut,"Vitamin C, total ascorbic acid",0.0
+4703,walnut,Cholesterol,6.0
+4704,walnut,"Fatty acids, total saturated",10.0
+4705,wasabi,Vitamin K (phylloquinone),3.0
+4706,wasabi,Vitamin E (alpha-tocopherol),26.0
+4707,wasabi,Vitamin D (D2 + D3),0.0
+4708,wasabi,"Vitamin A, RAE",0.0
+4709,wasabi,"Vitamin C, total ascorbic acid",0.0
+4710,wasabi,Thiamin,4.0
+4711,wasabi,Riboflavin,5.0
+4712,wasabi,Vitamin B-12,0.0
+4713,wasabi,Cholesterol,0.0
+4714,wasabi,"Fatty acids, total saturated",2.0
+4715,wasabi,Protein,1.0
+4716,wasabi,"Iron, Fe",3.0
+4717,wasabi,"Magnesium, Mg",5.0
+4718,wasabi,"Phosphorus, P",2.0
+4719,wasabi,"Sodium, Na",147.0
+4720,wasabi,"Copper, Cu",6.0
+4721,wasabi,"Manganese, Mn",6.0
+4722,wasabi,Niacin,1.0
+4723,wasabi,Pantothenic acid,0.0
+4724,wasabi,Vitamin B-6,3.0
+4725,wasabi,"Choline, total",0.0
+4726,wasabi,Total lipid (fat),6.0
+4727,wasabi,"Calcium, Ca",3.0
+4728,wasabi,"Potassium, K",4.0
+4729,wasabi,"Zinc, Zn",6.0
+4730,wasabi,"Selenium, Se",4.0
+4731,watercress,Protein,2.0
+4732,watercress,Total lipid (fat),2.0
+4733,watercress,"Calcium, Ca",10.0
+4734,watercress,"Iron, Fe",1.0
+4735,watercress,"Magnesium, Mg",5.0
+4736,watercress,"Phosphorus, P",5.0
+4737,watercress,"Potassium, K",7.0
+4738,watercress,"Sodium, Na",8.0
+4739,watercress,"Zinc, Zn",1.0
+4740,watercress,"Copper, Cu",9.0
+4741,watercress,"Selenium, Se",2.0
+4742,watercress,"Vitamin A, RAE",19.0
+4743,watercress,Vitamin E (alpha-tocopherol),9.0
+4744,watercress,Vitamin D (D2 + D3),0.0
+4745,watercress,"Vitamin C, total ascorbic acid",35.0
+4746,watercress,Thiamin,7.0
+4747,watercress,Riboflavin,9.0
+4748,watercress,Niacin,1.0
+4749,watercress,Vitamin B-6,9.0
+4750,watercress,Vitamin B-12,0.0
+4751,watercress,"Choline, total",2.0
+4752,watercress,Vitamin K (phylloquinone),219.0
+4753,watercress,Cholesterol,1.0
+4754,watercress,"Fatty acids, total saturated",1.0
+4755,watermelon,Protein,1.0
+4756,watermelon,Total lipid (fat),0.0
+4757,watermelon,"Sodium, Na",0.0
+4758,watermelon,Cholesterol,0.0
+4759,watermelon,"Fatty acids, total saturated",0.0
+4760,wedding,Protein,3.0
+4761,wedding,Total lipid (fat),2.0
+4762,wedding,"Calcium, Ca",3.0
+4763,wedding,"Iron, Fe",4.0
+4764,wedding,"Magnesium, Mg",3.0
+4765,wedding,"Phosphorus, P",4.0
+4766,wedding,"Potassium, K",3.0
+4767,wedding,"Sodium, Na",17.0
+4768,wedding,"Zinc, Zn",8.0
+4769,wedding,"Copper, Cu",5.0
+4770,wedding,"Selenium, Se",12.0
+4771,wedding,"Vitamin A, RAE",7.0
+4772,wedding,Vitamin E (alpha-tocopherol),2.0
+4773,wedding,Vitamin D (D2 + D3),0.0
+4774,wedding,"Vitamin C, total ascorbic acid",3.0
+4775,wedding,Thiamin,12.0
+4776,wedding,Riboflavin,8.0
+4777,wedding,Niacin,7.0
+4778,wedding,Vitamin B-6,5.0
+4779,wedding,Vitamin B-12,13.0
+4780,wedding,"Choline, total",3.0
+4781,wedding,Vitamin K (phylloquinone),10.0
+4782,wedding,Cholesterol,6.0
+4783,wedding,"Fatty acids, total saturated",1.0
+4784,whiskey,Protein,0.0
+4785,whiskey,Total lipid (fat),0.0
+4786,whiskey,"Calcium, Ca",0.0
+4787,whiskey,"Iron, Fe",0.0
+4788,whiskey,"Magnesium, Mg",0.0
+4789,whiskey,"Phosphorus, P",0.0
+4790,whiskey,"Potassium, K",0.0
+4791,whiskey,"Sodium, Na",0.0
+4792,whiskey,"Zinc, Zn",0.0
+4793,whiskey,"Copper, Cu",2.0
+4794,whiskey,"Selenium, Se",0.0
+4795,whiskey,"Vitamin A, RAE",0.0
+4796,whiskey,Vitamin E (alpha-tocopherol),0.0
+4797,whiskey,Vitamin D (D2 + D3),0.0
+4798,whiskey,"Vitamin C, total ascorbic acid",0.0
+4799,whiskey,Thiamin,0.0
+4800,whiskey,Riboflavin,0.0
+4801,whiskey,Niacin,0.0
+4802,whiskey,Vitamin B-6,0.0
+4803,whiskey,Vitamin B-12,0.0
+4804,whiskey,"Choline, total",0.0
+4805,whiskey,Vitamin K (phylloquinone),0.0
+4806,whiskey,Cholesterol,0.0
+4807,whiskey,"Fatty acids, total saturated",0.0
+4808,white wine,Protein,0.0
+4809,white wine,Total lipid (fat),0.0
+4810,white wine,"Calcium, Ca",1.0
+4811,white wine,"Iron, Fe",2.0
+4812,white wine,"Magnesium, Mg",2.0
+4813,white wine,"Phosphorus, P",1.0
+4814,white wine,"Potassium, K",2.0
+4815,white wine,"Sodium, Na",0.0
+4816,white wine,"Zinc, Zn",1.0
+4817,white wine,"Copper, Cu",0.0
+4818,white wine,"Selenium, Se",0.0
+4819,white wine,"Vitamin A, RAE",0.0
+4820,white wine,Vitamin E (alpha-tocopherol),0.0
+4821,white wine,Vitamin D (D2 + D3),0.0
+4822,white wine,"Vitamin C, total ascorbic acid",0.0
+4823,white wine,Thiamin,0.0
+4824,white wine,Riboflavin,1.0
+4825,white wine,Niacin,1.0
+4826,white wine,Vitamin B-6,3.0
+4827,white wine,Vitamin B-12,0.0
+4828,white wine,"Choline, total",1.0
+4829,white wine,Vitamin K (phylloquinone),0.0
+4830,white wine,Cholesterol,0.0
+4831,white wine,"Fatty acids, total saturated",0.0
+4832,whole wheat,Protein,8.0
+4833,whole wheat,Total lipid (fat),4.0
+4834,whole wheat,"Calcium, Ca",8.0
+4835,whole wheat,"Iron, Fe",13.0
+4836,whole wheat,"Sodium, Na",18.0
+4837,whole wheat,"Vitamin C, total ascorbic acid",0.0
+4838,whole wheat,"Fatty acids, total saturated",1.0
+4839,wild rice,Protein,9.0
+4840,wild rice,Total lipid (fat),1.0
+4841,wild rice,"Calcium, Ca",0.0
+4842,wild rice,"Iron, Fe",9.0
+4843,wild rice,"Phosphorus, P",27.0
+4844,wild rice,"Potassium, K",6.0
+4845,wild rice,"Sodium, Na",0.0
+4846,wild rice,"Zinc, Zn",30.0
+4847,wild rice,"Vitamin C, total ascorbic acid",0.0
+4848,wild rice,Riboflavin,17.0
+4849,wild rice,Niacin,42.0
+4850,wild rice,Vitamin B-6,26.0
+4851,wild rice,Cholesterol,0.0
+4852,wild rice,"Fatty acids, total saturated",0.0
+4853,wine,Protein,0.0
+4854,wine,Total lipid (fat),0.0
+4855,wine,"Calcium, Ca",0.0
+4856,wine,"Iron, Fe",1.0
+4857,wine,"Magnesium, Mg",1.0
+4858,wine,"Phosphorus, P",0.0
+4859,wine,"Potassium, K",1.0
+4860,wine,"Sodium, Na",0.0
+4861,wine,"Zinc, Zn",0.0
+4862,wine,"Copper, Cu",1.0
+4863,wine,"Selenium, Se",3.0
+4864,wine,"Vitamin A, RAE",0.0
+4865,wine,Vitamin E (alpha-tocopherol),0.0
+4866,wine,Vitamin D (D2 + D3),0.0
+4867,wine,"Vitamin C, total ascorbic acid",0.0
+4868,wine,Thiamin,0.0
+4869,wine,Riboflavin,0.0
+4870,wine,Niacin,0.0
+4871,wine,Vitamin B-6,0.0
+4872,wine,Vitamin B-12,0.0
+4873,wine,"Choline, total",0.0
+4874,wine,Vitamin K (phylloquinone),0.0
+4875,wine,Cholesterol,0.0
+4876,wine,"Fatty acids, total saturated",0.0
+4877,wok,Protein,0.0
+4878,wok,"Iron, Fe",0.0
+4879,wok,"Magnesium, Mg",0.0
+4880,wok,"Phosphorus, P",0.0
+4881,wok,"Sodium, Na",0.0
+4882,wok,"Copper, Cu",0.0
+4883,wok,"Manganese, Mn",0.0
+4884,wok,"Vitamin C, total ascorbic acid",0.0
+4885,wok,Thiamin,0.0
+4886,wok,Riboflavin,0.0
+4887,wok,Vitamin B-12,0.0
+4888,wok,Cholesterol,0.0
+4889,wok,Total lipid (fat),56.0
+4890,wok,Niacin,0.0
+4891,wok,Pantothenic acid,0.0
+4892,wok,Vitamin B-6,0.0
+4893,wok,"Calcium, Ca",0.0
+4894,wok,"Potassium, K",0.0
+4895,wok,"Zinc, Zn",0.0
+4896,wok,"Selenium, Se",0.0
+4897,wok,Vitamin E (alpha-tocopherol),117.0
+4898,wok,"Vitamin A, RAE",0.0
+4899,wok,Vitamin K (phylloquinone),59.0
+4900,wok,"Fatty acids, total saturated",6.0
+4901,wok,"Choline, total",0.0
+4902,yellow squash,Protein,1.0
+4903,yellow squash,Total lipid (fat),0.0
+4904,yellow squash,"Calcium, Ca",2.0
+4905,yellow squash,"Iron, Fe",2.0
+4906,yellow squash,"Sodium, Na",0.0
+4907,yellow squash,"Vitamin C, total ascorbic acid",20.0
+4908,yellow squash,Cholesterol,0.0
+4909,yellow squash,"Fatty acids, total saturated",0.0
+4910,yogurt,"Calcium, Ca",9.0
+4911,yogurt,"Iron, Fe",0.0
+4912,yogurt,"Vitamin C, total ascorbic acid",1.0
+4913,yogurt,Protein,2.0
+4914,yogurt,Total lipid (fat),2.0
+4915,yogurt,"Sodium, Na",2.0
+4916,yogurt,Cholesterol,4.0
+4917,yogurt,"Fatty acids, total saturated",1.0
+4918,yuca,Protein,1.0
+4919,yuca,Total lipid (fat),0.0
+4920,yuca,"Calcium, Ca",0.0
+4921,yuca,"Iron, Fe",0.0
+4922,yuca,"Sodium, Na",23.0
+4923,yuca,"Vitamin C, total ascorbic acid",0.0
+4924,yuca,Cholesterol,0.0
+4925,yuca,"Fatty acids, total saturated",0.0
+4926,zucchini,Protein,1.0
+4927,zucchini,Total lipid (fat),0.0
+4928,zucchini,"Calcium, Ca",2.0
+4929,zucchini,"Iron, Fe",2.0
+4930,zucchini,"Potassium, K",5.0
+4931,zucchini,"Sodium, Na",0.0
+4932,zucchini,"Vitamin C, total ascorbic acid",14.0
+4933,zucchini,Cholesterol,0.0
+4934,zucchini,"Fatty acids, total saturated",0.0
